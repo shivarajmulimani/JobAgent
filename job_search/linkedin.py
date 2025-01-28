@@ -2,20 +2,26 @@ import json
 from pprint import pprint
 from linkedin_api import Linkedin
 
-with open("credentials.json", "r") as f:
-    credentials = json.load(f)
+
+class LinkedInAPI:
+    def __init__(self, credentials):
+        self.linkedin = Linkedin(credentials["username"], credentials["password"])
+
+    def search_jobs(self):
+        try:
+            jobs = self.linkedin.search_jobs(limit=10)
+            return jobs
+        except Exception as e:
+            print("failed to search jobs - ", e)
 
 
-# Authenticate using any Linkedin user account credentials
-api = Linkedin(credentials["username"], credentials["password"])
+def unit_test():
+    with open("credentials.json", "r") as file:
+        credentials = json.load(file)
 
-# GET a profile
-profile = api.search_jobs(keywords="Data science", limit=5)
+    api = LinkedInAPI(credentials)
+    jobs = api.search_jobs()
+    print(jobs)
 
-# GET a profiles contact info
-# contact_info = api.get_profile_contact_info('billy-g')
-
-# GET 1st degree connections of a given profile
-# connections = api.get_profile_connections('1234asc12304')
-
-pprint(profile)
+if __name__ == "__main__":
+    unit_test()
