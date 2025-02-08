@@ -1,0 +1,60 @@
+import os
+import sys
+import uuid
+import pandas as pd
+
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+from Agents.jobs_matching_agent import JobMatchingAgent
+from Agents.resume_update_agent import ResumeUpdateAgent
+from utils.generic_utility import *
+from utils import constants as CS
+from utils import stringcontants as SC
+
+class AgentArchestration:
+    def __init__(self, resume, jobs):
+        self.resume = resume
+        self.jobs = jobs
+        self.job_matching_agent = JobMatchingAgent(resume)
+        self.resume_updating_agent = ResumeUpdateAgent(resume)
+
+    def execute_agents(self):
+        try:
+            for index, row in self.jobs.iterrows():
+                match_response = None
+                resume_update_response = None
+                job_description = row['description']
+                job_url = row['job_url']
+                title = row['title']
+                company = row['company']
+                match_response = self.job_matching_agent.run_agent(job_description)
+                print(company)
+                print(title)
+                print(job_url)
+                if match_response:
+                    print(match_response.content.rating)
+                    print(match_response.content.justification)
+                    resume_update_response = self.resume_updating_agent.run_agent(match_response.content.justification)
+                    print(resume_update_response.content)
+                    filename = str(uuid.uuid4()) + ".txt"
+                    write_to_file(filename, resume_update_response.content)
+                break
+        except Exception as e:
+            print("Failed to execute the agent - ", e)
+
+    def run_agent(self, resume_justification):
+        try:
+            response = None
+            if resume_justification:
+                response = self.execute_agent(resume_justification)
+        except Exception as e:
+            print("Failed to run resume updating agent - ", e)
+        return response
+
+if __name__ == "__main__":
+    with open(SC.RESUME_DATA_FILE, 'r') as file:
+        resume = file.read()
+    jobs = pd.read_json(SC.SCRAPED_JOBS_DATA_FILE_JSON)
+
+    jma = AgentArchestration(resume, jobs)
+    jma.execute_agents()
