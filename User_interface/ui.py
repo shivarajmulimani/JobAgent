@@ -1,13 +1,15 @@
 import streamlit as st
 import difflib
 import os
+import pandas as pd
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+from utils import constants as CS
+from utils import stringcontants as SC
 
 # Enable wide mode for better layout
 st.set_page_config(layout="wide")
-
-# Fixed directory path
-DIRECTORY_PATH = "../data/updated_resumes"
-
 
 def read_file(filepath):
     """Reads a text file from a fixed directory and returns its content as a string."""
@@ -16,7 +18,6 @@ def read_file(filepath):
             return file.read()
     except FileNotFoundError:
         return ""
-
 
 def word_level_diff(text1, text2):
     """Generates a Bitbucket-style side-by-side code diff with proper color coding."""
@@ -49,10 +50,9 @@ def word_level_diff(text1, text2):
         '<div style="white-space: pre-wrap; font-family: monospace;">' + "<br>".join(file2_diff) + '</div>'
     )
 
-
 # Streamlit UI
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Choose a section", ["Home", "Updated Resume", "Other Tab 1", "Other Tab 2"])
+page = st.sidebar.radio("Choose a section", ["Home", "Updated Resume", "Collected job Profiles", "Analyse jobs with resume"])
 
 if page == "Home":
     st.title("Welcome to the Application")
@@ -88,8 +88,8 @@ elif page == "Updated Resume":
     st.title("Updated Resume")
 
     # Fixed file names
-    file1_path = os.path.join(DIRECTORY_PATH, "e6ca652e-f382-48b8-8348-8c7ce0a02ad8.txt")
-    file2_path = os.path.join(DIRECTORY_PATH, "resume_content.txt")
+    file1_path = SC.RESUME_DATA_FILE
+    file2_path = os.path.join(SC.UPDATED_RESUME_STORAGE_PATH, "resume_content.txt")
 
     text1 = read_file(file1_path)
     text2 = read_file(file2_path)
@@ -105,10 +105,41 @@ elif page == "Updated Resume":
     else:
         st.error("One or both files are missing in the directory.")
 
-elif page == "Other Tab 1":
-    st.title("Other Tab 1")
-    st.write("Content for other tab 1 goes here.")
+elif page == "Collected job Profiles":
+    st.title("Collected job Profiles")
 
-elif page == "Other Tab 2":
+    df = pd.read_csv(SC.SCRAPED_JOBS_DATA_FILE_CSV)
+
+    # Display dataframe
+    st.write("Scrapped jobs data")
+    st.dataframe(df)
+
+    # Show summary statistics
+    st.write("Data Summary:")
+    # Identify numeric and categorical columns
+    numeric_columns = df.select_dtypes(include=['number']).columns.tolist()
+    categorical_columns = df.select_dtypes(exclude=['number']).columns.tolist()
+
+    chart_type = st.radio("Select Chart Type:", ["Numerical Data", "Categorical Data"])
+
+    if chart_type == "Numerical Data" and numeric_columns:
+        selected_column = st.selectbox("Select a numeric column for bar chart", numeric_columns)
+        st.write(f"### Bar Chart for {selected_column}")
+        st.bar_chart(df[selected_column])
+
+    elif chart_type == "Categorical Data" and categorical_columns:
+        selected_column = st.selectbox("Select a categorical column for bar chart", categorical_columns)
+
+        # Count occurrences of each category
+        category_counts = df[selected_column].value_counts()
+
+        # Show bar chart
+        st.write(f"### Category Count for {selected_column}")
+        st.bar_chart(category_counts)
+
+    else:
+        st.warning("No appropriate columns available for visualization.")
+
+elif page == "Analyse jobs with resume":
     st.title("Other Tab 2")
     st.write("Content for other tab 2 goes here.")
