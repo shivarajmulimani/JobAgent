@@ -161,8 +161,10 @@ elif page == "Analyse jobs with resume":
 
     selected_row = grid_response.get("selected_rows", [])  # Handle None case
     # import pdb;pdb.set_trace()
-
-    row_index = pd.DataFrame(selected_row).iloc[0, 0]
+    if selected_row is not None and not selected_row.empty:
+        row_index = pd.DataFrame(selected_row).iloc[0, 0]
+    else:
+        row_index = None
 
     if row_index:  # Ensure a row is selected
         # Find the actual index using the "id" column
