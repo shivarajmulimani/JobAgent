@@ -9,6 +9,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from utils import constants as CS
 from utils import stringcontants as SC
 from archestration.master import AgentArchestration
+from Agents.job_search_guidelines_agent import JobSearchGuidelines
+from job_search.jobspy_scraper import JobScraper
 
 with open(SC.RESUME_DATA_FILE, 'r') as file:
     resume = file.read()
@@ -59,9 +61,23 @@ def word_level_diff(text1, text2):
         '<div style="white-space: pre-wrap; font-family: monospace;">' + "<br>".join(file2_diff) + '</div>'
     )
 
-# Streamlit UI
+def highlight_text(text, bg_color="#D4EDDA", text_color="#155724"):
+    return f"""
+    <span style="
+        background-color: {bg_color}; 
+        padding: 4px 8px; 
+        border-radius: 6px; 
+        color: {text_color}; 
+        font-weight: bold;
+        font-size: 16px;
+        display: inline-block;
+        margin: 4px;">
+        {text}
+    </span>
+    """
+
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Choose a section", ["Home", "Updated Resume", "Collected job Profiles", "Analyse jobs with resume"])
+page = st.sidebar.radio("Choose a section", ["Home", "Search jobs", "Collected job Profiles", "Analyse jobs with resume", "Updated Resume"])
 
 if page == "Home":
     st.title("Welcome to the Application")
@@ -93,26 +109,49 @@ if page == "Home":
     st.subheader("Get Started")
     st.write("Use the navigation on the left to switch between different sections.")
 
-elif page == "Updated Resume":
-    st.title("Updated Resume")
+if page == "Search jobs":
+    st.markdown("## 📤 Upload your resume in .txt format")
+    uploaded_file = st.file_uploader("Choose a .txt file", type=["txt"])
 
-    # Fixed file names
-    file1_path = SC.RESUME_DATA_FILE
-    file2_path = os.path.join(SC.UPDATED_RESUME_STORAGE_PATH, "resume_content.txt")
+    # Step 2: Read File in Background
+    file_content = None
+    if uploaded_file is not None:
+        file_content = uploaded_file.read().decode("utf-8")
+        jsa = JobSearchGuidelines(file_content)
+        response = jsa.run_agent(CS.JOB_SEARCHING_AGENT_QUESTION)
 
-    text1 = read_file(file1_path)
-    text2 = read_file(file2_path)
+        if response:
+            job_profile = response.content.job_profile
+            st.markdown("#### Job title :")
+            highlighted_html = highlight_text(job_profile)
+            st.markdown(highlighted_html, unsafe_allow_html=True)
 
-    if text1 and text2:
-        file1_diff, file2_diff = word_level_diff(text1, text2)
+            st.markdown("#### You can also consider these titles :")
+            alternatives = response.content.alternatives
+            highlighted_html = " ".join([highlight_text(text, "#FFF3CD", "#856404") for text in alternatives])
+            st.markdown(highlighted_html, unsafe_allow_html=True)
 
-        col1, col2 = st.columns(2)
-        with col1:
-            st.markdown(file1_diff, unsafe_allow_html=True)
-        with col2:
-            st.markdown(file2_diff, unsafe_allow_html=True)
-    else:
-        st.error("One or both files are missing in the directory.")
+    # Step 3: Show Confirmation Button
+    if file_content:
+        if st.button("Search for suitable jobs"):
+            scraper = JobScraper(
+                site_names=CS.SITE_NAMES,
+                search_term=job_profile,
+                google_search_term=job_profile,
+                job_type=CS.JOB_TYPE,
+                location=CS.LOCATION,
+                results_wanted=CS.RESULTS_WANTED,
+                hours_old=CS.HOURS_OLD,
+                linkedin_fetch_description=CS.LINKED_FETCH_DESCRIPTION
+            )
+
+            with st.spinner("⏳ Processing... Please wait."):
+                scraper.scrape_jobs()
+                scraper.save_to_csv()
+                jobs_json = scraper.to_json()
+
+            st.markdown("#### List of suitable jobs")
+            st.success(st.dataframe(pd.read_json(jobs_json)))
 
 elif page == "Collected job Profiles":
     st.title("Collected job Profiles")
@@ -233,3 +272,24 @@ elif page == "Analyse jobs with resume":
                 file_name="resume.txt",
                 mime="text/plain"
             )
+
+elif page == "Updated Resume":
+    st.title("Updated Resume")
+
+    # Fixed file names
+    file1_path = SC.RESUME_DATA_FILE
+    file2_path = os.path.join(SC.UPDATED_RESUME_STORAGE_PATH, "205cf17c-0839-4ff8-be37-bba8723196c9.txt")
+
+    text1 = read_file(file1_path)
+    text2 = read_file(file2_path)
+
+    if text1 and text2:
+        file1_diff, file2_diff = word_level_diff(text1, text2)
+
+        col1, col2 = st.columns(2)
+        with col1:
+            st.markdown(file1_diff, unsafe_allow_html=True)
+        with col2:
+            st.markdown(file2_diff, unsafe_allow_html=True)
+    else:
+        st.error("One or both files are missing in the directory.")

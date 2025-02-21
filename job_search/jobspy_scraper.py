@@ -2,6 +2,8 @@ import csv
 import json
 import os
 import sys
+
+import pandas as pd
 from jobspy import scrape_jobs
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from utils import stringcontants as SC
@@ -91,7 +93,7 @@ class JobScraper:
 if __name__ == "__main__":
     scraper = JobScraper(
         site_names=["linkedin", "glassdoor", "google"],
-        search_term="Data Scientist",
+        search_term="AI Engineer",
         google_search_term="Data Scientist",
         job_type="fulltime",
         location="India, Bangalore",
@@ -103,4 +105,4 @@ if __name__ == "__main__":
     # scraper.display_head()
     scraper.save_to_csv()
     jobs_json = scraper.to_json()
-    print(jobs_json)  # Print the JSON representation of the scraped jobs
+    print(pd.read_json(jobs_json))  # Print the JSON representation of the scraped jobs
