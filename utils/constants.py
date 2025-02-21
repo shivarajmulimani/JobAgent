@@ -1,4 +1,15 @@
+JOB_SEARCHING_AGENT_NAME = "Job searching"
+JOB_SEARCHING_AGENT_INTRODUCTION = "you will be given with a resume and set of questions, you will be answering to the questions"
 
+JOB_SEARCHING_AGENT_INSTRUCTION = ["First understand the resume",
+                                  "Understand the questions",
+                                  "Provide answer to question with no explaination",
+                                  "Along with answer you can suggest some more similar titles"
+                                  "return response in json"]
+
+JOB_SEARCHING_AGENT_QUESTION = "What is the job profile mentioned in resume, also provide 2 alternatives to the job title?"
+
+#######################################################################################################################
 
 JOB_MATCHING_AGENT_NAME = "Job matching"
 JOB_MATCHING_AGENT_INTRODUCTION = "you will be given with a resume and job application you task is to tell wether given job application suitable to the resume ot not"
@@ -22,4 +33,11 @@ RESUME_UPDATE_AGENT_INSTRUCTION = ["First understand the resume",
                                   "only return the updated resume maintain the same format and indents and new lines"
                                   "return response in text"
     ]
+#######################################################################################################################
 
+SITE_NAMES = ["linkedin", "glassdoor", "google"]
+JOB_TYPE = "fulltime"
+LOCATION = " India, Bangalore"
+RESULTS_WANTED = 50
+HOURS_OLD = 72
+LINKED_FETCH_DESCRIPTION = True
