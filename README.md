@@ -1,6 +1,6 @@
 # Welcome to the JobAgent Application
 
-This application allows you to search, match and preparation your resume for the jobs.
+This application allows you to search, match and preparation of your resume for the jobs.
 
 ## How It Works
 
