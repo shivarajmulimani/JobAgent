@@ -80,34 +80,12 @@ st.sidebar.title("Navigation")
 page = st.sidebar.radio("Choose a section", ["Home", "Search jobs", "Collected job Profiles", "Analyse jobs with resume", "Updated Resume"])
 
 if page == "Home":
-    st.title("Welcome to the Application")
-    st.write("This application allows you to compare text files and visualize differences in a Bitbucket-style format.")
+    # Read the README.md file
+    with open("../README.md", "r", encoding="utf-8") as file:
+        readme_text = file.read()
 
-    st.subheader("How It Works")
-    st.write("1. The application reads two fixed text files from a directory.")
-    st.write("2. It compares them line by line and highlights the differences.")
-    st.write("3. Changes are displayed side by side, with additions, deletions, and modifications color-coded.")
-
-    st.subheader("Process Flow")
-
-    # Ensure correct GIF size
-    st.image("giphy.gif", caption="Process Flow Animation", width=200)
-
-    # Optional CSS fix for stubborn sizing issues
-    st.markdown(
-        """
-        <style>
-        img {
-            max-width: 200px !important;
-            height: auto !important;
-        }
-        </style>
-        """,
-        unsafe_allow_html=False
-    )
-
-    st.subheader("Get Started")
-    st.write("Use the navigation on the left to switch between different sections.")
+        # Display the README content
+        st.markdown(readme_text, unsafe_allow_html=True)
 
 if page == "Search jobs":
     st.markdown("## 📤 Upload your resume in .txt format")
@@ -131,15 +109,25 @@ if page == "Search jobs":
             highlighted_html = " ".join([highlight_text(text, "#FFF3CD", "#856404") for text in alternatives])
             st.markdown(highlighted_html, unsafe_allow_html=True)
 
+            # Creating columns to limit text input width
+            col1, col2, col3 = st.columns([1, 1, 1])  # Adjust column ratios for width control
+
+            with col1:  # Centering the text input
+                user_location = st.text_input("Enter your city:", "Bangalore")
+
+            with col2:  # Centering the dropdown
+                titles = [response.content.job_profile] + response.content.alternatives
+                user_title = st.selectbox("Select job title:", titles, index=0)
+
     # Step 3: Show Confirmation Button
     if file_content:
         if st.button("Search for suitable jobs"):
             scraper = JobScraper(
                 site_names=CS.SITE_NAMES,
-                search_term=job_profile,
-                google_search_term=job_profile,
+                search_term=user_title,
+                google_search_term=user_title,
                 job_type=CS.JOB_TYPE,
-                location=CS.LOCATION,
+                location=user_location,
                 results_wanted=CS.RESULTS_WANTED,
                 hours_old=CS.HOURS_OLD,
                 linkedin_fetch_description=CS.LINKED_FETCH_DESCRIPTION
