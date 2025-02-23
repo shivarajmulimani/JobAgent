@@ -72,6 +72,7 @@ def analysejobs_page():
                 st.markdown("</ul>", unsafe_allow_html=True)
 
                 resume_text = response.get('updated resume')
+                st.session_state["updated_resume"] = resume_text
                 # st.write(response.get('updated resume'))
 
                 # Properly formatted HTML for text visibility

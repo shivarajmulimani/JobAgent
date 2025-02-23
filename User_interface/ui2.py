@@ -7,6 +7,7 @@ from User_interface.home_page import show_homepage
 from User_interface.searchjobs_page import searchjobs_page
 from User_interface.collectedjobs_page import collectedjobs_page
 from User_interface.analysejobs_page import analysejobs_page
+from User_interface.updatedresume_page import updatedjobs_page
 
 # Enable wide mode for better layout
 st.set_page_config(layout="wide")
@@ -22,6 +23,10 @@ class UI:
         if "collected_jobs_json" not in st.session_state:
             st.session_state["collected_jobs_json"] = None
             st.session_state["collected_jobs_df"] = None
+
+        if "updated_resume" not in st.session_state:
+            st.session_state["updated_resume"] = None
+
 
     def start_ui(self):
         st.sidebar.title("Navigation")
@@ -42,6 +47,9 @@ class UI:
 
         if page == "Analyse jobs with resume":
             analysejobs_page()
+
+        if page == "Updated Resume":
+            updatedjobs_page()
 
 
 if __name__ == "__main__":
