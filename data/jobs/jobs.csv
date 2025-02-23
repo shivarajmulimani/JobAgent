@@ -1,94 +1,5 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
-"gd-1009647589791","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009647589791","","Data Engineer/Senior Data Engineer - BLR","Aarki","Bengaluru","2025-02-22","","direct_data","yearly",485000.0,737500.0,"INR",False,"","","organic","","**About Us**
-
-
-Aarki is an AI company that builds advertising solutions to drive mobile revenue growth. We use AI to find audiences in a privacy\\-first world by using trillions of contextual bidding signals coupled with proprietary behavioral models. Our audience engagement platform includes a full\\-service agency team and Unified Creative Strategy that delivers ad creative ideation and execution. We have worked with hundreds of advertisers over 14 years and see 5M mobile ad requests per second from over 10B devices driving performance for publishers and brands. It is independently operated and headquartered in San Francisco, CA with offices across the United States, EMEA, and APAC.
-
-
-**Role Overview:**  
-
-Aarki is seeking a talented **Data Engineer** to join our engineering team. This role is ideal for a skilled developer with a strong background in big data processing, data pipeline development, and distributed systems. As a Data Engineer, you will play a crucial role in designing, building, and maintaining the data infrastructure that powers Aarki's AI\\-driven advertising platform. You will collaborate closely with data scientists, software engineers, and product managers to ensure efficient and scalable data solutions.
-
-
-**Key Responsibilities:**
-
-
-* Design, develop, and maintain scalable data pipelines and ETL processes for handling large\\-scale data from multiple sources.
-* Optimize data storage, processing, and retrieval for high\\-performance analytics and machine learning applications.
-* Work closely with data scientists to prepare, clean, and structure data for machine learning model development and deployment.
-* Develop and maintain real\\-time and batch data processing systems using technologies like Spark, Kafka, and Flink.
-* Implement monitoring, logging, and alerting solutions to ensure the reliability of data pipelines.
-* Ensure data security, governance, and compliance with industry regulations.
-* Collaborate with engineering teams to integrate data solutions into Aarki's broader ad\\-tech infrastructure.
-
-
-**Qualifications \\& Skills:**
-
-
-* 3\\+ years of experience in data engineering, big data processing, or related roles (6\\+ years for Senior Data Engineer role)
-* Strong programming skills in Python, Java, or Scala.
-* Experience with distributed data processing frameworks such as Apache Spark, Flink, or Hadoop.
-* Strong understanding of SQL and NoSQL databases for data storage and retrieval.
-* Experience with real\\-time data streaming technologies like Apache Kafka or Pulsar.
-* Knowledge of containerization and orchestration tools like Docker and Kubernetes is a plus.
-* Strong problem\\-solving skills and ability to work in a fast\\-paced environment.
-* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
-
-
-If you're passionate about data engineering and want to work on innovative AI\\-driven advertising solutions, we'd love to hear from you! Apply today.","","https://www.glassdoor.com/Overview/W-EI_IE664193.htm","https://media.glassdoor.com/sql/664193/aarki-squareLogo-1713370543302.png","","","","",""
-"gd-1009647990258","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009647990258","","Developer - GCP & Data Engineer","CGI","Bengaluru","2025-02-22","","direct_data","yearly",600000.0,700000.0,"INR",False,"","","organic","","Key Responsibilities:  
-
-* Design and develop scalable data engineering solutions using Google Cloud Platform (GCP) and PySpark.
-* Optimize Spark jobs for performance, scalability, and efficient resource utilization.
-* Develop, maintain, and enhance ETL pipelines using BigQuery, Apache Airflow, and Cloud Composer.
-* Collaborate with data scientists, analysts, and DevOps teams to translate business requirements into technical solutions.
-* Ensure data integrity and security by implementing data governance, compliance, and security best practices.
-* Monitor production workloads, troubleshoot performance issues, and implement enhancements.
-* Implement and enforce coding standards, best practices, and performance tuning strategies.
-* Support migration activities from on\\-premises data warehouses to GCP\\-based solutions.
-* Mentor junior developers and contribute to knowledge\\-sharing within the team.
-* Stay up to date with emerging cloud technologies, tools, and best practices in the data engineering ecosystem.
-
-
-Required Skills \\& Experience:  
-
-* ņ\\+ years of total experience in data engineering.
-* ń\\+ years of hands\\-on experience with Google Cloud Platform (GCP), including BigQuery, Apache Airflow, and Cloud Composer.
-* Strong expertise in developing and optimizing large\\-scale data processing solutions using Pyspark and Python.
-* In\\-depth knowledge of SQL for data transformation and performance optimization.
-* Proficiency in big data technologies such as Hadoop, HDFS, Hive, and YARN.
-* Experience with distributed computing principles, data partitioning, and fault tolerance.
-* Hands\\-on experience with CI/CD pipelines, version control (Git), and automation tools.
-* Strong problem\\-solving, analytical, and troubleshooting skills.
-* Experience working in Agile/Scrum environments.
-* Excellent communication and collaboration skills to work with offshore and onshore teams.
-**Your future duties and responsibilities**
-
-**Required qualifications to be successful in this role**
-
-**Together, as owners, let’s turn meaningful insights into action.**  
-
-  
-
-Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
-
-  
-
-You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
-
-  
-
-Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
-
-  
-
-You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
-  
-
-  
-
-Come join our team—one of the largest IT and business consulting services firms in the world.","","https://www.glassdoor.com/Overview/W-EI_IE8452.htm","https://media.glassdoor.com/sql/8452/cgi-squarelogo-1451998175252.png","","","","",""
-"gd-1009647990272","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009647990272","","Developer - GCP & Data Engineer","CGI","Bengaluru","2025-02-22","","direct_data","yearly",435000.0,780250.0,"INR",False,"","","organic","","Key Responsibilities:  
+"gd-1009647990272","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009647990272","","Developer - GCP & Data Engineer","CGI","Bengaluru","2025-02-23","","direct_data","yearly",435000.0,780250.0,"INR",False,"","","organic","","Key Responsibilities:  
 
 * Design and develop scalable data engineering solutions using Google Cloud Platform (GCP) and PySpark.
 * Optimize Spark jobs for performance, scalability, and efficient resource utilization.
@@ -141,7 +52,7 @@ Vous ferez évoluer votre carrière en vous joignant à une entreprise bâtie po
   
 
 Joignez\\-vous à nous, l’une des plus importantes entreprises de conseil en technologie de l’information (TI) et en management au monde.","","https://www.glassdoor.com/Overview/W-EI_IE8452.htm","https://media.glassdoor.com/sql/8452/cgi-squarelogo-1451998175252.png","","","","",""
-"gd-1009647359554","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009647359554","","Senior Software Engineer Lead - SRE with Devops","Optum","Bengaluru","2025-02-22","","direct_data","yearly",500000.0,850000.0,"INR",False,"","","organic","","Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by diversity and inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health equity on a global scale. Join us to start **Caring. Connecting. Growing together.**
+"gd-1009647359554","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009647359554","","Senior Software Engineer Lead - SRE with Devops","Optum","Bengaluru","2025-02-23","","direct_data","yearly",500000.0,850000.0,"INR",False,"","","organic","","Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by diversity and inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health equity on a global scale. Join us to start **Caring. Connecting. Growing together.**
 
   
 
@@ -187,7 +98,44 @@ Optum AI is chartered to drive value on high impact enterprise AI problems, demo
 
 
 *At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone–of every race, gender, sexuality, age, location and income–deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes \\- an enterprise priority reflected in our mission.*","","https://www.glassdoor.com/Overview/W-EI_IE2409113.htm","https://media.glassdoor.com/sql/2409113/optum-squareLogo-1711654052254.png","","","","",""
-"gd-1009646617994","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009646617994","","Senior Data Engineer","Nielsen","Bengaluru","2025-02-21","","direct_data","yearly",640250.0,837500.0,"INR",False,"","","organic","","**ABOUT THIS JOB**
+"gd-1009647589791","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009647589791","","Data Engineer/Senior Data Engineer - BLR","Aarki","Bengaluru","2025-02-23","","direct_data","yearly",485000.0,737500.0,"INR",False,"","","organic","","**About Us**
+
+
+Aarki is an AI company that builds advertising solutions to drive mobile revenue growth. We use AI to find audiences in a privacy\\-first world by using trillions of contextual bidding signals coupled with proprietary behavioral models. Our audience engagement platform includes a full\\-service agency team and Unified Creative Strategy that delivers ad creative ideation and execution. We have worked with hundreds of advertisers over 14 years and see 5M mobile ad requests per second from over 10B devices driving performance for publishers and brands. It is independently operated and headquartered in San Francisco, CA with offices across the United States, EMEA, and APAC.
+
+
+**Role Overview:**  
+
+Aarki is seeking a talented **Data Engineer** to join our engineering team. This role is ideal for a skilled developer with a strong background in big data processing, data pipeline development, and distributed systems. As a Data Engineer, you will play a crucial role in designing, building, and maintaining the data infrastructure that powers Aarki's AI\\-driven advertising platform. You will collaborate closely with data scientists, software engineers, and product managers to ensure efficient and scalable data solutions.
+
+
+**Key Responsibilities:**
+
+
+* Design, develop, and maintain scalable data pipelines and ETL processes for handling large\\-scale data from multiple sources.
+* Optimize data storage, processing, and retrieval for high\\-performance analytics and machine learning applications.
+* Work closely with data scientists to prepare, clean, and structure data for machine learning model development and deployment.
+* Develop and maintain real\\-time and batch data processing systems using technologies like Spark, Kafka, and Flink.
+* Implement monitoring, logging, and alerting solutions to ensure the reliability of data pipelines.
+* Ensure data security, governance, and compliance with industry regulations.
+* Collaborate with engineering teams to integrate data solutions into Aarki's broader ad\\-tech infrastructure.
+
+
+**Qualifications \\& Skills:**
+
+
+* 3\\+ years of experience in data engineering, big data processing, or related roles (6\\+ years for Senior Data Engineer role)
+* Strong programming skills in Python, Java, or Scala.
+* Experience with distributed data processing frameworks such as Apache Spark, Flink, or Hadoop.
+* Strong understanding of SQL and NoSQL databases for data storage and retrieval.
+* Experience with real\\-time data streaming technologies like Apache Kafka or Pulsar.
+* Knowledge of containerization and orchestration tools like Docker and Kubernetes is a plus.
+* Strong problem\\-solving skills and ability to work in a fast\\-paced environment.
+* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+
+
+If you're passionate about data engineering and want to work on innovative AI\\-driven advertising solutions, we'd love to hear from you! Apply today.","","https://www.glassdoor.com/Overview/W-EI_IE664193.htm","https://media.glassdoor.com/sql/664193/aarki-squareLogo-1713370543302.png","","","","",""
+"gd-1009646617994","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009646617994","","Senior Data Engineer","Nielsen","Bengaluru","2025-02-22","","direct_data","yearly",640250.0,837500.0,"INR",False,"","","organic","","**ABOUT THIS JOB**
 Around here we’re all numbers people, but it’s the 1s and 0s behind our data that make what we
 do possible. Software engineers strike a balance between precision and disruption, between
 reliability and innovation. Nielsen is a tech company backed by nearly a century of forward
@@ -233,7 +181,48 @@ We like to be in the middle of the action. That’s why you can find us at work 
 countries. From global industry leaders to small businesses, consumer goods to media
 companies, we work with them all. We’re bringing in data 24/7 and the possibilities are endless.
 See what’s next with us at Nielsen:careers.nielsen.com","","https://www.glassdoor.com/Overview/W-EI_IE3776.htm","https://media.glassdoor.com/sql/3776/nielsen-squareLogo-1647366936869.png","","","","",""
-"go-K5wHqpg0FVPoVkQhAAAAAA==","google","https://en-in.whatjobs.com/gfj/94658474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Senior Research Scientist - Network Security","Trellix","Davanagere, Karnataka","2025-02-20","","","","","","",False,"","","","","Job Title:
+"gd-1009645778695","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009645778695","","Solution Delivery Manager, Google Cloud, Generative AI Demos","Google","Bengaluru","2025-02-22","","","","","","",False,"","","organic","","**Note:** By applying to this position you will have an opportunity to share your preferred working location from the following: Bengaluru, Karnataka, India; Hyderabad, Telangana, India; Pune, Maharashtra, India.
+  
+  
+
+**Minimum qualifications:**  
+
+* Bachelor's degree or equivalent practical experience.
+* Experience building and executing scaled global business programs or direct enterprise business.
+* Experience in program/product management or delivering technical projects.
+* Experience to translating business needs into technical requirements.
+
+
+**Preferred qualifications:**  
+
+* Experience in implementing and overseeing development and machine learning operations, including CI/CD pipelines, model deployment, and monitoring.
+* Experience with AI/ML products and their diverse applications.
+* Experience in working with AI specialists, data scientists, and engineering teams to achieve shared project goals.
+
+
+About the job
+  
+  
+
+The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+  
+In this role, you will manage service delivery for demos, prototypes, proofs of concept (POC) for Generative AI (GenAI) focused opportunities for customers in partnership with the Sales, Customer Engineers, Field Solution Architects (FSAs), and GenAI Specialists, coordinating with the vendor team, delivering prototype/ Point of Contacts (POCs) tailored for the needs of the business and managing overall engagement with stakeholders and customers in the regions.
+  
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\\-grade solutions that leverage Google’s cutting\\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+  
+Responsibilities
+  
+  
+
+* Build and scale GenAI demos and prototypes, supporting pilots, scoping partnerships, translating customer needs into technical requirements, driving outcomes, staying current on GenAI and Cloud trends, troubleshooting technical issues, and translating business objectives into upsell solutions.
+* Collaborate with Sales, Engineering, and Product teams, gathering technical requirements, developing technical roadmaps for scalability, evaluating and selecting technologies and potential Software Vendor (ISV) partners, assessing technical risks, and communicating technical updates.
+* Design and implement prototyping/POC processes, owning project decisions, securing leadership support, working towards long\\-term objectives, and building compelling GenAI use cases.
+* Engage with Sales and Customer Engineers for agreement collaboration and with Regional and subregional GTM leadership for market awareness across the Pitch and ProposalHub menu of services.
+* Work closely with a service/solution delivery vendor to build the demos and prototypes.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.","","https://www.glassdoor.com/Overview/W-EI_IE9079.htm","https://media.glassdoor.com/sql/9079/google-squarelogo-1441130773284.png","","","","",""
+"go-K5wHqpg0FVPoVkQhAAAAAA==","google","https://en-in.whatjobs.com/gfj/94658474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Senior Research Scientist - Network Security","Trellix","Davanagere, Karnataka","2025-02-21","","","","","","",False,"","","","","Job Title:
 
 Senior Research Scientist - Network Security
 
@@ -262,7 +251,7 @@ We work hard to embrace diversity and inclusion and encourage everyone to bring 
 Retirement Plans Medical, Dental and Vision Coverage Paid Time Off Paid Parental Leave Support for Community Involvement
 
 We're serious about our commitment to diversity which is why we prohibit discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.","","","","","","","",""
-"go-iEidhfLYNW_f-hzTAAAAAA==","google","https://in.linkedin.com/jobs/view/senior-principal-data-security-engineer-at-autodesk-3984470953?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Senior Principal Data Security Engineer","Autodesk","Chennai, Tamil Nadu","2025-02-14","contract","","","","","",False,"","","","","Job Requisition ID #
+"go-iEidhfLYNW_f-hzTAAAAAA==","google","https://in.linkedin.com/jobs/view/senior-principal-data-security-engineer-at-autodesk-3984470953?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Senior Principal Data Security Engineer","Autodesk","Chennai, Tamil Nadu","2025-02-15","contract","","","","","",False,"","","","","Job Requisition ID #
 
 24WD79840
 
@@ -313,7 +302,7 @@ We take pride in cultivating a culture of belonging and an equitable workplace w
 Are you an existing contractor or consultant with Autodesk?
 
 Please search for open jobs and apply internally (not on this external site).","","","","","","","",""
-"go-2ZWaOAQjuqreqY7PAAAAAA==","google","https://www.shine.com/jobs/security-data-scientist/arctic-wolf/16606567?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Security Data Scientist","Arctic Wolf","Karnataka","2025-02-13","","","","","","",False,"","","","","Arctic Wolf, with its unicorn valuation, is the leader in security operations in an exciting and fast-growing industrycybersecurity. We have won countless awards for our excellence in security operations and remain dedicated to providing an industry-leading customer and employee experience.
+"go-2ZWaOAQjuqreqY7PAAAAAA==","google","https://www.shine.com/jobs/security-data-scientist/arctic-wolf/16606567?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Security Data Scientist","Arctic Wolf","Karnataka","2025-02-14","","","","","","",False,"","","","","Arctic Wolf, with its unicorn valuation, is the leader in security operations in an exciting and fast-growing industrycybersecurity. We have won countless awards for our excellence in security operations and remain dedicated to providing an industry-leading customer and employee experience.
 
 Our mission is simple: End Cyber Risk. Were looking for a Security Data Scientist to be a part of making this happen.
 
@@ -364,7 +353,7 @@ We celebrate unique perspectives by creating a platform for all voices to be hea
 Security Requirements
 Conducts duties and responsibilities in accordance with AWNs Information Security policies, standards, processes, and controls to protect the confidentiality, integrity and availability of AWN business information (in accordance with our employee handbook and corporate policies).
 Background checks are required for this position.,","","","","","","","",""
-"go-36HbPc-byxa3XtNXAAAAAA==","google","https://in.indeed.com/viewjob?jk=0ae210a2258aee02&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","I&F-Cyber Security-Investigations & Forensics-Data Analytics -Senior Associate – Bangalore","PwC","Karnataka","2025-02-04","","","","","","",False,"","","","","Line of Service
+"go-36HbPc-byxa3XtNXAAAAAA==","google","https://in.indeed.com/viewjob?jk=0ae210a2258aee02&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","I&F-Cyber Security-Investigations & Forensics-Data Analytics -Senior Associate – Bangalore","PwC","Karnataka","2025-02-05","","","","","","",False,"","","","","Line of Service
 Advisory
 
 Industry/Sector
@@ -459,7 +448,7 @@ No
 
 Government Clearance Required?
 No","","","","","","","",""
-"go-AWk_RNH2T0hHGR0eAAAAAA==","google","https://in.indeed.com/viewjob?jk=e2681ad498a13fa2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","CyberSecurity Data Scientist, Account and Device Intelligence","Google","Karnataka","2025-01-27","","","","","","",False,"","","","","Minimum qualifications:
+"go-AWk_RNH2T0hHGR0eAAAAAA==","google","https://in.indeed.com/viewjob?jk=e2681ad498a13fa2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","CyberSecurity Data Scientist, Account and Device Intelligence","Google","Karnataka","2025-01-28","","","","","","",False,"","","","","Minimum qualifications:
 • Bachelor's degree or equivalent practical experience.
 • 2 years of experience in data analysis, including identifying trends, generating summary statistics, and drawing insights from quantitative and qualitative data.
 • 2 years of experience managing projects and defining project scope, goals, and deliverables.
@@ -915,6 +904,116 @@ Juniper is an Equal Opportunity workplace and Affirmative Action employer. We do
 
 
  Our workspaces and initiatives are geared towards your 360\\-degree happiness. This includes specific needs you may have in terms of accessibility, flexibility, safety and security, and caregiving. Here’s a glimpse of things that are in store for you.","Software Development, IT System Testing and Evaluation, and IT Services and IT Consulting","https://www.linkedin.com/company/deloitte","https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY","","","","",""
+"li-4162339201","linkedin","https://www.linkedin.com/jobs/view/4162339201","https://terralogic.com/python-developer-bangalore/&urlHash=s6Y_","PYTHON DEVELOPER BANGALORE","Terralogic","Block 5, Karnataka, India","2025-02-22","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","","**Total Experience**
+ 3\\+ yrs
+   
+
+  
+
+**Job Skills**
+**Main Skillset** 
+ : Python Development
+   
+
+  
+
+**Value Add Skills** 
+ : C\\+\\+, Java Script, Golang,Java
+   
+
+  
+
+**Notice Period** 
+ – Immediate to 45 days.
+   
+
+  
+
+**Role**
+ Provide recommendations and support for addressing identified open\\-source security vulnerabilities, ensuring timely resolutions.
+   
+
+  
+
+* This role involves implementing code changes to address open\\-source security vulnerabilities.
+* Conduct thorough reviews on internally developed applications, focusing on security vulnerabilities and coding best practices.
+* Review and assess third\\-party and open\\-source libraries for security risks,bproviding guidance on their safe integration into our applications.
+* Collaborate with Product, Engineering, and broader Security teams to provide recommendations aimed at reducing security risks.
+* Document security vulnerabilities, remediation plans, and progress, ensuring all stakeholders are kept informed.
+
+
+**Notice Period –** 
+ Immediate to 30 days.
+   
+
+  
+
+**Apply Now**
+**Responsibilities**
+ 2\\+ years of experience in software development
+   
+
+  
+
+* Experience with Build tools (i.e., Make files, Maven/Gradle, Bazel, ANT)
+* Experience with package management tools (i.e., Maven, PIP, NPM, etc.)
+* Proficient understanding of open\\-source security principles.
+* Familiarity with Common Vulnerabilities and Exposures (CVE) and vulnerability management processes.
+* Experience with vulnerability assessment tools and methodologies.
+* Proficiency in multiple programming languages, such as Golang, Python, Java, C\\+\\+, or JavaScript, is a must
+* Ability to distill and explain complex technical and security concepts to varied audiences.
+* Experience with GIT (understanding of GitHub PR flow \\& Gerrit Patch set flow is a plus)
+* Experience with building / managing CI/CD pipelines using Jenkins, CircleCI, or other CI/CD systems
+* Experience collaborating with cross\\-functional security and engineering teams.
+* Experience with developing, building, and shipping secure code is a plus.
+* Experience with microservices architecture, as well as Docker and Kubernetes.
+* Ability to work independently while effectively engaging with global teams.
+* Experience in prioritizing and executing tasks with minimal direction or Oversight.
+
+
+ Wanna know more about us?
+   
+
+  
+
+ Terralogic (www.terralogic.com ; https://www.linkedin.com/company/terralogic/)
+   
+
+  
+
+**Note**
+**Why Join Us?**
+ Work on innovative projects with leading\\-edge technologies.
+   
+
+  
+
+ Be part of a collaborative team that values continuous learning and development.
+   
+
+  
+
+ Opportunity to advance your career in a dynamic and growing company.
+   
+
+  
+
+ Wanna know more about us?
+   
+
+  
+
+ Terralogic (www.terralogic.com ; https://www.linkedin.com/company/terralogic/)
+   
+
+  
+
+ The very basic foundation of Terralogic has been to provide Technology Services for the Connected World. Our core DNA is in tying deep Engineering expertise to our Customers’ roadmap and business needs to bring true partnership! We work from product conceptualization to product maturity, decline \\&sustenance by investing in a broad range of technical skills and domain experts with an eye on stability and increased productivity. We look at problem
+   
+
+  
+
+ statements exactly the way our customers look at them and provide far\\-reaching solutions at highly optimized cost levels. With a thousand plus strength, experienced management, and best\\-in\\-class practices, we deliver world\\-class successes for our Customers.","Information Technology & Services","https://www.linkedin.com/company/terralogic","https://media.licdn.com/dms/image/v2/C510BAQGcj52MTKtg5g/company-logo_100_100/company-logo_100_100/0/1630631086781/terralogic_logo?e=2147483647&v=beta&t=XLyq9uxwpIJBIrknUuk-SD3wfcFm3xzv2NIrdgNPwGU","","","","",""
 "li-4159069695","linkedin","https://www.linkedin.com/jobs/view/4159069695","","Data Scientist","Synechron","Bengaluru, Karnataka, India","2025-02-21","fulltime","","","","","","","mid-senior level","Information Technology","","","Good day,
  
 
@@ -1349,50 +1448,3 @@ Juniper is an Equal Opportunity workplace and Affirmative Action employer. We do
   
 
  Exxon Mobil Corporation has numerous affiliates, many with names that include ExxonMobil, Exxon, Esso and Mobil. For convenience and simplicity, those terms and terms like corporation, company, our, we and its are sometimes used as abbreviated references to specific affiliates or affiliate groups. Abbreviated references describing global or regional operational organizations and global or regional business lines are also sometimes used for convenience and simplicity. Similarly, ExxonMobil has business relationships with thousands of customers, suppliers, governments, and others. For convenience and simplicity, words like venture, joint venture, partnership, co\\-venturer, and partner are used to indicate business relationships involving common activities and interests, and those words may not indicate precise legal relationships.","Oil and Gas","https://www.linkedin.com/company/exxonmobil","https://media.licdn.com/dms/image/v2/C4D0BAQE_IRWZ2qVHpw/company-logo_100_100/company-logo_100_100/0/1631303598129?e=2147483647&v=beta&t=20NshSkLIzCoKGk7fkNxWckGM7OnZQ5_ddDzZ5Pcwqk","","","","",""
-"li-4160541811","linkedin","https://www.linkedin.com/jobs/view/4160541811","https://careers.microsoft.com/us/en/job/1798403/Software-Engineer?jobsource=linkedin&utm_source=Job%20Board&utm_campaign=linkedin-feed&urlHash=yd1y","Software Engineer","Microsoft","Bengaluru, Karnataka, India","2025-02-20","fulltime","","","","","","","not applicable","Engineering and Information Technology","","","Microsoft Azure Storage is a highly distributed, massively scalable, and ubiquitously accessible cloud storage platform. To provide unmatched performance at lowest cost and power, the Azure storage team is building the storage stack that will run on the DPU (Data Processing Units) based storage nodes. We are looking for a Software Engineer who is interested in developing and deploying distributed storage.
-   
-
-  
-
- As a Software Engineer, you will have a chance to work on design, implementation, and optimizations of highly performant and massively scale out storage on DPU hardware. You will be involved in all phases of the storage lifecycle, design, implementation, test, deployment, and support. This opportunity will allow you to accelerate your career growth and hone your technical skills.
-   
-
-  
-
- Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
-   
-
-  
-
-**Responsibilities**
-* Works with appropriate stakeholders to determine user requirements for the new features to be developed.
-* Participates and contributes to the design of massively scalable storage services
-* Owns software components and/or modules and drives the component level design decisions working with the team, senior engineers, and architects.
-* Creates and implements code for a product, service, or feature, reusing code as applicable. Writes and learns to create code that is extensible and maintainable.
-* Considers diagnosability, reliability, and maintainability with few defects, and understands when the code is ready to be shared and delivered.
-* Works in a culture of continuous improvement, adaptation, reflection, and growth.
-
-
-**Qualifications**
-**Required Qualifications:**
-* Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python.
-+ OR equivalent experience.
-
-
-**Other Requirements**
-* Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
-
-
-**Additional / Preferred Qualifications**
-* Bachelor's Degree in Computer Science or related technical field AND 1\\+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python
-* OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python
-* OR equivalent experience.
-* Knowledge of Windows or Linux Operating System, AND distributed systems and storage.
-
-
- \\#Azurecorejobs
-   
-
-  
-
- Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=2147483647&v=beta&t=lMkCSsceJNmUG1r0VRg3Whye1sVi2KtYvt-MWyfoNbY","","","","",""
