@@ -83,6 +83,7 @@ def searchjobs_page():
                 if st.session_state["collected_jobs_json"]:
                     st.markdown("#### List of suitable jobs")
                     st.success(st.dataframe(pd.read_json(st.session_state["collected_jobs_json"])))
+                    st.session_state["collected_jobs_df"] = pd.read_json(st.session_state["collected_jobs_json"])
 
     except Exception as e:
         print("failed to show search jobs page - ", e)

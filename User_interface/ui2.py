@@ -5,7 +5,7 @@ import streamlit as st
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from User_interface.home_page import show_homepage
 from User_interface.searchjobs_page import searchjobs_page
-
+from User_interface.collectedjobs_page import collectedjobs_page
 # Enable wide mode for better layout
 st.set_page_config(layout="wide")
 
@@ -34,6 +34,9 @@ class UI:
 
         if page == "Search jobs":
             searchjobs_page()
+
+        if page == "Collected job Profiles":
+            collectedjobs_page()
 
 
 if __name__ == "__main__":
