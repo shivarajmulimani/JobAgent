@@ -1,0 +1,118 @@
+﻿Shivaraj Mulimani                
+                                                                                    
+Mobile:   +91-9535299824
+www.linkedin.com/in/shivaraj-mulimani-3445b0a9
+https://github.com/shivarajmulimani
+  
+
+
+
+Career Highlights
+
+
+- AI Engineering Expertise: Over 7+ years of experience in researching, designing, and developing AI solutions across key subdomains including Machine Learning, Computer Vision, and Natural Language Processing.  Successfully deployed production-grade AI modules for Fortune 500 companies.
+- Diverse Domain Applications: Applied AI technologies across Cybersecurity, Fintech, Transportation, and Advertisement, demonstrating versatility and adaptability in solving complex problems.  Experience includes building and optimizing data pipelines for various applications.
+- Research and Publications: Authored white papers on Large Language Model applications and advanced Machine Learning applications.
+- Cloud Platform Proficiency:  Extensive experience with AWS, GCP, and Azure, including data storage, processing, and deployment.  Familiar with BigQuery for large-scale data analysis. *[Added to address gap]*
+- Production-Grade Solutions & Scalability: Designed and implemented scalable AI solutions in high-stakes environments, addressing challenges related to data volume and processing efficiency. *[Added to address gap]*
+- Workshops and Hackathons: Actively engaged in the community by conducting workshops and participating in hackathons.
+
+
+Experience Summary:
+* Currently working in Acalvio Technologies as Security Data Scientist, Bangalore from September 2022
+* Previously working at Scientist Technologies as AI Engineer, Bangalore 2018 - 2022
+* Worked in Harman Connected Services Corporation India Pvt. ltd,  from 2017 - 2018.
+
+
+Key Skill Sets:
+Coding Languages            : Hands on Python, Capable to quickly learn R, C++, and  C.
+Hands-on experience  : Python, Machine Learning, Statistics, Data science, Computer vision, NLP, Deeplearning, Graph theory, AWS, GCP, Azure, GIT, BigQuery,  *[Added to address gap]* Data Pipelines, ETL Processes *[Added to address gap]*
+Python libraries              : Scikit-Learn, Pandas, Plotly, Seaborn, Matplotlib, Transformers, Gensim,  NLTK,  OpenCV etc,.
+
+
+
+
+
+
+Key Projects: 
+ShadowPlex AI Assistant
+	Objective
+	To build an AI Security Copilot using Large Language models to help customers get quick insights about the product features.
+	Technologies used
+	Python, NLP, GCP, LLM, Langchain
+	Description
+	* Help Customers explore the product.
+* Help Customers in designing the deceptions playbooks.
+* Give answers to cyber security related incidents and insights.
+* Give real time answers on threat findings by the ShadowPlex.
+	
+
+ShadowPlex Powershell Analyses
+	Objective
+	To build a Machine learning model to detect malicious code obfuscation and map it to intent and tool.
+	Technologies used
+	Python, ML, NLP, Powershell
+	Description
+	* Given suspicious malicious code.
+* Predict the code obfuscation.
+* Compute the script intent and tool.
+
+
+	
+
+Closed domain Search Engine
+	Objective
+	To build a custom closed-domain search engine that matches project requirements with CVs, highlights relevant content, and assists in creating proposals.  This project involved building and optimizing data pipelines for efficient document processing and retrieval. *[Added to address gap]*
+	Technologies used
+	Python, NLP, AWS, NER, Transformers, Scikit learn
+	Description
+	* There will be hundreds of thousands of documents, including CVs, proposals, and Terms of Reference (TOR).
+* These documents will be processed using NLP techniques such as embeddings, Named Entity Recognition (NER), and topic modeling, and will be trained for domain-specific adaptation.
+* Users will be able to find similar documents by entering simple search queries, similar to how one would use Google. The engine will retrieve the most relevant documents and rank them based on user behavior profiles.
+	
+
+User entity and behavior analytics 
+	Objective
+	To develop a User and Entity Behavior Analytics (UEBA) system that detects anomalies in user login behavior. The machine learning model will identify irregularities based on factors such as logon time, day of access, historical access patterns, type of logon, and account type.  This project involved ETL processes for data cleaning and transformation. *[Added to address gap]*
+	Technologies used
+	Python, Machine learning, AWS
+	Description
+	* There will be a data dump containing users' access information from Windows AD logs.
+* User data will be segregated, and individual user behavior profiles will be built. Exploratory data analysis (EDA) will be performed to understand the behavior of each user in the network.
+* Suitable machine learning algorithms, such as Support Vector Machines (SVM), will be trained. Statistical models will be developed to visualize behavior patterns and detect deviations from typical working behavior.
+	
+
+Internet traffic analysis
+	Objective
+	To develop a system capable of detecting, analyzing, and classifying botnets within web traffic.
+	Technologies used
+	Python, Interpretable  Machine learning, EDA, Bayesian network, Data mining.
+	Description
+	* Capture user agent information from website visitors.
+* Perform behavior analysis, feature engineering, exploratory data analysis (EDA), and data visualization.
+* Train suitable machine learning algorithms, such as Decision Trees and DBSCAN, and develop statistical models to visualize behavior patterns and classify web traffic.
+	
+
+Anomaly detection in Automobile telematics
+	Objective
+	To develop a system that detects, analyzes, and classifies anomalies in vehicle sensor readings.
+	Technologies used
+	Python, Visualization, EDA, Data mining, time series feature extraction.
+	Description
+	* Collect, clean, and preprocess vehicle sensor readings.
+* Perform feature engineering, exploratory data analysis (EDA), and data visualization.
+* Train suitable machine learning algorithms, such as Isolation Forest and DBSCAN, and develop statistical models to visualize patterns and classify sensor readings in batch form.
+	
+
+
+
+Educational Summary:        
+Bachelor of Engineering in Electronics and Communication
+R.V. College of Engineering, Bangalore
+Graduated: 2017
+
+
+Declaration:
+        I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned.
+ Shivaraj Mulimani
+

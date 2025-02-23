@@ -9,25 +9,27 @@ from utils import constants as CS
 from utils import stringcontants as SC
 from archestration.master import AgentArchestration
 
-with open(SC.RESUME_DATA_FILE, 'r') as file:
-    resume = file.read()
-jobs = pd.read_json(SC.SCRAPED_JOBS_DATA_FILE_JSON)
-jma = AgentArchestration(resume, jobs)
-df = pd.read_csv(SC.SCRAPED_JOBS_DATA_FILE_CSV)
+# with open(SC.RESUME_DATA_FILE, 'r') as file:
+#     resume = file.read()
+# jobs = pd.read_json(SC.SCRAPED_JOBS_DATA_FILE_JSON)
+# jma = AgentArchestration(resume, jobs)
 
 def analysejobs_page():
     try:
+        resume = st.session_state["file_content"]
+        jobs = st.session_state["collected_jobs_df"]
+        jma = AgentArchestration(resume, jobs)
         st.title("Analyse jobs with resume")
 
         # Display dataframe
         st.write("Scrapped jobs data")
         # Configure AgGrid options
-        gb = GridOptionsBuilder.from_dataframe(df)
+        gb = GridOptionsBuilder.from_dataframe(jobs)
         gb.configure_selection("single")  # Allows single-row selection
         grid_options = gb.build()
 
         # Display interactive grid
-        grid_response = AgGrid(df, gridOptions=grid_options, height=300, fit_columns_on_grid_load=True)
+        grid_response = AgGrid(jobs, gridOptions=grid_options, height=300, fit_columns_on_grid_load=True)
 
         selected_row = grid_response.get("selected_rows", [])  # Handle None case
         # import pdb;pdb.set_trace()
@@ -39,7 +41,7 @@ def analysejobs_page():
         if row_index:  # Ensure a row is selected
             # Find the actual index using the "id" column
             unique_col = "id"  # Change this if there's a better unique column
-            row = df[df['id'] == row_index]
+            row = jobs[jobs['id'] == row_index]
             st.write("**Selected job:**", row)
 
             response = jma.job_match_individual(row_index)

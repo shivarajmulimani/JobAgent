@@ -6,6 +6,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from User_interface.home_page import show_homepage
 from User_interface.searchjobs_page import searchjobs_page
 from User_interface.collectedjobs_page import collectedjobs_page
+from User_interface.analysejobs_page import analysejobs_page
+
 # Enable wide mode for better layout
 st.set_page_config(layout="wide")
 
@@ -37,6 +39,9 @@ class UI:
 
         if page == "Collected job Profiles":
             collectedjobs_page()
+
+        if page == "Analyse jobs with resume":
+            analysejobs_page()
 
 
 if __name__ == "__main__":
