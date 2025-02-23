@@ -38,6 +38,6 @@ RESUME_UPDATE_AGENT_INSTRUCTION = ["First understand the resume",
 SITE_NAMES = ["linkedin", "glassdoor", "google"]
 JOB_TYPE = "fulltime"
 LOCATION = " India, Bangalore"
-RESULTS_WANTED = 50
+RESULTS_WANTED = 5
 HOURS_OLD = 72
 LINKED_FETCH_DESCRIPTION = True
