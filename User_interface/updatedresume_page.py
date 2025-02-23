@@ -55,11 +55,11 @@ def updatedjobs_page():
         st.title("Updated Resume")
 
         # Fixed file names
-        file1_path = SC.RESUME_DATA_FILE
-        file2_path = os.path.join(SC.UPDATED_RESUME_STORAGE_PATH, "205cf17c-0839-4ff8-be37-bba8723196c9.txt")
+        # file1_path = st.session_state["file_content"]
+        # file2_path = st.session_state["updated_resume"]
 
-        text1 = read_file(file1_path)
-        text2 = read_file(file2_path)
+        text1 = st.session_state["file_content"]
+        text2 = st.session_state["updated_resume"]
 
         if text1 and text2:
             file1_diff, file2_diff = word_level_diff(text1, text2)
