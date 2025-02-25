@@ -1,6 +1,10 @@
-# Welcome to the JobAgent Application
-![Process Flow Animation](app_image.png)
+<h1 align="center">Welcome to the JobAgent Application</h1>
 
+<p align="center">
+  <img src="app_image.png" alt="Process Flow Animation" width="300">
+</p>
+
+## what is JobAgent application?
 This application allows you to search, match and preparation of your resume for the jobs.
 
 ## How It Works
@@ -12,7 +16,7 @@ This application allows you to search, match and preparation of your resume for 
 
 ## Process Flow
 
-![Process Flow Animation](flowchart.gif)
+<img src="flowchart.gif" alt="Process Flow Animation" width="500">
 
 ## Get Started
 
