@@ -10,7 +10,7 @@ from utils import stringcontants as SC
 def show_homepage():
     try:
         # Read the README.md file
-        with open("../README.md", "r", encoding="utf-8") as file:
+        with open(SC.README_PATH, "r", encoding="utf-8") as file:
             readme_text = file.read()
 
             # Display the README content
