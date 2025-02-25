@@ -1,0 +1,76 @@
+﻿Shivaraj Mulimani                
+                                                                                    
+Mobile:   +91-9535299824
+www.linkedin.com/in/shivaraj-mulimani-3445b0a9
+https://github.com/shivarajmulimani
+  
+
+
+
+Career Highlights
+
+
+- AI Engineering Expertise: Over 7+ years of experience in researching, designing, and developing AI-driven solutions across Machine Learning, Computer Vision, and Natural Language Processing (NLP), with applications in Cybersecurity, Fintech, Transportation, and Advertisement.
+- Production-Grade AI Solutions: Designed and implemented AI modules integrated into products used by Fortune 500 companies, demonstrating scalability and impact in high-stakes environments.  Successfully delivered solutions demonstrating a strong understanding of production deployment and maintenance.
+-  Cybersecurity Focus: Applied AI/ML expertise to address critical cybersecurity challenges, including malicious code detection, threat analysis, and anomaly detection in network and user activity. Developed and deployed models for real-time threat identification and response.
+- Research and Publications: Authored white papers on Large Language Model applications and advanced Machine Learning techniques, showcasing a commitment to staying at the forefront of technological advancements.
+- Community Engagement: Actively participated in workshops and hackathons, fostering knowledge sharing and collaboration within the AI and cybersecurity communities.
+
+
+Experience Summary:
+* Security Data Scientist, Acalvio Technologies, Bangalore (September 2022 – Present)
+* AI Engineer, Scientist Technologies, Bangalore (2018 – 2022)
+* AI Engineer, Harman Connected Services Corporation India Pvt. ltd, Bangalore (2017 – 2018)
+
+
+Key Skill Sets:
+Coding Languages            : Python (Expert), R (Proficient), C++, C (Familiar)
+Hands-on experience  : Python, Machine Learning, Statistics, Data Science, Computer Vision, NLP, Deep Learning, Graph Theory, AWS, GCP, Azure, GIT,  *Developing familiarity with IAM technologies (LDAP, Active Directory)*
+Python libraries              : Scikit-Learn, Pandas, Plotly, Seaborn, Matplotlib, Transformers, Gensim,  NLTK, OpenCV, etc.
+
+
+Key Projects: 
+ShadowPlex AI Assistant
+	Objective: To build an AI Security Copilot using Large Language Models (LLMs) to enhance customer understanding of product features and facilitate quick insights.
+	Technologies used: Python, NLP, GCP, LLM, Langchain
+	Description:  Developed an AI assistant that aids customers in exploring product features, designing deception playbooks, analyzing cybersecurity incidents, and providing real-time threat insights from ShadowPlex.
+
+ShadowPlex Powershell Analyses
+	Objective: To develop a Machine Learning model to detect malicious code obfuscation, identifying intent and associated tools.
+	Technologies used: Python, ML, NLP, Powershell
+	Description: Built a model to predict code obfuscation techniques from suspicious malicious code, determining the script's intent and the tools used to create it.
+
+Closed domain Search Engine
+	Objective: To build a custom closed-domain search engine to match project requirements with CVs, highlight relevant content, and assist in proposal creation.
+	Technologies used: Python, NLP, AWS, NER, Transformers, Scikit-learn
+	Description:  Developed a search engine processing hundreds of thousands of documents (CVs, proposals, TORs) using NLP techniques (embeddings, NER, topic modeling) for domain-specific adaptation.  The engine retrieves and ranks relevant documents based on user queries and behavior profiles.
+
+User entity and behavior analytics 
+	Objective: To develop a User and Entity Behavior Analytics (UEBA) system to detect anomalies in user login behavior.
+	Technologies used: Python, Machine Learning, AWS
+	Description:  Built a UEBA system analyzing Windows AD logs to identify irregularities based on login time, access patterns, and account type using machine learning algorithms such as Support Vector Machines (SVM).
+
+
+Internet traffic analysis
+	Objective: To develop a system for detecting, analyzing, and classifying botnets within web traffic.
+	Technologies used: Python, Interpretable Machine Learning, EDA, Bayesian networks, Data Mining.
+	Description:  Developed a system to analyze user agent information and web traffic behavior, employing machine learning algorithms (Decision Trees, DBSCAN) and statistical models to classify web traffic and identify botnets.
+
+
+Anomaly detection in Automobile telematics
+	Objective: To develop a system to detect and classify anomalies in vehicle sensor readings.
+	Technologies used: Python, Visualization, EDA, Data Mining, Time Series Feature Extraction.
+	Description:  Built a system to process vehicle sensor readings, perform feature engineering and EDA, and utilize machine learning algorithms (Isolation Forest, DBSCAN) to detect and classify anomalies in sensor data.
+
+
+
+Educational Summary:        
+Bachelor of Engineering in Electronics and Communication
+R.V. College of Engineering, Bangalore
+Graduated: 2017
+
+
+Declaration:
+        I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned.
+ Shivaraj Mulimani
+

@@ -1,4 +1,5 @@
 # Welcome to the JobAgent Application
+![Process Flow Animation](app_image.png)
 
 This application allows you to search, match and preparation of your resume for the jobs.
 
