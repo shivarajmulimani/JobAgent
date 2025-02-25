@@ -10,7 +10,7 @@ from User_interface.analysejobs_page import analysejobs_page
 from User_interface.updatedresume_page import updatedjobs_page
 
 # Enable wide mode for better layout
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="JobAgent Application", page_icon="🧑‍💼", layout="wide")
 
 class UI:
     def __init__(self):
@@ -29,7 +29,7 @@ class UI:
 
 
     def start_ui(self):
-        st.sidebar.title("Navigation")
+        st.sidebar.title("JobAgent menu")
         page = st.sidebar.radio("Choose a section",
                                 ["Home",
                                  "Search jobs",
