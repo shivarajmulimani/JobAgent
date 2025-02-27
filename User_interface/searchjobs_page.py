@@ -9,6 +9,7 @@ from utils import constants as CS
 from utils import stringcontants as SC
 from Agents.job_search_guidelines_agent import JobSearchGuidelines
 from job_search.jobspy_scraper import JobScraper
+from utils.preprocess_job_dataframe import preprocess_job_df
 
 def highlight_text(text, bg_color="#D4EDDA", text_color="#155724"):
     return f"""
@@ -61,19 +62,48 @@ def searchjobs_page():
 
             # Step 3: Show Confirmation Button
             if st.session_state["file_content"]:
-                if st.button("Search for suitable jobs"):
-                    scraper = JobScraper(
-                        site_names=CS.SITE_NAMES,
-                        search_term=user_title,
-                        google_search_term=user_title,
-                        job_type=CS.JOB_TYPE,
-                        location=user_location,
-                        results_wanted=CS.RESULTS_WANTED,
-                        hours_old=CS.HOURS_OLD,
-                        linkedin_fetch_description=CS.LINKED_FETCH_DESCRIPTION
-                    )
+                # Custom CSS for centering the button and adding styling
+                st.markdown(
+                    """
+                    <style>
+                        /* Center-align Streamlit button */
+                        div.stButton {
+                            display: flex;
+                            justify-content: center;
+                        }
 
+                        /* Custom button styling */
+                        div.stButton > button {
+                            font-size: 18px;
+                            font-weight: bold;
+                            padding: 10px 20px;
+                            border-radius: 10px;
+                            background: linear-gradient(45deg, #ff416c, #ff4b2b);
+                            color: white;
+                            border: none;
+                            box-shadow: 0px 0px 10px rgba(255, 65, 108, 0.8);
+                            transition: all 0.3s ease-in-out;
+                        }
+                        div.stButton > button:hover {
+                            transform: scale(1.1);
+                            box-shadow: 0px 0px 20px rgba(255, 75, 43, 1);
+                        }
+                    </style>
+                    """,
+                    unsafe_allow_html=True
+                )
+                if st.button("Search for suitable jobs"):
                     with st.spinner("⏳ Processing... Please wait."):
+                        scraper = JobScraper(
+                            site_names=CS.SITE_NAMES,
+                            search_term=user_title,
+                            google_search_term=user_title,
+                            job_type=CS.JOB_TYPE,
+                            location=user_location,
+                            results_wanted=CS.RESULTS_WANTED,
+                            hours_old=CS.HOURS_OLD,
+                            linkedin_fetch_description=CS.LINKED_FETCH_DESCRIPTION
+                        )
                         scraper.scrape_jobs()
                         scraper.save_to_csv()
                         jobs_json = scraper.to_json()
@@ -82,8 +112,12 @@ def searchjobs_page():
                 # ✅ Always display results if they exist, even after switching tabs
                 if st.session_state["collected_jobs_json"]:
                     st.markdown("#### List of suitable jobs")
-                    st.success(st.dataframe(pd.read_json(st.session_state["collected_jobs_json"])))
-                    st.session_state["collected_jobs_df"] = pd.read_json(st.session_state["collected_jobs_json"])
+                    df = preprocess_job_df(pd.read_json(st.session_state["collected_jobs_json"]))
+                    st.session_state["collected_jobs_df"] = df
+                    st.success(f"✅ {df.shape[0]} Jobs successfully retrieved!")
+                    st.dataframe(df)
+                    # st.success(st.markdown(df.to_html(escape=False), unsafe_allow_html=True))
+
 
     except Exception as e:
         print("failed to show search jobs page - ", e)
