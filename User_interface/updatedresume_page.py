@@ -2,74 +2,47 @@ import os
 import sys
 import streamlit as st
 import pandas as pd
+import streamlit as st
 import difflib
-
+import re
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from utils import constants as CS
 from utils import stringcontants as SC
 
 
-def read_file(filepath):
-    """Reads a text file from a fixed directory and returns its content as a string."""
-    try:
-        with open(filepath, "r", encoding="utf-8") as file:
-            return file.read()
-    except FileNotFoundError:
-        return ""
+def word_level_highlight(old_text, new_text):
+    differ = difflib.SequenceMatcher(None, old_text, new_text)
+    highlighted_text = ""
 
+    for opcode, a0, a1, b0, b1 in differ.get_opcodes():
+        old_part = old_text[a0:a1]
+        new_part = new_text[b0:b1]
 
-def word_level_diff(text1, text2):
-    """Generates a Bitbucket-style side-by-side code diff with proper color coding."""
-    text1_lines = text1.splitlines(keepends=True)
-    text2_lines = text2.splitlines(keepends=True)
+        if opcode == "replace":
+            highlighted_text += f'<span style="background-color:#d9534f; color:white; padding:2px;">{old_part}</span>'
+            highlighted_text += f'<span style="background-color:#5cb85c; color:white; padding:2px;">{new_part}</span>'
+        elif opcode == "delete":
+            highlighted_text += f'<span style="background-color:#d9534f; color:white; padding:2px;">{old_part}</span>'
+        elif opcode == "insert":
+            highlighted_text += f'<span style="background-color:#5cb85c; color:white; padding:2px;">{new_part}</span>'
+        else:
+            highlighted_text += old_part
 
-    matcher = difflib.SequenceMatcher(None, text1_lines, text2_lines)
-    file1_diff, file2_diff = [], []
-
-    for tag, i1, i2, j1, j2 in matcher.get_opcodes():
-        for line in text1_lines[i1:i2]:
-            if tag == "replace":
-                file1_diff.append(f'<span style="background-color:#ffeeba; color:black;">{line}</span>')
-            elif tag == "delete":
-                file1_diff.append(
-                    f'<span style="background-color:#f8d7da; color:red; text-decoration: line-through;">{line}</span>')
-            else:
-                file1_diff.append(line)
-
-        for line in text2_lines[j1:j2]:
-            if tag == "replace":
-                file2_diff.append(f'<span style="background-color:#ffeeba; color:black;">{line}</span>')
-            elif tag == "insert":
-                file2_diff.append(f'<span style="background-color:#d4edda; color:green;">{line}</span>')
-            else:
-                file2_diff.append(line)
-
-    return (
-        '<div style="white-space: pre-wrap; font-family: monospace;">' + "<br>".join(file1_diff) + '</div>',
-        '<div style="white-space: pre-wrap; font-family: monospace;">' + "<br>".join(file2_diff) + '</div>'
-    )
+    return highlighted_text
 
 
 def updatedjobs_page():
     try:
         st.title("Updated Resume")
+        # Streamlit UI
+        st.title("File Difference Highlighter")
 
-        # Fixed file names
-        # file1_path = st.session_state["file_content"]
-        # file2_path = st.session_state["updated_resume"]
+        file1 = st.session_state["file_content"]
+        file2 = st.session_state["updated_resume"]
 
-        text1 = st.session_state["file_content"]
-        text2 = st.session_state["updated_resume"]
+        highlighted_result = word_level_highlight(file1, file2)
 
-        if text1 and text2:
-            file1_diff, file2_diff = word_level_diff(text1, text2)
+        st.markdown(f'<div style="white-space:pre-wrap; font-family:monospace; font-size:14px;">{highlighted_result}</div>', unsafe_allow_html=True)
 
-            col1, col2 = st.columns(2)
-            with col1:
-                st.markdown(file1_diff, unsafe_allow_html=True)
-            with col2:
-                st.markdown(file2_diff, unsafe_allow_html=True)
-        else:
-            st.error("One or both files are missing in the directory.")
     except Exception as e:
         print("failed to show updated jobs page - ", e)
