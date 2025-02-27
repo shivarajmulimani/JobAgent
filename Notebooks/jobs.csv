@@ -1,54 +1,184 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
-"gd-1009651600358","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651600358","","Staff Software Machine Learning Engineer","Uber","Bengaluru","2025-02-27","","direct_data","yearly",180000.0,216000.0,"INR",False,"","","organic","","**About the Role**
-  
-
-  
-
-We are looking for exceptional engineers to build systems for our very own employees and our customers. Our mission is to enhance Uber's corporate speed, reliability and worker happiness by building products, integrations and platforms. You will work closely with a highly capable team of engineers, data scientists, designers and product managers to ensure Uber's internal products and platforms are a powerful and innovative business advantage. The **uSearch team** is a part of BizTech that builds scalable, reliable, near realtime and robust enterprise integrations of a plethora of applications and services we build and use at Uber.
-  
-
-  
-
-**What You'll do:**
-* Apply leading Models to solve business problems
-	+ Use models from GPT\\-\\* to LLama\\-\\* to solve wide range of business problems from sales tech, employee productivity, coding and automation
-	+ Build RAG frameworks
-	+ Build Langchain modules
-* Model Development and Implementation:
-	+ Design, develop, and deploy machine learning models to solve complex problems and improve user experiences, operational efficiency, or system performance.
-	+ Utilize a variety of data sources, types, and structures to extract actionable insights through predictive analytics and data mining techniques.
-* Research and Innovation:
-	+ Stay abreast of the latest developments in the field of machine learning and artificial intelligence. Evaluate emerging trends and technologies for potential adoption to maintain and expand competitive advantage.
-	+ Lead research initiatives that test new algorithms, evaluate new methodologies, and explore innovative uses of data that can lead to scalable solutions.
-* Team Leadership and Development:
-	+ Lead and mentor a team of machine learning engineers and data scientists. Ensure the continuous professional growth of team members through clear goal\\-setting, regular feedback, and development opportunities.
-	+ Foster a collaborative and inclusive team environment that encourages innovation and iterative learning.
-* Cross\\-Functional Collaboration:
-	+ Work closely with product management, software engineering, and data engineering teams to integrate machine learning models into larger software systems and product offerings.
-	+ Partner with stakeholders across the organization to understand business needs and translate them into technical requirements and actionable machine learning projects.
-* Project Management:
-	+ Oversee the full project lifecycle for multiple machine learning initiatives, from ideation and data collection to model development and deployment.
-	+ Manage resources, timelines, and risks effectively, ensuring that projects meet their objectives and are delivered on schedule.
-	+ Performance Monitoring and Model Optimization:
-	+ Continuously monitor the performance of deployed models, identifying opportunities for improvement and optimization.
-	+ Implement robust testing and validation strategies to ensure model accuracy and reliability over time.
+"gd-1009651202728","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651202728","","Sr Principal Engineer - Data Science","Bloom Energy","Bengaluru","2025-02-27","","direct_data","yearly",395000.0,542500.0,"INR",False,"","","organic","","Job Description:
+Bloom Energy is looking for dynamic leader to join our Computation \\& Data Science team. This exciting position will allow the person to enable AI/ ML strategies for a growing fleet of Bloom Energy systems. We seek enthusiastic contributors with strong analytical and problem solving skills, and background in data science.
+Location: This position will be based in Bangalore or Mumbai, India
+Role and Responsibilities:* Interact with stake owners for various functions across the organization and understand the business problems.
+* Evaluate the business problem at hand and propose the AI/ ML based solution.
+* Work with the various internal teams to design the detailed solution and guide the development of necessary data infrastructure.
+* Work with a team of data scientists to execute on the proposed solution.
 
 
-**What You'll Need:**
-* Experience in applying Gen\\-AI/LLM in production
-* Managed at least a team 4\\+ engineers for end\\-to\\-end deliverables, for more than 2 years
-* Education: Bachelor's degree in Computer Science, Engineering, or a closely related field. Advanced degrees (Master's or PhD) in fields that emphasize software engineering or machine learning are preferred.
-* Professional Experience: At least 8 years of experience in software development with a proven track record in both software engineering and research or applied machine learning projects.
-* Technical Expertise:
-	+ Expertise in programming using languages such as Python, Java, C\\+\\+, or Scala.
-	+ Proficient with modern software engineering tools and methodologies (e.g., version control, CI/CD, agile development practices).
-	+ Extensive experience with machine learning libraries and frameworks like TensorFlow, PyTorch, or Keras.
-* Data Proficiency:
-	+ Strong capabilities in handling large datasets, with skills in SQL, NoSQL databases, data modeling, and ETL processes.
-	+ Experience designing and implementing systems that collect, manage, and convert raw data into actionable insights through machine learning models.
-* Machine Learning Application Experience:
-	+ Solid foundation in applying machine learning algorithms to real\\-world problems, optimizing algorithms for scalability and performance.
-	+ Hands\\-on experience in building, scaling, and maintaining production\\-level machine learning models.","","https://www.glassdoor.com/Overview/W-EI_IE575263.htm","https://media.glassdoor.com/sql/575263/uber-squarelogo-1537216184790.png","","","","",""
+Skills and Experience:* Candidate must have 15\\+ years of background in Analytics, Data Science \\& Machine learning
+* Experience as a Business Analyst/ Technical Consultant in the domain of Data Science Solutions is a plus.
+* Must have hands on experience developing, validating and implementing ML models.
+* Well versed with Python for data handling, algorithm development and model building.
+* Familiarity with Cloud based environments. (Preferred – AWS).
+* Comfortable working with cross functional teams and matrix organization.
+
+
+Post\\- Graduate Education or Ph.D. in:* Computer Science, Mathematics, Electrical Engineering, Mechanical Engineering, Operations Research, Systems or Chemical Engineering.
+
+
+About Bloom Energy:
+Bloom Energy will make clean, reliable energy affordable for everyone in the world. Our technology, first developed for NASA's Mars Program, will dramatically change the way that the world’s energy is produced, distributed and consumed. Bloom’s unique on\\-site power generation systems are among the most efficient on the planet, providing significantly reduced operating costs and producing dramatically lower greenhouse gas emissions. Pioneering a new class of stationary fuel cells, Bloom is not just creating a new product or company; it is driving a whole new industry.
+As one of Silicon Valley’s most promising startups, Bloom was the first clean energy technology investment for Kleiner Perkins and NEA, two of Silicon Valley’s most revered venture capital firms. The company has assembled a super\\-star board, experienced management team, and top\\-notch technical staff. Bloom Energy is growing quickly and is looking to add to its dynamic team.
+Bloom Energy is an equal opportunity employer and makes employment decisions on the basis of merit. We are committed to compliance with all applicable laws providing equal employment opportunities. Bloom Energy makes reasonable accommodations, consistent with applicable laws, for the known physical or mental limitations of an otherwise qualified applicant or employee with a disability, who can perform the essential job functions, unless undue hardship would result.","","https://www.glassdoor.com/Overview/W-EI_IE221937.htm","https://media.glassdoor.com/sql/221937/bloom-energy-squareLogo-1675720203329.png","","","","",""
+"gd-1009651383955","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651383955","","Data Scientist","SAP","Bengaluru","2025-02-27","","direct_data","yearly",200000.0,500000.0,"INR",False,"","","organic","Careers@sap.com","**We help the world run better**
+
+At SAP, we enable you to bring out your best. Our company culture is focused on collaboration and a shared passion to help the world run better. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose\\-driven and future\\-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from.
+
+**What you'll do**
+
+* In the role of a Data Scientist (internally: Business Processes Consultant), you will work in the data science team of the Global Center of Expertise (CoE) – Application Integration with focus on the development and integration of the SAP AI CoPilot Joule for Customer Transformation Projects and Intelligent Service Delivery Hub (ISD Hub).
+* Your future tasks cover research, develop, deploy and operate AI solutions or AI services that support the intelligent service delivery to accelerate customers' software implementation, transformation, or upgrade project, and quality related tasks to fulfill SAP’s high product quality standards.
+* As a member in the data science team, you will work in a cross\\-team development project or stand\\-alone AI project and are responsible for completing and communicating the progress and status of your assigned tasks.
+
+ **What you bring**
+
+* University Degree in Computer Science, Mathematics or related (especially statistics) with 4\\-7 years of professional experience
+* Python \\& JAVA (both mandatory) with related common libraries
+* Different machine learning libraries (e.g. sklearn, sentence\\-transformers, langchain…)
+
+
+Able to use different machine leaning models in at least two of below areas
+
+* NLP, e.g. transformer models and Generative AI
+* Data modelling \\& visualization
+* Clustering and Graph\\-Network Analysis (optional)
+* Regression, Classification \\& Neuronal Networks (optional)
+
+
+Knowledge for Development and Deployment for Cloud Application
+
+* Cloud application related development and deployment tools (e.g. Docker, Postman)
+* Configuration of CI/CD Pipeline (e.g. Jenkins)
+* Relational Database (or other type of database) and SQL
+* Experience with SAP Data Intelligence (optional)
+* Experience with experience with SAP BTP, e.g. with AI Core, AI Launchpad, Unified/Business Agent Foundation, Document Grounding and/or Build Process Automation is preferred
+* Knowledge of different development languages (e.g JavaScript)
+
+
+Knowledge and experience in Project Work
+
+* Understand priority and dependency of assigned tasks.
+* Collaborate with other team members (agile) and complete the assigned tasks in time and in budget.
+
+ **Meet your team**
+
+* Our COE team primarily focuses on SAP S/4HANA Finance, Custom Code Management and Data Volume Management and Service Development for PE/PS, ES and Preferred Success. We run assessments of functional and technical design, analyze system performance, monitor systems during testing and GoLive and actively support resolving business critical situations.
+* The data science team focus on data analysis and using AI technique to develop data driven AI solution or services to empower intelligent service delivery.
+
+
+\\#SAPInternalT2 \\#BusinessProcessT2
+
+
+**Bring out your best**
+
+
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end\\-to\\-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose\\-driven and future\\-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+
+**We win with inclusion**
+
+
+SAP’s culture of inclusion, focus on health and well\\-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.  
+
+SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e\\-mail with your request to Recruiting Operations Team: Careers@sap.com  
+
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+
+**EOE AA M/F/Vet/Disability:**
+
+
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.  
+
+Successful candidates might be required to undergo a background verification with an external vendor.
+
+
+Requisition ID: 411812 \\| Work Area: Consulting and Professional Services \\| Expected Travel: 0 \\- 10% \\| Career Status: Professional \\| Employment Type: Regular Full Time \\| Additional Locations: \\#LI\\-Hybrid.","","https://www.glassdoor.com/Overview/W-EI_IE10471.htm","https://media.glassdoor.com/sql/10471/sap-squareLogo-1658433034046.png","","","","",""
+"gd-1009652782394","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009652782394","","Data Scientist","Zzazz Inc","Bengaluru","2025-02-27","","direct_data","yearly",500000.0,800000.0,"INR",False,"","","organic","","Roles and Responsibilities
+
+
+* Develop and implement machine learning models to quantify the value of digital information
+* Collaborate closely with a multidisciplinary team to develop solutions to complex problems in the AI economics domain
+* Leverage data to generate insights and strategies that will steer the direction of our products
+* Maintain the integrity and quality of the information by identifying and mitigating issues such as plagiarism and fake content
+
+Skillset
+
+
+* Proficiency in Python, SQL, and data visualization tools
+* Experience with big data technologies such as Hadoop and Spark
+* Strong analytical and problem\\-solving abilities
+* Excellent communication and teamwork skills Experience
+* 4\\-6 years of experience in data science or a related field.
+
+Qualification
+
+
+* A master's degree in computer science, Statistics, Mathematics, or a related field is required.
+
+About Zzazz
+
+
+Zzazz is pioneering the next global information economy by transforming how digital content is valued and experienced. Our advanced Economic AI quantifies the real\\-time value and price of content, turning it into dynamic assets that reshape industries worldwide. At Zzazz, you'll join a team of innovators pushing the boundaries of AI and economics to create meaningful impact on a global scale","","https://www.glassdoor.com/Overview/W-EI_IE10279313.htm","","","","","",""
+"gd-1009652820222","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009652820222","","Sr. Python Developer/Data Scientist - IT- On site - Bangalore","Transworld Systems, Inc.","Bengaluru","2025-02-27","","direct_data","yearly",2500000.0,3500000.0,"INR",False,"","","organic","","Overview:
+* **Please Note:**
+* **English** language proficiency is **required** for this role.
+* This is a **full\\-time**, ***work from office*** role.
+* This requires a U.S. schedule \\- India ***Night shift***
+
+ **Work Location:** This is a **Work from Office** position and location is **Bangalore** at ***3rd Floor, Block 12B, Pritech Park SEZ, Survey No.51\\-64/4, Bellandur, Village, Bldg 9A Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103*** **Compensation**: CTC: ₹25LPA \\-₹35LPA per year  
+
+Build Your Future! Come join our thriving team! We are seeking ambitious, self\\-motivated and driven people just like you for a rewarding career. **Why should you consider TSI?*** Transport Facility
+* Paid training
+* Team\\-oriented work environment
+* Growth opportunity
+* Comprehensive benefits package available: including medical, paid time off and paid holidays!
+* Transportation provided
+* Working 5 days
+
+
+Transworld Systems, Inc. is an industry leader, customer\\-first provider of customer relationship outsourcing services, accounts receivable management, loan servicing and legal services for many of the world’s leading companies. We have over 50 years of experience in handling customer contacts and interactions across a broad spectrum of industries.
+Responsibilities:
+**PRIMARY RESPONSIBILITIES:*** Write effective Python code to tackle complex issues, but also use your business sense and analytical abilities to glean valuable insights from public databases
+* Communicate clearly with team and help the organization in realizing its objectives
+* Clearly express the reasoning and logic when writing code in Jupyter notebooks
+* Fix bugs in the code and create thorough documentation
+* Utilize your data analysis skills to develop and respond to important business queries using available datasets
+* Effectively communicate with the team to comprehend the needs and provide the results
+
+
+Qualifications:
+**QUALIFICATIONS AND EDUCATION REQUIREMENTS:**
+==============================================
+
+* Bachelor’s/Master’s Degree in Engineering, Computer Science (or equivalent experience)
+* At least 5\\+ years of relevant experience as a data scientist
+* 5\\+ years of Data analysis experience and a desire to have a significant impact on the field of artificial intelligence
+* 5\\+ years of experience working extensively with Python programming
+* Extensive experience working with Data Science/Analysis
+* Familiarity with SQL, Rest API, Tableau and related technologies is desirable
+* Excellent communication abilities to work with stakeholders and researchers successfully
+* Strong data analytic abilities and business sense are required to draw the appropriate conclusions from the dataset, respond to those conclusions, and clearly convey the key findings
+* Excellent problem\\-solving and analytical skills
+* Fluent in conversational and written English communication skills
+
+**PHYSICAL REQUIREMENTS:**
+==========================
+
+* Normal, corrective vision range; ability to see color and to distinguish letters, numbers and symbols
+* Frequently required to sit, stand, walk, talk, hear, bend and reach
+* Ability to reach with hands and arms
+* Occasionally lift and/or move up to 30lbs
+
+**WORK CONDITIONS:**
+====================
+
+
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. You are acknowledging that you can perform the essential functions with or without a reasonable accommodation. The noise level in the work environment is usually moderate. The work environment is primarily indoors. **This job description is not an exclusive or exhaustive list of all job functions that a team member in this position may be asked to perform. Duties and responsibilities can be changed, expanded, reduced or delegated by management to meet the business needs of the company. By signing below, you are acknowledging receipt and comprehension of this job description**.  
+
+
+Posted Salary Range: INR ₨2,500,000\\.00 \\- INR ₨3,500,000\\.00 /Yr.","","https://www.glassdoor.com/Overview/W-EI_IE118542.htm","https://media.glassdoor.com/sql/118542/transworld-systems-squarelogo-1481750960064.png","","","","",""
 "gd-1009651374728","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651374728","","Data Storytelling Analyst","Version 1","Bengaluru","2025-02-27","","direct_data","yearly",650000.0,800000.0,"INR",False,"","","organic","","**Company Description**  
 
 Version 1 has celebrated over 26 years in Technology Services and continues to be trusted by global brands to deliver solutions that drive customer success. Version 1 has several strategic technology partners including Microsoft, AWS, Oracle, Red Hat, OutSystems and Snowflake. We’re also an award\\-winning employer reflecting how employees are at the heart of Version 1\\.
@@ -103,120 +233,56 @@ We prioritise the health and safety of our employees, providing private medical 
 
 
 Our employee\\-designed Profit Share scheme divides a portion of our company's profits each quarter amongst employees. We are dedicated to helping our employees reach their full potential, offering Pathways Career Development Quarterly, a programme designed to support professional growth.","","https://www.glassdoor.com/Overview/W-EI_IE339862.htm","https://media.glassdoor.com/sql/339862/version-1-squareLogo-1719419404610.png","","","","",""
-"gd-1009651611253","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651611253","","Data Scientist","Zzazz Inc","Bengaluru","2025-02-27","","direct_data","yearly",500000.0,800000.0,"INR",False,"","","organic","","Roles and Responsibilities
+"gd-1009651600358","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651600358","","Staff Software Machine Learning Engineer","Uber","Bengaluru","2025-02-27","","direct_data","yearly",180000.0,216000.0,"INR",False,"","","organic","","**About the Role**
+  
+
+  
+
+We are looking for exceptional engineers to build systems for our very own employees and our customers. Our mission is to enhance Uber's corporate speed, reliability and worker happiness by building products, integrations and platforms. You will work closely with a highly capable team of engineers, data scientists, designers and product managers to ensure Uber's internal products and platforms are a powerful and innovative business advantage. The **uSearch team** is a part of BizTech that builds scalable, reliable, near realtime and robust enterprise integrations of a plethora of applications and services we build and use at Uber.
+  
+
+  
+
+**What You'll do:**
+* Apply leading Models to solve business problems
+	+ Use models from GPT\\-\\* to LLama\\-\\* to solve wide range of business problems from sales tech, employee productivity, coding and automation
+	+ Build RAG frameworks
+	+ Build Langchain modules
+* Model Development and Implementation:
+	+ Design, develop, and deploy machine learning models to solve complex problems and improve user experiences, operational efficiency, or system performance.
+	+ Utilize a variety of data sources, types, and structures to extract actionable insights through predictive analytics and data mining techniques.
+* Research and Innovation:
+	+ Stay abreast of the latest developments in the field of machine learning and artificial intelligence. Evaluate emerging trends and technologies for potential adoption to maintain and expand competitive advantage.
+	+ Lead research initiatives that test new algorithms, evaluate new methodologies, and explore innovative uses of data that can lead to scalable solutions.
+* Team Leadership and Development:
+	+ Lead and mentor a team of machine learning engineers and data scientists. Ensure the continuous professional growth of team members through clear goal\\-setting, regular feedback, and development opportunities.
+	+ Foster a collaborative and inclusive team environment that encourages innovation and iterative learning.
+* Cross\\-Functional Collaboration:
+	+ Work closely with product management, software engineering, and data engineering teams to integrate machine learning models into larger software systems and product offerings.
+	+ Partner with stakeholders across the organization to understand business needs and translate them into technical requirements and actionable machine learning projects.
+* Project Management:
+	+ Oversee the full project lifecycle for multiple machine learning initiatives, from ideation and data collection to model development and deployment.
+	+ Manage resources, timelines, and risks effectively, ensuring that projects meet their objectives and are delivered on schedule.
+	+ Performance Monitoring and Model Optimization:
+	+ Continuously monitor the performance of deployed models, identifying opportunities for improvement and optimization.
+	+ Implement robust testing and validation strategies to ensure model accuracy and reliability over time.
 
 
-* Develop and implement machine learning models to quantify the value of digital information
-* Collaborate closely with a multidisciplinary team to develop solutions to complex problems in the AI economics domain
-* Leverage data to generate insights and strategies that will steer the direction of our products
-* Maintain the integrity and quality of the information by identifying and mitigating issues such as plagiarism and fake content
-
-**Skillset**
-
-* Proficiency in Python, SQL, and data visualization tools
-* Experience with big data technologies such as Hadoop and Spark
-* Strong analytical and problem\\-solving abilities
-* Excellent communication and teamwork skills
-
-**Experience**
-
-
-* 4\\-6 years of experience in data science or a related field.
-
-**Qualification**
-
-* A master's degree in computer science, Statistics, Mathematics, or a related field is required.
-
-**About Zzazz**
-
-Zzazz is pioneering the next global information economy by transforming how digital content is valued and experienced. Our advanced Economic AI quantifies the real\\-time value and price of content, turning it into dynamic assets that reshape industries worldwide. At Zzazz, you'll join a team of innovators pushing the boundaries of AI and economics to create meaningful impact on a global scale","","https://www.glassdoor.com/Overview/W-EI_IE10279313.htm","","","","","",""
-"gd-1009652516292","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009652516292","","Director Data Science","Empower","Bengaluru","2025-02-27","","direct_data","yearly",500000.0,800000.0,"INR",False,"","","organic","","Our vision for the future is based on the idea that transforming financial lives starts by giving our people the freedom to transform their own. We have a flexible work environment, and fluid career paths. We not only encourage but celebrate internal mobility. We also recognize the importance of purpose, well\\-being, and work\\-life balance. Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteering for causes that matter most to them.
-Chart your own path and grow your career while helping more customers achieve financial freedom. Empower Yourself.
-The Director Data Science – Innovation Lab is responsible for leading a team of innovators that drive experimentation initiatives on emerging technologies, with a focus on Generative AI, automation, and next\\-generation software architectures. This role drives rapid prototyping, proof\\-of\\-concept (PoC) development, and pilot implementations to explore high\\-impact innovations for the firm. By fostering a culture of experimentation, the Director ensures that new ideas are rigorously tested for technical feasibility, business value, and scalability.
-This position collaborates closely with product, business, and technology teams to identify opportunities, de\\-risk innovations, and transition successful experiments into production\\-ready solutions. Additionally, the role oversees a secure and scalable Innovation Lab sandbox to enable fast, low\\-risk technology exploration.
-ESSENTIAL FUNCTIONS
-Emerging Technology Experimentation \\& Prototyping* Identify and evaluate emerging technologies (AI/ML, cloud\\-native solutions, blockchain, quantum computing, etc.) for business impact.
-* Lead rapid prototyping and PoC development, ensuring experiments are structured to test key hypotheses.
-* Design and build proofs of concepts in an Innovation Lab sandbox to facilitate secure, scalable experimentation.
-
-
-Software Development \\& Innovation Best Practices* Establish best practices for quick iteration, responsible AI/ML experimentation, emerging tech, and scalable software architectures.
-* Advocate for fail\\-fast, learn\\-fast methodologies to accelerate insights from experiments.
-* Develop reusable frameworks and patterns for experimentation to streamline future innovation efforts.
-
-
-Collaboration \\& Stakeholder Engagement* Partner with business leaders, product teams, and technology groups to identify and prioritize innovation opportunities.
-* Communicate key learnings and recommendations from experimentation efforts to senior leadership.
-* Engage with external partners, academia, and industry consortiums to stay ahead of technology trends.
-
-
-Technical Leadership \\& Team Development* Lead a team of software engineers, AI researchers, and data scientists focused on emerging technology innovation.
-* Mentor engineers on experimental methodologies, modern software development practices, emerging tech and AI/ML capabilities.
-* Foster a culture of continuous learning and technical excellence.
-
-
-Education* Bachelor’s degree in computer science, Software Engineering, or related field (or equivalent experience).
-* Advanced degree (MS, PhD) in a relevant field is a plus.
-
-
-Experience* 12\\+ years of experience in software engineering and technology leadership roles.
-* Proven track record of leading innovation initiatives and delivering proof\\-of\\-concept projects on emerging technologies.
-* Hands\\-on experience with cloud platforms (AWS, Azure, GCP) and modern software architectures (microservices, serverless, event\\-driven).
-* Expertise in AI/ML, engineering, and rapid prototyping methodologies is highly desirable.
-
-
-Registrations/Licenses/Certifications* Cloud and AI/ML certifications (e.g., Generative AI, AWS, Azure, etc.) beneficial.
-* Agile, Scrum, or innovation\\-related certifications a plus.
-
-
- SKILLS/CHARACTERISTICS* Strong software engineering expertise with a focus on emerging technologies.
-* Ability to drive fast\\-paced experimentation while ensuring technical rigor.
-* Excellent communication and storytelling skills to convey complex technology concepts to business leaders.
-* Passion for innovation, problem\\-solving, and continuous learning.
-* Proven track record in hiring, mentoring, and growing top\\-tier talent in high\\-performing technology teams.
-
-
-WORKING CONDITIONS* Operates in a remote work environment.
-* May involve occasional extended hours to meet project deadlines.
-* Travel up to 15% for industry events, partner engagements, and collaboration opportunities.
-
-
-OTHER RESPONSIBILITIES \\& AUTHORITY* Ownership of Innovation Lab technology team in India, experimentation activities, and vendor partnerships.
-* Authority to select and integrate new tools, frameworks, and platforms in alignment with innovation strategy.
-* Member of Innovation Leadership Team, contributing to firmwide innovation strategy and initiatives.
-
-
-FINANCIAL RESPONSIBILITY* Helps manage multi\\-million\\-dollar innovation budget supporting rapid prototyping, emerging technology research, and experimentation tools.
-
-
-INTERNAL \\& EXTERNAL CONTACTS* Collaborates with executives, product managers, data scientists, engineers, and UX designers to drive innovation initiatives.
-
-
-We are an equal opportunity employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to age, race, color, national origin, ancestry, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, religion, physical or mental disability, military or veteran status, genetic information, or any other status protected by applicable state or local law.","","https://www.glassdoor.com/Overview/W-EI_IE2693448.htm","","","","","",""
-"gd-1009651202728","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651202728","","Sr Principal Engineer - Data Science","Bloom Energy","Bengaluru","2025-02-27","","direct_data","yearly",395000.0,542500.0,"INR",False,"","","organic","","Job Description:
-Bloom Energy is looking for dynamic leader to join our Computation \\& Data Science team. This exciting position will allow the person to enable AI/ ML strategies for a growing fleet of Bloom Energy systems. We seek enthusiastic contributors with strong analytical and problem solving skills, and background in data science.
-Location: This position will be based in Bangalore or Mumbai, India
-Role and Responsibilities:* Interact with stake owners for various functions across the organization and understand the business problems.
-* Evaluate the business problem at hand and propose the AI/ ML based solution.
-* Work with the various internal teams to design the detailed solution and guide the development of necessary data infrastructure.
-* Work with a team of data scientists to execute on the proposed solution.
-
-
-Skills and Experience:* Candidate must have 15\\+ years of background in Analytics, Data Science \\& Machine learning
-* Experience as a Business Analyst/ Technical Consultant in the domain of Data Science Solutions is a plus.
-* Must have hands on experience developing, validating and implementing ML models.
-* Well versed with Python for data handling, algorithm development and model building.
-* Familiarity with Cloud based environments. (Preferred – AWS).
-* Comfortable working with cross functional teams and matrix organization.
-
-
-Post\\- Graduate Education or Ph.D. in:* Computer Science, Mathematics, Electrical Engineering, Mechanical Engineering, Operations Research, Systems or Chemical Engineering.
-
-
-About Bloom Energy:
-Bloom Energy will make clean, reliable energy affordable for everyone in the world. Our technology, first developed for NASA's Mars Program, will dramatically change the way that the world’s energy is produced, distributed and consumed. Bloom’s unique on\\-site power generation systems are among the most efficient on the planet, providing significantly reduced operating costs and producing dramatically lower greenhouse gas emissions. Pioneering a new class of stationary fuel cells, Bloom is not just creating a new product or company; it is driving a whole new industry.
-As one of Silicon Valley’s most promising startups, Bloom was the first clean energy technology investment for Kleiner Perkins and NEA, two of Silicon Valley’s most revered venture capital firms. The company has assembled a super\\-star board, experienced management team, and top\\-notch technical staff. Bloom Energy is growing quickly and is looking to add to its dynamic team.
-Bloom Energy is an equal opportunity employer and makes employment decisions on the basis of merit. We are committed to compliance with all applicable laws providing equal employment opportunities. Bloom Energy makes reasonable accommodations, consistent with applicable laws, for the known physical or mental limitations of an otherwise qualified applicant or employee with a disability, who can perform the essential job functions, unless undue hardship would result.","","https://www.glassdoor.com/Overview/W-EI_IE221937.htm","https://media.glassdoor.com/sql/221937/bloom-energy-squareLogo-1675720203329.png","","","","",""
+**What You'll Need:**
+* Experience in applying Gen\\-AI/LLM in production
+* Managed at least a team 4\\+ engineers for end\\-to\\-end deliverables, for more than 2 years
+* Education: Bachelor's degree in Computer Science, Engineering, or a closely related field. Advanced degrees (Master's or PhD) in fields that emphasize software engineering or machine learning are preferred.
+* Professional Experience: At least 8 years of experience in software development with a proven track record in both software engineering and research or applied machine learning projects.
+* Technical Expertise:
+	+ Expertise in programming using languages such as Python, Java, C\\+\\+, or Scala.
+	+ Proficient with modern software engineering tools and methodologies (e.g., version control, CI/CD, agile development practices).
+	+ Extensive experience with machine learning libraries and frameworks like TensorFlow, PyTorch, or Keras.
+* Data Proficiency:
+	+ Strong capabilities in handling large datasets, with skills in SQL, NoSQL databases, data modeling, and ETL processes.
+	+ Experience designing and implementing systems that collect, manage, and convert raw data into actionable insights through machine learning models.
+* Machine Learning Application Experience:
+	+ Solid foundation in applying machine learning algorithms to real\\-world problems, optimizing algorithms for scalability and performance.
+	+ Hands\\-on experience in building, scaling, and maintaining production\\-level machine learning models.","","https://www.glassdoor.com/Overview/W-EI_IE575263.htm","https://media.glassdoor.com/sql/575263/uber-squarelogo-1537216184790.png","","","","",""
 "gd-1009651384124","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651384124","","Senior Machine Learning Engineer","SAP","Bengaluru","2025-02-27","","direct_data","yearly",300000.0,360000.0,"INR",False,"","","organic","Careers@sap.com","**We help the world run better**
 
 At SAP, we enable you to bring out your best. Our company culture is focused on collaboration and a shared passion to help the world run better. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose\\-driven and future\\-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from.
@@ -298,6 +364,174 @@ Successful candidates might be required to undergo a background verification wit
 
 
 Requisition ID: 411737 \\| Work Area: Software\\-Design and Development \\| Expected Travel: 0 \\- 10% \\| Career Status: Professional \\| Employment Type: Regular Full Time \\| Additional Locations: \\#LI\\-Hybrid.","","https://www.glassdoor.com/Overview/W-EI_IE10471.htm","https://media.glassdoor.com/sql/10471/sap-squareLogo-1658433034046.png","","","","",""
+"gd-1009651391058","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651391058","","Sr Data Scientist","GE Aerospace","Bengaluru","2025-02-27","","direct_data","yearly",744000.0,744000.0,"INR",False,"","","organic","","**Job Description Summary**
+===========================
+
+
+The Sr Data Scientist will contribute to ideating and developing near\\-term and long\\-term projects with significant business impact. In this role, the person will support the technology roadmap of the organization in the areas of computer vision, image analytics, and deep learning, and will be involved in creating impactful projects in these domains. Additionally, the individual will participate in reviews and provide technical support for global teams, helping to integrate advanced techniques into GE Aerospace's solutions.**Job Description**
+===================
+
+### **Company Overview**
+
+  
+
+Working at GE Aerospace means you are bringing your unique perspective, innovative spirit, drive, and curiosity to a collaborative and diverse team working to advance aerospace for future generations. If you have ideas, we will listen. Join us and see your ideas take flight!
+
+### **Site Overview**
+
+  
+
+Established in 2000, the John F. Welch Technology Center (JFWTC) in Bengaluru is our multidisciplinary research and engineering center. Engineers and scientists at JFWTC have contributed to hundreds of aviation patents, pioneering breakthroughs in engine technologies, advanced materials, and additive manufacturing.
+
+### **Role Overview**
+
+
+As a Sr Data Scientist, you will be part of a data science or cross\\-disciplinary team on commercially\\-facing development projects, typically involving large, complex data sets. These teams typically include statisticians, computer scientists, software developers, engineers, product managers, and end users, working in concert with partners in GE business units. Potential application areas include remote monitoring and diagnostics across infrastructure and industrial sectors, financial portfolio risk assessment, and operations optimization.
+
+* Partner with GE Software Engagement Managers to shape Statements of Work for Data Science opportunities and GE Software Solutions
+* Participate in Data Science Workouts to shape Data Science opportunities and identify opportunities to use data science to create customer value
+* Serve as a recognized technical leader in data science \\- anticipate, develop and apply technology to current and future business opportunities.
+* Proficient in statistics, machine learning and deep learning technologies
+* Identify opportunities to use data science to create customer value, execute on the same.
+* Develop, verify and validate analytics to address customer needs and opportunities, communicate methods, findings and hypothesis with stakeholders.
+* Influence the decisions the leadership takes with relevant inputs and suggestions.
+* Being aware of the latest technology trends in the industry and introducing the relevant ones within the organization
+* Identifies IP Opportunities and Supports technical roadmap development within domain , site , Organization.
+* Lead initiatives to continuously improve data science methodologies and processes, leveraging lean principles to enhance efficiency and effectiveness in project delivery.
+* Develop, verify, and validate analytics to address customer needs and opportunities.
+* Work as part of a cross\\-functional team to translate algorithms into commercially viable products and services.
+* Generate reports, annotated code, and other projects artifacts to document, archive, and communicate your work and outcomes.
+* Communicate methods, findings, and hypotheses with stakeholders.
+* Ensure that projects comply with relevant aerospace industry regulations and standards, maintaining the highest levels of safety and quality.
+
+**Qualification / Requirements:**
+
+* Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with significant experience in data science
+* Demonstrated skill in the use of Python and / or other analytic software tools or languages
+* Demonstrated skill in guiding teams to solve business problems
+* Strong communication, interpersonal and leadership skills
+
+**About Us:**
+
+
+GE Aerospace is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.  
+
+  
+
+* Disclosure of your Gender or Sexual orientation is completely Voluntary and not mandatory.
+
+  
+
+www.geaerospace.com**Additional Information**
+==========================
+
+**Relocation Assistance Provided:** No","","https://www.glassdoor.com/Overview/W-EI_IE8674.htm","https://media.glassdoor.com/sql/8674/ge-aerospace-squareLogo-1733343742652.png","","","","",""
+"gd-1009651333691","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651333691","","Senior Data Scientist","Bright Vision Technologies","India","2025-02-27","","","","","","",False,"","","organic","venkat.r@bvteck.com","Bright Vision Technologies has an immediate Full\\-time opportunity for Senior Data Scientist to join our team in United States.  
+
+  
+
+Job Role: Senior Data Scientist  
+
+Job Location: USA  
+
+  
+
+Bright Vision Technologies  
+
+Your Path to a Successful Career in the U.S. Starts Here!  
+
+ Now Accepting Applications for the H1B 2025 Lottery!  
+
+  
+
+At Bright Vision Technologies, we specialize in turning aspirations into reality. Whether you're an IT professional looking for growth or a recent graduate planning your next step, we’ve got you covered!  
+
+  
+
+Why Partner with Us?  
+
+ Proven Success: A trusted partner in successful H1B filings for over a decade.  
+
+ End\\-to\\-End Support: From documentation to final approval, we handle it all.  
+
+ Top Clients: Access premium opportunities with Fortune 500 companies.  
+
+ Transparent Process: Regular updates and personalized attention at every stage.  
+
+ Green Card Sponsorship: Pathways to long\\-term residency for eligible candidates.  
+
+  
+
+About Bright Vision Technologies: Bright Vision Technologies is a rapidly expanding technology company specializing in innovative data\\-driven solutions. We are dedicated to leveraging advanced analytics and machine learning to drive insights and create value for our clients. We are currently seeking a skilled Data Scientist to join our dynamic team and contribute to the success of our data\\-driven projects.  
+
+  
+
+Job Description: As a Data Scientist at Bright Vision Technologies, you will be responsible for analyzing complex datasets, developing statistical models, and applying machine learning algorithms to extract valuable insights and solve challenging business problems. You will collaborate with cross\\-functional teams to identify data\\-driven opportunities, develop predictive models, and drive the implementation of data\\-driven solutions.  
+
+  
+
+Responsibilities:  
+
+* Analyze large and complex datasets to identify patterns, trends, and insights
+* Develop statistical models and machine learning algorithms to solve business problems
+* Collaborate with cross\\-functional teams to understand project requirements and deliver data\\-driven solutions
+* Apply data cleaning, preprocessing, and feature engineering techniques
+* Evaluate and validate models' performance and accuracy
+* Communicate findings and insights to technical and non\\-technical stakeholders
+* Stay up\\-to\\-date with the latest trends, algorithms, and advancements in data science and machine learning
+* Continuously improve data science methodologies and processes within the organization
+
+  
+
+Requirements:  
+
+* Proven experience as a Data Scientist or similar role
+* Strong proficiency in programming languages such as Python or R
+* Solid understanding of statistics and mathematical concepts relevant to data science
+* Experience with data visualization and reporting tools
+* Knowledge of machine learning algorithms and techniques
+* Familiarity with data manipulation and analysis using SQL
+* Strong problem\\-solving and analytical skills
+* Excellent communication and presentation skills
+* Ability to work in a fast\\-paced and collaborative environment
+
+  
+
+Preferred Qualifications:  
+
+* Master's or Ph.D. degree in Data Science, Computer Science, Statistics, or a related field
+* Experience with deep learning frameworks, such as TensorFlow or PyTorch
+* Knowledge of big data processing technologies (e.g., Hadoop, Spark)
+* Familiarity with cloud\\-based data platforms (e.g., AWS, Azure, Google Cloud Platform)
+* Experience with data engineering and data preprocessing techniques
+* Publications or contributions to the data science community (e.g., research papers, open\\-source projects)
+
+  
+
+Join the Bright Vision Technologies team and be part of an exciting journey to unlock the potential of data\\-driven insights. As a Data Scientist, you will have the opportunity to work on challenging projects, collaborate with talented professionals, and contribute to the growth and success of our organization.  
+
+  
+
+**Important Notes:** As part of the H\\-1B visa sponsorship process, there are various fees and expenses associated with filing and processing the application. While we are committed to supporting you through this process, **we kindly request that candidates cover some of the costs like premium processing (if applicable), and dependent visa fees. This ensures a smooth and efficient process while aligning with our policies.**  
+
+  
+
+However, as a gesture of goodwill, we will reimburse 50% of the fee after 4 years of continuous employment with us.  
+
+  
+
+**If you are not comfortable with this arrangement, we kindly ask that you refrain from applying, as this is a necessary condition for sponsorship.**  
+
+  
+
+Would you like to know more about this opportunity? For immediate consideration, please send your resume directly to venkat.r@bvteck.com  
+
+  
+
+At BVTeck, we are committed to providing equal employment opportunities and fostering an inclusive work environment. We encourage applications from all qualified individuals regardless of race, ethnicity, religion, gender identity, sexual orientation, age, disability, or any other protected status. If you require accommodations during the recruitment process, please let us know.
+
+
+LSdU8R3Wj5","","https://www.glassdoor.com/Overview/W-EI_IE10002581.htm","","","","","",""
 "gd-1009651766020","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651766020","","Senior Data Scientist","Caterpillar","Bengaluru","2025-02-27","","direct_data","yearly",284000.0,700000.0,"INR",False,"","","organic","","**Career Area:**
 
 Technology, Digital and Data
@@ -413,246 +647,6 @@ Caterpillar is an Equal Opportunity Employer (EEO).
 
 
 Not ready to apply? Join our Talent Community .","","https://www.glassdoor.com/Overview/W-EI_IE137.htm","https://media.glassdoor.com/sql/137/caterpillar-squareLogo-1666115925095.png","","","","",""
-"gd-1009651391058","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651391058","","Sr Data Scientist","GE Aerospace","Bengaluru","2025-02-27","","direct_data","yearly",744000.0,744000.0,"INR",False,"","","organic","","**Job Description Summary**
-===========================
-
-
-The Sr Data Scientist will contribute to ideating and developing near\\-term and long\\-term projects with significant business impact. In this role, the person will support the technology roadmap of the organization in the areas of computer vision, image analytics, and deep learning, and will be involved in creating impactful projects in these domains. Additionally, the individual will participate in reviews and provide technical support for global teams, helping to integrate advanced techniques into GE Aerospace's solutions.**Job Description**
-===================
-
-### **Company Overview**
-
-  
-
-Working at GE Aerospace means you are bringing your unique perspective, innovative spirit, drive, and curiosity to a collaborative and diverse team working to advance aerospace for future generations. If you have ideas, we will listen. Join us and see your ideas take flight!
-
-### **Site Overview**
-
-  
-
-Established in 2000, the John F. Welch Technology Center (JFWTC) in Bengaluru is our multidisciplinary research and engineering center. Engineers and scientists at JFWTC have contributed to hundreds of aviation patents, pioneering breakthroughs in engine technologies, advanced materials, and additive manufacturing.
-
-### **Role Overview**
-
-
-As a Sr Data Scientist, you will be part of a data science or cross\\-disciplinary team on commercially\\-facing development projects, typically involving large, complex data sets. These teams typically include statisticians, computer scientists, software developers, engineers, product managers, and end users, working in concert with partners in GE business units. Potential application areas include remote monitoring and diagnostics across infrastructure and industrial sectors, financial portfolio risk assessment, and operations optimization.
-
-* Partner with GE Software Engagement Managers to shape Statements of Work for Data Science opportunities and GE Software Solutions
-* Participate in Data Science Workouts to shape Data Science opportunities and identify opportunities to use data science to create customer value
-* Serve as a recognized technical leader in data science \\- anticipate, develop and apply technology to current and future business opportunities.
-* Proficient in statistics, machine learning and deep learning technologies
-* Identify opportunities to use data science to create customer value, execute on the same.
-* Develop, verify and validate analytics to address customer needs and opportunities, communicate methods, findings and hypothesis with stakeholders.
-* Influence the decisions the leadership takes with relevant inputs and suggestions.
-* Being aware of the latest technology trends in the industry and introducing the relevant ones within the organization
-* Identifies IP Opportunities and Supports technical roadmap development within domain , site , Organization.
-* Lead initiatives to continuously improve data science methodologies and processes, leveraging lean principles to enhance efficiency and effectiveness in project delivery.
-* Develop, verify, and validate analytics to address customer needs and opportunities.
-* Work as part of a cross\\-functional team to translate algorithms into commercially viable products and services.
-* Generate reports, annotated code, and other projects artifacts to document, archive, and communicate your work and outcomes.
-* Communicate methods, findings, and hypotheses with stakeholders.
-* Ensure that projects comply with relevant aerospace industry regulations and standards, maintaining the highest levels of safety and quality.
-
-**Qualification / Requirements:**
-
-* Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with significant experience in data science
-* Demonstrated skill in the use of Python and / or other analytic software tools or languages
-* Demonstrated skill in guiding teams to solve business problems
-* Strong communication, interpersonal and leadership skills
-
-**About Us:**
-
-
-GE Aerospace is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.  
-
-  
-
-* Disclosure of your Gender or Sexual orientation is completely Voluntary and not mandatory.
-
-  
-
-www.geaerospace.com**Additional Information**
-==========================
-
-**Relocation Assistance Provided:** No","","https://www.glassdoor.com/Overview/W-EI_IE8674.htm","https://media.glassdoor.com/sql/8674/ge-aerospace-squareLogo-1733343742652.png","","","","",""
-"gd-1009651383955","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651383955","","Data Scientist","SAP","Bengaluru","2025-02-27","","direct_data","yearly",200000.0,500000.0,"INR",False,"","","organic","Careers@sap.com","**We help the world run better**
-
-At SAP, we enable you to bring out your best. Our company culture is focused on collaboration and a shared passion to help the world run better. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose\\-driven and future\\-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from.
-
-**What you'll do**
-
-* In the role of a Data Scientist (internally: Business Processes Consultant), you will work in the data science team of the Global Center of Expertise (CoE) – Application Integration with focus on the development and integration of the SAP AI CoPilot Joule for Customer Transformation Projects and Intelligent Service Delivery Hub (ISD Hub).
-* Your future tasks cover research, develop, deploy and operate AI solutions or AI services that support the intelligent service delivery to accelerate customers' software implementation, transformation, or upgrade project, and quality related tasks to fulfill SAP’s high product quality standards.
-* As a member in the data science team, you will work in a cross\\-team development project or stand\\-alone AI project and are responsible for completing and communicating the progress and status of your assigned tasks.
-
- **What you bring**
-
-* University Degree in Computer Science, Mathematics or related (especially statistics) with 4\\-7 years of professional experience
-* Python \\& JAVA (both mandatory) with related common libraries
-* Different machine learning libraries (e.g. sklearn, sentence\\-transformers, langchain…)
-
-
-Able to use different machine leaning models in at least two of below areas
-
-* NLP, e.g. transformer models and Generative AI
-* Data modelling \\& visualization
-* Clustering and Graph\\-Network Analysis (optional)
-* Regression, Classification \\& Neuronal Networks (optional)
-
-
-Knowledge for Development and Deployment for Cloud Application
-
-* Cloud application related development and deployment tools (e.g. Docker, Postman)
-* Configuration of CI/CD Pipeline (e.g. Jenkins)
-* Relational Database (or other type of database) and SQL
-* Experience with SAP Data Intelligence (optional)
-* Experience with experience with SAP BTP, e.g. with AI Core, AI Launchpad, Unified/Business Agent Foundation, Document Grounding and/or Build Process Automation is preferred
-* Knowledge of different development languages (e.g JavaScript)
-
-
-Knowledge and experience in Project Work
-
-* Understand priority and dependency of assigned tasks.
-* Collaborate with other team members (agile) and complete the assigned tasks in time and in budget.
-
- **Meet your team**
-
-* Our COE team primarily focuses on SAP S/4HANA Finance, Custom Code Management and Data Volume Management and Service Development for PE/PS, ES and Preferred Success. We run assessments of functional and technical design, analyze system performance, monitor systems during testing and GoLive and actively support resolving business critical situations.
-* The data science team focus on data analysis and using AI technique to develop data driven AI solution or services to empower intelligent service delivery.
-
-
-\\#SAPInternalT2 \\#BusinessProcessT2
-
-
-**Bring out your best**
-
-
-SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end\\-to\\-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose\\-driven and future\\-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
-
-**We win with inclusion**
-
-
-SAP’s culture of inclusion, focus on health and well\\-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.  
-
-SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e\\-mail with your request to Recruiting Operations Team: Careers@sap.com  
-
-For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
-
-**EOE AA M/F/Vet/Disability:**
-
-
-Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.  
-
-Successful candidates might be required to undergo a background verification with an external vendor.
-
-
-Requisition ID: 411812 \\| Work Area: Consulting and Professional Services \\| Expected Travel: 0 \\- 10% \\| Career Status: Professional \\| Employment Type: Regular Full Time \\| Additional Locations: \\#LI\\-Hybrid.","","https://www.glassdoor.com/Overview/W-EI_IE10471.htm","https://media.glassdoor.com/sql/10471/sap-squareLogo-1658433034046.png","","","","",""
-"gd-1009651333691","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009651333691","","Senior Data Scientist","Bright Vision Technologies","India","2025-02-27","","","","","","",False,"","","organic","venkat.r@bvteck.com","Bright Vision Technologies has an immediate Full\\-time opportunity for Senior Data Scientist to join our team in United States.  
-
-  
-
-Job Role: Senior Data Scientist  
-
-Job Location: USA  
-
-  
-
-Bright Vision Technologies  
-
-Your Path to a Successful Career in the U.S. Starts Here!  
-
- Now Accepting Applications for the H1B 2025 Lottery!  
-
-  
-
-At Bright Vision Technologies, we specialize in turning aspirations into reality. Whether you're an IT professional looking for growth or a recent graduate planning your next step, we’ve got you covered!  
-
-  
-
-Why Partner with Us?  
-
- Proven Success: A trusted partner in successful H1B filings for over a decade.  
-
- End\\-to\\-End Support: From documentation to final approval, we handle it all.  
-
- Top Clients: Access premium opportunities with Fortune 500 companies.  
-
- Transparent Process: Regular updates and personalized attention at every stage.  
-
- Green Card Sponsorship: Pathways to long\\-term residency for eligible candidates.  
-
-  
-
-About Bright Vision Technologies: Bright Vision Technologies is a rapidly expanding technology company specializing in innovative data\\-driven solutions. We are dedicated to leveraging advanced analytics and machine learning to drive insights and create value for our clients. We are currently seeking a skilled Data Scientist to join our dynamic team and contribute to the success of our data\\-driven projects.  
-
-  
-
-Job Description: As a Data Scientist at Bright Vision Technologies, you will be responsible for analyzing complex datasets, developing statistical models, and applying machine learning algorithms to extract valuable insights and solve challenging business problems. You will collaborate with cross\\-functional teams to identify data\\-driven opportunities, develop predictive models, and drive the implementation of data\\-driven solutions.  
-
-  
-
-Responsibilities:  
-
-* Analyze large and complex datasets to identify patterns, trends, and insights
-* Develop statistical models and machine learning algorithms to solve business problems
-* Collaborate with cross\\-functional teams to understand project requirements and deliver data\\-driven solutions
-* Apply data cleaning, preprocessing, and feature engineering techniques
-* Evaluate and validate models' performance and accuracy
-* Communicate findings and insights to technical and non\\-technical stakeholders
-* Stay up\\-to\\-date with the latest trends, algorithms, and advancements in data science and machine learning
-* Continuously improve data science methodologies and processes within the organization
-
-  
-
-Requirements:  
-
-* Proven experience as a Data Scientist or similar role
-* Strong proficiency in programming languages such as Python or R
-* Solid understanding of statistics and mathematical concepts relevant to data science
-* Experience with data visualization and reporting tools
-* Knowledge of machine learning algorithms and techniques
-* Familiarity with data manipulation and analysis using SQL
-* Strong problem\\-solving and analytical skills
-* Excellent communication and presentation skills
-* Ability to work in a fast\\-paced and collaborative environment
-
-  
-
-Preferred Qualifications:  
-
-* Master's or Ph.D. degree in Data Science, Computer Science, Statistics, or a related field
-* Experience with deep learning frameworks, such as TensorFlow or PyTorch
-* Knowledge of big data processing technologies (e.g., Hadoop, Spark)
-* Familiarity with cloud\\-based data platforms (e.g., AWS, Azure, Google Cloud Platform)
-* Experience with data engineering and data preprocessing techniques
-* Publications or contributions to the data science community (e.g., research papers, open\\-source projects)
-
-  
-
-Join the Bright Vision Technologies team and be part of an exciting journey to unlock the potential of data\\-driven insights. As a Data Scientist, you will have the opportunity to work on challenging projects, collaborate with talented professionals, and contribute to the growth and success of our organization.  
-
-  
-
-**Important Notes:** As part of the H\\-1B visa sponsorship process, there are various fees and expenses associated with filing and processing the application. While we are committed to supporting you through this process, **we kindly request that candidates cover some of the costs like premium processing (if applicable), and dependent visa fees. This ensures a smooth and efficient process while aligning with our policies.**  
-
-  
-
-However, as a gesture of goodwill, we will reimburse 50% of the fee after 4 years of continuous employment with us.  
-
-  
-
-**If you are not comfortable with this arrangement, we kindly ask that you refrain from applying, as this is a necessary condition for sponsorship.**  
-
-  
-
-Would you like to know more about this opportunity? For immediate consideration, please send your resume directly to venkat.r@bvteck.com  
-
-  
-
-At BVTeck, we are committed to providing equal employment opportunities and fostering an inclusive work environment. We encourage applications from all qualified individuals regardless of race, ethnicity, religion, gender identity, sexual orientation, age, disability, or any other protected status. If you require accommodations during the recruitment process, please let us know.
-
-
-LSdU8R3Wj5","","https://www.glassdoor.com/Overview/W-EI_IE10002581.htm","","","","","",""
 "go-uqpBr8-ZJTlPBaZ4AAAAAA==","google","https://in.trabajo.org/job-3150-1e9c2d43f7fade15d93ab442a474e4ad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Science Expert for Predictive Modeling","Lifelancer","Bengaluru, Karnataka","2025-02-23","","","","","","",False,"","","","","Job Overview
 
 We are seeking a skilled Data Science Expert to join our team in Bengaluru, India. As an integral part of our organization, you will work closely with external clients to build efficient predictive models and analyze production model behavior.
@@ -716,65 +710,6 @@ Preferred Skills & Expertise:
 · Telecom, MarTech and/or STEM background (preferred but not required)
 
 · Customer-centric and consultative mindset","","","","","","","",""
-"go-lSoRDCRT5j0Zexs5AAAAAA==","google","https://www.glassdoor.co.in/job-listing/data-scientist-ai-ml-team-customerxps-JV_IC2940587_KO0,25_KE26,37.htm?jl=1007966083779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist – AI ML Team","CustomerXPs","Bengaluru, Karnataka","","fulltime","","","","","",False,"","","","","Full Time
-
-Bangalore
-
-Posted 3 years ago
-
-Come aboard our growing global team and work for a category leader with a market presence in 15 countries. You will work with some of the leading financial institutions worldwide who rely on our product innovation in helping them shield themselves against the global $4 trillion problem of financial fraud. We create ‘customer-centric predictable enterprises’ and we do this by directing intelligence to the heart of every customer interaction. In real-time.
-
-We are seeking sharp, energetic Data Scientists to help us keep pace with our global expansion. You’ll be core member of a specialist team working on our Artificial Intelligence & Machine Learning stream. You bring your skills, experience and passion and we will give you the springboard for your ambitions.
-
-The Role:
-• Work as part of Clari5.ai team in defining, prototyping and implementing data science models/algorithms as part of the product.
-• Take ownership of the data science model end-to-end from data collection to model building to monitoring the model in production.
-• Along with product managers and domain experts, own the business outcomes/metrics which the data science model/algorithm drives.
-• Work with the product managers and engineering to define best practices for the team.
-• Mentor junior colleagues and conduct internal workshops.
-• Help to make data science and data-driven decision making a part of the organisation’s DNA.
-
-Your Skills:
-• Must have 3 – 8 years of experience working on model building.
-• Solid understanding of the mathematics related to data science – probability, statistics, linear algebra etc.
-• Ability to understand business concerns and formulate them as technical problems that can be solved using data and math / stats / ML.
-• Experience working as part of a product team, along with engineers and product managers, to define the problem and execute the data science solution.
-• Must have built 2-3 end to end ML projects in the past.
-• Knowledge of R or Python is a must.
-• Strong hands on experience in working with SQL databases.
-• Experience working with large data sets, coming from varied sources, is a plus
-• Conceptual understanding of big data technologies (Hadoop / HDFS / Spark) is a plus.
-• Prior experience in Natural Language Processing, Recommender Systems or Social Network Analysis is a huge plus.
-
-Your Education / Qualification:
-• Bachelor’s degree or equivalent combination of education and 3 years or more of experience.
-• Bachelor’s degree in Computer Science, Masters in Mathematics / Statistics preferred.
-
-About Us
-
-Endorsed Category Leader in Financial Crime Risk Management Systems for Enterprise Fraud by Chartis Research, Winner of Best Fraud Detection Product by Risk.net and ranked consistently in Chartis’ RiskTech100 rankings, CustomerXPs redefines real-time, cross-channel banking Enterprise Fraud Management using AI like a central nervous system to fight financial crime. The company’s flagship product Clari5 harnesses the combined power of Automation, AI, Decision Sciences & Real-time Decisions. Clari5 currently processes over 10 billion transactions, manages over 450 million accounts and reliably secures 4% of the global population’s banking transactions. With 200 million accounts at a single site, Clari5 has the world’s largest implementation of a fraud management solution. Tier 1 banking customers across 15 countries who trust Clari5 for driving their fraud management strategy are recipients of global industry acclaim, including Banking Technology’s Best Use of IT in Risk Management/Regulation and Celent’s Model Bank of the Year.
-
-Job Features
-
-Job Category
-
-Product Engineering
-
-Apply For This Job
-
-Name*
-
-Email*
-
-Phone*
-
-Attach Resume*
-
-No file chosen
-
-Browse
-
-SUBMIT","","","","","","","",""
 "go-JKdHeThCaUXIoRm6AAAAAA==","google","https://cse.noticebard.com/jobs/job-post-data-scientist-at-google/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","JOB POST: Data Scientist at Google, Bangalore [Python; MATLAB; 2 Years Exp]: Apply Now!","Google","Bengaluru, Karnataka","","","","","","","",False,"","","","","Online applications are invited for Data Scientist at Google, Bangalore. Check the eligibility criteria and other job details below!","","","","","","","",""
 "go-bOYSx-ZI_LP4z3OsAAAAAA==","google","https://www.chargepoint.com/about/opportunities/senior-manager-data-science?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Senior Manager Data Science","ChargePoint","Bengaluru, Karnataka","","","","","","","",False,"","","","","Reports To
 
@@ -834,6 +769,65 @@ Preferred
 Location
 
 Bangalore, India","","","","","","","",""
+"go-lSoRDCRT5j0Zexs5AAAAAA==","google","https://www.glassdoor.co.in/job-listing/data-scientist-ai-ml-team-customerxps-JV_IC2940587_KO0,25_KE26,37.htm?jl=1007966083779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist – AI ML Team","CustomerXPs","Bengaluru, Karnataka","","fulltime","","","","","",False,"","","","","Full Time
+
+Bangalore
+
+Posted 3 years ago
+
+Come aboard our growing global team and work for a category leader with a market presence in 15 countries. You will work with some of the leading financial institutions worldwide who rely on our product innovation in helping them shield themselves against the global $4 trillion problem of financial fraud. We create ‘customer-centric predictable enterprises’ and we do this by directing intelligence to the heart of every customer interaction. In real-time.
+
+We are seeking sharp, energetic Data Scientists to help us keep pace with our global expansion. You’ll be core member of a specialist team working on our Artificial Intelligence & Machine Learning stream. You bring your skills, experience and passion and we will give you the springboard for your ambitions.
+
+The Role:
+• Work as part of Clari5.ai team in defining, prototyping and implementing data science models/algorithms as part of the product.
+• Take ownership of the data science model end-to-end from data collection to model building to monitoring the model in production.
+• Along with product managers and domain experts, own the business outcomes/metrics which the data science model/algorithm drives.
+• Work with the product managers and engineering to define best practices for the team.
+• Mentor junior colleagues and conduct internal workshops.
+• Help to make data science and data-driven decision making a part of the organisation’s DNA.
+
+Your Skills:
+• Must have 3 – 8 years of experience working on model building.
+• Solid understanding of the mathematics related to data science – probability, statistics, linear algebra etc.
+• Ability to understand business concerns and formulate them as technical problems that can be solved using data and math / stats / ML.
+• Experience working as part of a product team, along with engineers and product managers, to define the problem and execute the data science solution.
+• Must have built 2-3 end to end ML projects in the past.
+• Knowledge of R or Python is a must.
+• Strong hands on experience in working with SQL databases.
+• Experience working with large data sets, coming from varied sources, is a plus
+• Conceptual understanding of big data technologies (Hadoop / HDFS / Spark) is a plus.
+• Prior experience in Natural Language Processing, Recommender Systems or Social Network Analysis is a huge plus.
+
+Your Education / Qualification:
+• Bachelor’s degree or equivalent combination of education and 3 years or more of experience.
+• Bachelor’s degree in Computer Science, Masters in Mathematics / Statistics preferred.
+
+About Us
+
+Endorsed Category Leader in Financial Crime Risk Management Systems for Enterprise Fraud by Chartis Research, Winner of Best Fraud Detection Product by Risk.net and ranked consistently in Chartis’ RiskTech100 rankings, CustomerXPs redefines real-time, cross-channel banking Enterprise Fraud Management using AI like a central nervous system to fight financial crime. The company’s flagship product Clari5 harnesses the combined power of Automation, AI, Decision Sciences & Real-time Decisions. Clari5 currently processes over 10 billion transactions, manages over 450 million accounts and reliably secures 4% of the global population’s banking transactions. With 200 million accounts at a single site, Clari5 has the world’s largest implementation of a fraud management solution. Tier 1 banking customers across 15 countries who trust Clari5 for driving their fraud management strategy are recipients of global industry acclaim, including Banking Technology’s Best Use of IT in Risk Management/Regulation and Celent’s Model Bank of the Year.
+
+Job Features
+
+Job Category
+
+Product Engineering
+
+Apply For This Job
+
+Name*
+
+Email*
+
+Phone*
+
+Attach Resume*
+
+No file chosen
+
+Browse
+
+SUBMIT","","","","","","","",""
 "go-6np3wE180EolUJ2AAAAAAA==","google","https://www.foundit.in/job/data-scientist-director-llm-jp-morgan-chase-co-bengaluru-bangalore-33749914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist Director - LLM","JP Morgan Chase & Co.","Bengaluru, Karnataka","","","","","","","",False,"","","","","We're looking for a tech leader ready to take their career to new heights. Join the ranks of top talent at one of the world's most influential companies.
 
 As an Applied AI ML Director at JPMorgan Chase within the Global Private Banking function's Technology Artificial Intelligence and Machine Learning (AIML) Team. You will provide deep engineering expertise and work across agile teams to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. Leverage your deep expertise to consistently challenge the status quo, innovate for business impact, lead the strategic development behind new and existing products and technology portfolios, and remain at the forefront of industry trends, best practices, and technological advances
@@ -995,6 +989,98 @@ Preferred qualifications, capabilities, and skills
 • Expertise in designing and implementing AI/ML pipelines.
 • Hands-on knowledge of Chain-of-Thoughts, Tree-of-Thoughts, Graph-of-Thoughts prompting strategies, RAG.
 • A portfolio showcasing successful applications of generative models in NLP projects, including examples of utilizing OpenAI APIs.","","","","","","","",""
+"li-4168242159","linkedin","https://www.linkedin.com/jobs/view/4168242159","","Data Scientist(Power BI)","Quantzig","Bangalore Urban, Karnataka, India","","fulltime","","","","","","","associate","Information Technology, Strategy/Planning, and Business Development","","ramyasrik@quantzig.com, ramyasrikarthika@infinitiresearch.com","**Job Title: Data Scientist(Power BI)** 
+
+
+
+
+**Experience Level:** 
+ 3\\-5 years
+ 
+
+
+
+**Job Type** 
+ : Full\\-time
+ 
+
+
+
+  
+
+
+
+
+
+**Job Description:** 
+
+
+
+
+**Overview:** 
+
+
+
+
+ We are looking for a Data Scientist with a solid background in classical data science techniques and expertise in building impactful business intelligence dashboards. In this role, you will focus on developing predictive models and translating analytical results into actionable insights through intuitive Power BI visualizations, helping drive data\\-informed decision\\-making across the organization.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+* **Predictive Modeling:** 
+ Build and deploy machine learning models (forecasting, classification, clustering, regression) to support business objectives.
+* **Data Preparation \\& SQL:** 
+ Clean, transform, and query large datasets to ensure accurate and efficient analysis and model development.
+* **BI Reporting:** 
+ Design and develop interactive Power BI dashboards, incorporating storytelling and data visualization best practices to communicate insights effectively.
+
+
+
+  
+
+
+
+
+
+**Qualifications:** 
+
+
+
+* **Education:** 
+ Bachelor’s or Master’s in Data Science, Statistics, or a related field.
+* **Technical Skills:** 
+ Proficient in Python, SQL, and Power BI.
+
+
+
+  
+
+
+
+
+
+ This role is ideal for someone who is passionate about data science and business intelligence, eager to turn complex data into clear, actionable insights that can influence business strategy and outcomes.
+ 
+
+
+
+  
+
+
+
+
+
+**Incase of any further queries, kindly reach out to ramyasrik@quantzig.com or ramyasrikarthika@infinitiresearch.com**","IT Services and IT Consulting, Marketing Services, and Business Consulting and Services","https://uk.linkedin.com/company/quantzig","https://media.licdn.com/dms/image/v2/D4D0BAQEaZHPiZBSsBQ/company-logo_100_100/company-logo_100_100/0/1736947921314/quantzig_logo?e=2147483647&v=beta&t=jW5weim5080yuzLyh_VDyNJ8Pnc2krKrPzEgxAEdh0k","","","","",""
 "li-4166785445","linkedin","https://www.linkedin.com/jobs/view/4166785445","https://www.expertia.ai/intineriinfosol/job/hiring-data-science-analytics-67912575a74fc61498a9cf69?utm_source=linkedin-feed&easy_apply=true&date-refresh=02/27/2025&urlHash=O2U8","Data Science & Analytics","INTINERI INFOSOL PRIVATE LIMITED","Bengaluru East, Karnataka, India","","fulltime","","","","","","","director","Information Technology","","","**Skills:**
  Python, R, SQL, TensorFlow, PyTorch, Pandas, Tableau, GLM,
    
@@ -1268,42 +1354,83 @@ Preferred qualifications, capabilities, and skills
 * Career Path: Clear potential to grow into a full\\-time Python Developer with higher responsibilities and compensation.
 * Supportive Work Environment: A collaborative team with a focus on mentorship and personal development.
 * Exciting Projects: Work on real\\-world development projects with the latest tools and technologies.","Information Services","https://in.linkedin.com/company/innovatexiq-solutions","https://media.licdn.com/dms/image/v2/D4E0BAQFoSpxgiidEUg/img-crop_100/B4EZU2EopIG0AM-/0/1740368940780?e=2147483647&v=beta&t=uWUTm7fCu42Its_dFsSG0Cby-UcUVLF1xAgfDV-hIgk","","","","",""
-"li-4166757451","linkedin","https://www.linkedin.com/jobs/view/4166757451","https://www.expertia.ai/colanonline/job/hiring-data-scientist-66a758fafba9e79598b251ec?utm_source=linkedin-feed&easy_apply=true&date-refresh=02/27/2025&urlHash=E6On","Data Scientist","Colan Infotech Private Limited","Bengaluru East, Karnataka, India","","fulltime","","","","","","","director","Consulting","","kumudha.r@colanonline.com","**Skills:**
- Statistical Analysis, Machine Learning, Data Visualization, Python Programming, Big Data Technologies, Predictive Modeling, Data Mining, Quantitative Analysis,
-   
+"li-4168231862","linkedin","https://www.linkedin.com/jobs/view/4168231862","","Data Scientist (GenAI)","Quantzig","Bangalore Urban, Karnataka, India","","fulltime","","","","","","","associate","Information Technology, Strategy/Planning, and Business Development","","ramyasrik@quantzig.com, ramyasrikarthika@infinitiresearch.com","**Job Title:** 
+ Data Scientist
+ 
+
+
+
+**Experience Level:** 
+ 3\\-5 years
+ 
+
+
+
+**Job Type** 
+ : Full\\-time
+ 
+
+
+
+**Job Description:** 
+
+
+
+
+**Overview:** 
+
+
+
+
+ We are seeking a Data Scientist \\& GenAI Specialist to join our team, where you will focus on both classical machine learning and cutting\\-edge generative AI techniques. You will be responsible for developing and deploying models for forecasting, classification, clustering, and regression, as well as experimenting with advanced AI technologies like Large Language Models (LLMs), retrieval\\-augmented generation (RAG), and text/image generation. Your work will help drive innovation and deliver AI\\-driven solutions to real\\-world business problems.
+ 
+
+
+
+**Key Responsibilities:** 
+
+
+
+* **Classical ML \\& Analytics:** 
+ Develop and deploy models for traditional use cases such as forecasting, classification, clustering, and regression.
+* **Generative AI:** 
+ Explore and implement LLMs, RAG, and text/image generation to create innovative and impactful solutions.
+* **Data Strategy \\& SQL:** 
+ Utilize SQL and modern cloud data platforms to perform data extraction, transformation, and feature engineering for model development.
+* **Innovation \\& Collaboration:** 
+ Research emerging AI trends, prototype new solutions, and collaborate with cross\\-functional teams to implement and present findings.
+
+
+
+**Qualifications:** 
+
+
+
+* **Education:** 
+ Master’s degree (preferred) or Bachelor’s in Data Science, AI, Computer Science, or a related field.
+* **Technical Skills:** 
+ Proficiency in Python, SQL, ML frameworks (TensorFlow/PyTorch), and experience with generative AI technologies (e.g., Laama, OpenAI, Gemini, DeepSeek).
+
+
 
   
 
-***Greetings from Colan Infotech!!!***
- We have an urgent Vacancy for Data Scientist, the following is the Job Description for the same.
-   
+
+
+
+
+ This role is ideal for someone passionate about advancing both classical machine learning and generative AI technologies to create real\\-world business solutions.
+ 
+
+
 
   
 
-***Primary Skills Needed :***
-*AI/ML, Tensorflow, Django, Pytorch, NLP, Image* 
-***processing***
-***Secondary Skills Needed :***
-*Keras, Databricks, OpenCV, Azure or AWS*
-***Job Location \\-***
-*Chennai / Bangalore*
-***Job Description:\\-***
-* Practical knowledge and working experience on Statistics and Operation Research methods.
-* Practical knowledge and working experience in tools and frameworks like Flask, PySpark, Pytorch, tensorflow, keras, Databricks, OpenCV, Pillow/PIL, streamlit, d3js, dashplotly, neo4j.
-* Good understanding of how to apply predictive and machine learning techniques like regression models, XGBoost, random forest, GBM, Neural Nets, SVM etc.
-* Proficient with NLP techniques like RNN, LSTM and Attention based models and effectively handle readily available stanford, IBM, Azure, Open AI NLP models.
-* Good understanding of SQL from a perspective of how to write efficient queries for pulling the data from database.
-* Hands on experience on any version control tool (github, bitbucket). Experience of deploying ML models into production environment experience (MLOps) in any one of the cloud platforms like Azure and AWS
-* Comprehend business issues and propose valuable business solutions.
-* Design Factual or AI/profound learning models to address business issues.
-* Design Statistical Models/ML/DL models and deploy them for production.
-* Formulate what information is accessible from where and how to augment it.
-* Develop innovative graphs for data comprehension using d3js, dashplotly and neo4j
 
 
-**About Us**
-*Colan Infotech delivers captivating digital experience with inventive front\\-end \\& back\\-end and well\\-ordered development procedure. Our course of action in transforming our customer's business digitally comprises enterprise mobility, artificial intelligence, envisioned cloud operations, decentralized solutions and much more. Our disruptive ideas ultimately aims to drive constant growth in users and revenue.*
-**Interested candidate send your updated resume to kumudha.r@colanonline.com**","IT Services and IT Consulting","https://in.linkedin.com/company/colan-infotech-private-limited","https://media.licdn.com/dms/image/v2/D560BAQE6D3v7uwtfWg/company-logo_100_100/company-logo_100_100/0/1698995954683/colan_infotech_private_limited_logo?e=2147483647&v=beta&t=CmW-tj-B46rb29iQLQYfRsz1TR71BcL_cPw6u5VzqCA","","","","",""
+
+
+**Incase of any further queries, kindly reach out to ramyasrik@quantzig.com or ramyasrikarthika@infinitiresearch.com**","IT Services and IT Consulting, Marketing Services, and Business Consulting and Services","https://uk.linkedin.com/company/quantzig","https://media.licdn.com/dms/image/v2/D4D0BAQEaZHPiZBSsBQ/company-logo_100_100/company-logo_100_100/0/1736947921314/quantzig_logo?e=2147483647&v=beta&t=jW5weim5080yuzLyh_VDyNJ8Pnc2krKrPzEgxAEdh0k","","","","",""
 "li-4166774698","linkedin","https://www.linkedin.com/jobs/view/4166774698","https://www.expertia.ai/eximietas-design/job/hiring-ai-ml-engineer-674e9978a40709bf6597a1eb?utm_source=linkedin-feed&easy_apply=true&date-refresh=02/27/2025&urlHash=8zcR","AI/ML Engineer","Eximietas Design","Bangalore Urban, Karnataka, India","","fulltime","","","","","","","mid-senior level","Information Technology","","","**Skills:**
  Statistical Analysis, Python Programming, Data Visualization, Predictive Modeling, Big Data, SQL, Data Mining, Machine learning,
    
@@ -1453,6 +1580,42 @@ Preferred qualifications, capabilities, and skills
   
 
  Strong communication and presentation skills","Engineering Services","https://www.linkedin.com/company/eximietas-design","https://media.licdn.com/dms/image/v2/D560BAQE3pOB5DJZxwQ/company-logo_100_100/company-logo_100_100/0/1737609113333/eximietas_design_logo?e=2147483647&v=beta&t=QmOceWWHkZNXkq8DWNya9EfJX_-E51c2uvGoWeVSBQY","","","","",""
+"li-4166757451","linkedin","https://www.linkedin.com/jobs/view/4166757451","https://www.expertia.ai/colanonline/job/hiring-data-scientist-66a758fafba9e79598b251ec?utm_source=linkedin-feed&easy_apply=true&date-refresh=02/27/2025&urlHash=E6On","Data Scientist","Colan Infotech Private Limited","Bengaluru East, Karnataka, India","","fulltime","","","","","","","director","Consulting","","kumudha.r@colanonline.com","**Skills:**
+ Statistical Analysis, Machine Learning, Data Visualization, Python Programming, Big Data Technologies, Predictive Modeling, Data Mining, Quantitative Analysis,
+   
+
+  
+
+***Greetings from Colan Infotech!!!***
+ We have an urgent Vacancy for Data Scientist, the following is the Job Description for the same.
+   
+
+  
+
+***Primary Skills Needed :***
+*AI/ML, Tensorflow, Django, Pytorch, NLP, Image* 
+***processing***
+***Secondary Skills Needed :***
+*Keras, Databricks, OpenCV, Azure or AWS*
+***Job Location \\-***
+*Chennai / Bangalore*
+***Job Description:\\-***
+* Practical knowledge and working experience on Statistics and Operation Research methods.
+* Practical knowledge and working experience in tools and frameworks like Flask, PySpark, Pytorch, tensorflow, keras, Databricks, OpenCV, Pillow/PIL, streamlit, d3js, dashplotly, neo4j.
+* Good understanding of how to apply predictive and machine learning techniques like regression models, XGBoost, random forest, GBM, Neural Nets, SVM etc.
+* Proficient with NLP techniques like RNN, LSTM and Attention based models and effectively handle readily available stanford, IBM, Azure, Open AI NLP models.
+* Good understanding of SQL from a perspective of how to write efficient queries for pulling the data from database.
+* Hands on experience on any version control tool (github, bitbucket). Experience of deploying ML models into production environment experience (MLOps) in any one of the cloud platforms like Azure and AWS
+* Comprehend business issues and propose valuable business solutions.
+* Design Factual or AI/profound learning models to address business issues.
+* Design Statistical Models/ML/DL models and deploy them for production.
+* Formulate what information is accessible from where and how to augment it.
+* Develop innovative graphs for data comprehension using d3js, dashplotly and neo4j
+
+
+**About Us**
+*Colan Infotech delivers captivating digital experience with inventive front\\-end \\& back\\-end and well\\-ordered development procedure. Our course of action in transforming our customer's business digitally comprises enterprise mobility, artificial intelligence, envisioned cloud operations, decentralized solutions and much more. Our disruptive ideas ultimately aims to drive constant growth in users and revenue.*
+**Interested candidate send your updated resume to kumudha.r@colanonline.com**","IT Services and IT Consulting","https://in.linkedin.com/company/colan-infotech-private-limited","https://media.licdn.com/dms/image/v2/D560BAQE6D3v7uwtfWg/company-logo_100_100/company-logo_100_100/0/1698995954683/colan_infotech_private_limited_logo?e=2147483647&v=beta&t=CmW-tj-B46rb29iQLQYfRsz1TR71BcL_cPw6u5VzqCA","","","","",""
 "li-4166771260","linkedin","https://www.linkedin.com/jobs/view/4166771260","https://www.expertia.ai/celebritywings/job/hiring-artificial-intelligence-ai-66f90ac36346380c5a3869f3?utm_source=linkedin-feed&easy_apply=true&date-refresh=02/27/2025&urlHash=CtYc","Artificial Intelligence (AI)","CELEBRITY WINGS ENTERTAINMENT LLC","Bengaluru East, Karnataka, India","","fulltime","","","","","","","mid-senior level","Advertising","","","**Skills:**
  Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Neural Networks, Data Mining, Algorithm Development, Statistical Analysis,
    
@@ -1493,94 +1656,6 @@ Preferred qualifications, capabilities, and skills
 * Generate reports and presentations to communicate progress and results to management
 * Generate AI Ads and Videos using AI Influencer
 * Generate AI Influencer and Creating AI Influencer Ads and AI Marketing","Advertising Services","https://www.linkedin.com/company/celebrity-wings-entertainment","https://media.licdn.com/dms/image/v2/D4E0BAQGGIgqWAhn-QQ/company-logo_100_100/company-logo_100_100/0/1683718398436/celebrity_wings_entertainment_logo?e=2147483647&v=beta&t=EV6ZGFfkGC-wh9laRhpRO1xlsvd4NS2fguhpoOJ3HDs","","","","",""
-"li-4164114454","linkedin","https://www.linkedin.com/jobs/view/4164114454","https://expertia.ai/expertia-ai/job/hiring-data-scientist-67bd9c60f458d2807bc39699&urlHash=lk6b","Data Scientist","Expertia AI","Bangalore Urban, Karnataka, India","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","","**Company Overview**
- Expertia AI is a pioneering company in the HR Tech industry, headquartered in Bangalore. With a team of 11\\-50 employees, Expertia AI leverages deep technology to redefine the future of work. Our flagship product, Expertia AI Virtual Recruiter, optimizes talent acquisition by using an advanced algorithm to identify skills, predict career paths, and rank candidates. Our offerings, including Expertia Career Site and Expertia Skill Cloud, further streamline recruitment processes. Learn more at www.EXPERTIA.ai.
-   
-
-  
-
-**Job Overview**
- Expertia AI is seeking a Senior Data Scientist for a full\\-time position in Bangalore Urban. The ideal candidate will have 7 to 10 years of experience in data science, with a strong foundation in data visualization, deep learning, and Python (Mandatory skill). As a Senior Data Scientist, you will drive predictive analytics initiatives and contribute to our innovative HR Tech solutions. Collaborating with cross\\-functional teams, you will help shape our talent discovery technologies.
-   
-
-  
-
-**Qualifications And Skills**
-* Proficiency in Python for data analysis and modeling, with mandatory experience in developing production\\-ready code. (Mandatory skill)
-* Extensive experience in data visualization techniques to elucidate complex data insights and support strategic decision\\-making. (Mandatory skill)
-* Robust knowledge of deep learning frameworks to develop innovative predictive models and enhance machine learning pipelines. (Mandatory skill)
-* Hands\\-on experience with R for statistical computing and graphics, essential for comprehensive data interrogation.
-* Strong expertise in SQL for data querying and manipulation, critical for integrating and analyzing large datasets.
-* In\\-depth understanding of machine learning algorithms to effectively analyze trends and forecast organizational needs.
-* Proficient in utilizing TensorFlow to build and deploy scalable AI models, enhancing the functionality of our tech solutions.
-* Experience with PyTorch to optimize and train deep learning models, facilitating the evolution of our talent analytic tools.
-
-
-**Roles And Responsibilities**
-* Design and implement predictive models that leverage deep learning techniques to enhance our recruiting solutions.
-* Collaborate with interdisciplinary teams to align data science objectives with business goals and product strategies.
-* Analyze diverse data sources to extract actionable insights, contributing to the continuous improvement of our HR technology.
-* Develop advanced data visualization tools to present findings clearly, enabling informed decision\\-making at all organizational levels.
-* Mentor junior data scientists, providing guidance on best practices in data analysis, model development, and deployment.
-* Stay updated with the latest industry trends in data science and AI, integrating new methodologies into our technology stack.
-* Present analytic findings to stakeholders, effectively communicating the impact of data\\-driven strategies on business outcomes.
-* Ensure data integrity and confidentiality by adhering to best practices in data management and security protocols.
-* Create or publish a top\\-tier AI paper, contributing to the advancement of the AI field and enhancing the company's reputation as an industry leader.","Software Development","https://in.linkedin.com/company/expertia-ai","https://media.licdn.com/dms/image/v2/C560BAQGfWjzOUagYkg/company-logo_100_100/company-logo_100_100/0/1630668918419/expertia_ai_logo?e=2147483647&v=beta&t=tPVzhS4y6IYjEdb9FKue9F3mSbQ0mfScieOu2CfpQC8","","","","",""
-"li-4168404608","linkedin","https://www.linkedin.com/jobs/view/4168404608","https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Python-Developer\\u002d\\u002d-BA\\u002d\\u002d-AIML_REQ563527?source=LinkedIn&urlHash=b_pe","Python Developer - BA & AIML","Unisys","Bangalore Urban, Karnataka, India","","fulltime","","","","","","","entry level","Engineering and Information Technology","","GlobalRecruiting@unisys.com","**Job Responsibilities**
-**What success looks like in this role:**
-* Analyze the requirement and understand the solution from designers and implement with minimum guidance.
-* Development of the respective feature in line with design.
-* Test and demo the developed features for acceptance.
-* Understand the codebase and resolving the defects and enhancing the product maturity.
-* Analyzing the issues reported on the providing solution approach and providing solution to the issue
-* Deliver assigned tasks on schedule with expected quality
-* Proactive and shows positive attitude to do better on every day.
-* Good Team player
-
-
-**You will be successful in this role if you have:**
- Skills – Mandatory
-   
-
-  
-
-* Business Analyst skills – Ability to communicate with Subject Matter Experts (SME), other Stakeholders and document the requirements
-* Good Python coding skills including ML experience (development of any AIML model is a plus)
-* Good knowledge of AIOPs Concepts.
-* Good understanding on Java/J2EE ( App Server )
-* Web Services\\- SOAP and RESTful
-* Frameworks knowledge (ML algorithms)
-* Good understanding on the unit testing tools and methodologies
-* Good knowledge on Robotic Process Automation (RPA) and any RPA tool like Automation Anywhere.
-* Good Knowledge on any IT Service Management tool like ServiceNow and its automation capabilities
-* Good understanding on SQL and Service Now tool.
-* Exposure in Microservices Architecture, RPA, Containerization and Cloud Concepts.
-* Good communication skills – written and verbal
-* Quick learner and excellent aptitude and problem\\-solving skills
-
-
- Skills – Desired
-   
-
-  
-
-* Good understanding on Agile Methodologies
-* \\- Knowledge in ITIL framework for handling support activities
-* \\- Good understanding on DevOps practices.
-* \\- Good understanding on version control tool – Clear Case/Git is desired
-* \\- Experience in any RPA tools like Automation Anywhere or UiPath
-
-
-**Education**
-* Engineering Graduate or Engineering Post Graduate in Computer Science / Information Science / AI discipline.
-
-
- Unisys is proud to be an equal opportunity employer that considers all qualified applicants without regard to age, blood type, caste, citizenship, color, disability, family medical history, family status, ethnicity, gender, gender expression, gender identity, genetic information, marital status, national origin, parental status, pregnancy, race, religion, sex, sexual orientation, transgender status, veteran status or any other category protected by law.
-   
-
-  
-
- This commitment includes our efforts to provide for all those who seek to express interest in employment the opportunity to participate without barriers. If you are a US job seeker unable to review the job opportunities herein, or cannot otherwise complete your expression of interest, without additional assistance and would like to discuss a request for reasonable accommodation, please contact our Global Recruiting organization at GlobalRecruiting@unisys.com or alternatively Toll Free: 888\\-560\\-1782 (Prompt 4\\). US job seekers can find more information about Unisys’ EEO commitment here.","IT Services and IT Consulting","https://www.linkedin.com/company/unisys","https://media.licdn.com/dms/image/v2/C4E0BAQGP5PO--smhpQ/company-logo_100_100/company-logo_100_100/0/1669644012632/unisys_logo?e=2147483647&v=beta&t=umb8iP0FSyszRAXDeGsJpUGK6O-4wNFoU_SMGnzdc28","","","","",""
 "li-4166778647","linkedin","https://www.linkedin.com/jobs/view/4166778647","https://www.expertia.ai/colanonline/job/hiring-data-scientist-6789f88818480498dacbeb3a?utm_source=linkedin-feed&easy_apply=true&date-refresh=02/27/2025&urlHash=fSKt","Data Scientist","Colan Infotech Private Limited","Bangalore Urban, Karnataka, India","","fulltime","","","","","","","mid-senior level","Engineering and Information Technology","","","**Skills:**
  Machine Learning, LLM, NLM, ARIMA, SARIMA, Linear Regression, XGBoost, AWS,
    

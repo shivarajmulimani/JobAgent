@@ -24,13 +24,11 @@ class AgentArchestration:
                 match_response = None
                 resume_update_response = None
                 job_description = row['description']
-                job_url = row['job_url']
                 title = row['title']
                 company = row['company']
                 match_response = self.job_matching_agent.run_agent(job_description)
                 print(company)
                 print(title)
-                print(job_url)
                 if match_response:
                     print(match_response.content.rating)
                     print(match_response.content.justification)
@@ -50,7 +48,6 @@ class AgentArchestration:
             match_response = None
             resume_update_response = None
             job_description = row['description'].values[0]
-            job_url = row['job_url'].values[0]
             title = row['title'].values[0]
             company = row['company'].values[0]
             match_response = self.job_matching_agent.run_agent(job_description)
