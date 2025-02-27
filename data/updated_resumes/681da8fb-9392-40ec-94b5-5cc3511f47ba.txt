@@ -1,0 +1,53 @@
+**SHILPA HOLEYACHI**
+CONVERSATIONAL AI DEVELOPER
+
+**PROFILE**
+
+Highly skilled Conversational AI Developer with 3+ years of experience building and deploying chatbots across diverse platforms using Dialogflow (ES & CX), Kore.AI, and AWS Lex. Proven ability to integrate chatbots with multiple channels (Facebook, Telegram, Microsoft Teams, Slack, WhatsApp, Twitter, Google Assistant), leveraging NLP techniques such as sentiment analysis and entity extraction.  Experienced in SQL database management and proficient in various development tools and cloud technologies.  Seeking a challenging role where I can leverage my expertise to deliver innovative and impactful AI-driven solutions.
+
+
+**EDUCATION**
+
+B.E. in Computer Science and Engineering
+ANGADI INSTITUTE OF TECH AND MANAGEMENT, BELAGAVI, KARNATAKA  | 2014 – 2018
+
+
+**CERTIFICATIONS**
+
+* Kore.ai Certified Professional Bot Developer
+* ABBY FlexiCapture 12 Certified Specialist
+
+
+**EXPERIENCE**
+
+**Atos Pvt. Ltd.** | **CHATBOT DEVELOPER** | JAN 2020 – PRESENT
+
+* Developed and deployed a Virtual Agent for COVID-19 pre-screening using Dialogflow ES, integrating with Facebook, Telegram, Microsoft Teams, Slack, WhatsApp, Twitter, and Google Assistant.  Successfully managed the API integrations required for multi-channel deployment.
+* Implemented a Voice Bot in Google Dialogflow ES utilizing the WebSpeech API.
+* Designed and built a Retail Bot using Dialogflow CX to handle product ordering, provide product details, manage shopping carts, and track order status.  Developed robust error handling and user experience flows.
+* Integrated a Dialogflow ES Bot with a live agent using CXOne, enhancing customer support capabilities.
+* Developed an IT service bot using Kore.AI, incorporating NLP techniques like sentiment analysis and integrating it with relevant channels.  Designed and implemented the solution architecture.
+* Created a ServiceNow bot using AWS Lex to manage IT tickets (incident creation, status checks, modifications), integrating it with Microsoft Teams and Slack.  Documented the design and implementation details.
+
+
+**Atos Pvt. Ltd.** | **RDBMS (SQL) DEVELOPER** | DEC 2018 – DEC 2019
+
+* Developed and maintained SQL queries and stored procedures using .NET technology.
+* Managed and updated the financial database for BMW, ensuring the accuracy and integrity of all financial accounts.  Implemented data validation and security protocols.
+
+
+**KEY SKILLS**
+
+* **Languages:** SQL, Python
+* **Natural Language Processing (NLP):** Entity Extraction (spaCy), Sentiment Analysis
+* **Chatbot Frameworks:** Dialogflow (ES & CX), Kore.AI, ServiceNow, AWS Lex
+* **Cloud Technologies:** Azure Cognitive Services, GCP Deployment Services, AWS Lambda & S3
+* **Tools:** HyperScience, Abby FlexiCapture, CXOne, Grafana, Azure Form Recognizer, Postman, SQL Server Management Studio, ITSM, Jira
+* **API Integration & Development:**  REST APIs, Webhooks (demonstrated experience across multiple projects)
+
+
+**CONTACT**
+
++91 9740828923 | Ankalagi / 591101 Belagavi | shilpa.holeyachi@atos.net
+
+
