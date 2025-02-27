@@ -28,7 +28,7 @@ def show_homepage():
         st.header("How It Works")
         st.write("""
         1. The application first understands the uploaded resume.
-        2. Then it lets you collect jobs from various internet sources.
+        2. Then it lets you collect publicly available jobs from various internet sources using jobspy open source library..
         3. Later, the application analyzes what is missing in your resume and matches your resume against job requirements.
         4. Finally, it suggests updates to your resume if you qualify for relevant jobs.
         """)

@@ -10,7 +10,7 @@ This application allows you to search, match and preparation of your resume for 
 ## How It Works
 
 1. The application first understands uploaded resume.
-2. Then it lets you collect jobs from various internet sources.
+2. Then it lets you collect publicly available jobs from various internet sources using jobspy open source library.
 3. Later application tells what is missing in your resume and what matches from your resume against the job requirements.
 4. At the end it also helps you how your resume can be updated if you qualify the relevant jobs.
 
