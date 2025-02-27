@@ -42,7 +42,7 @@ def show_homepage():
 
         # Get Started
         st.header("Get Started")
-        st.write("Use the navigation on the left to switch between different sections.")
+        st.write("Use the menu on the left to switch between different sections.")
 
     except Exception as e:
         print("failed to show home page - ", e)
