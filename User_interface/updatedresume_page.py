@@ -4,45 +4,82 @@ import streamlit as st
 import pandas as pd
 import streamlit as st
 import difflib
+import diff_match_patch as dmp_module
 import re
+
+
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from utils import constants as CS
-from utils import stringcontants as SC
+from utils.generic_utility import save_html_to_pdf
+from utils.stringcontants import UPDATED_RESUME_PATH
 
 
-def word_level_highlight(old_text, new_text):
-    differ = difflib.SequenceMatcher(None, old_text, new_text)
-    highlighted_text = ""
+def generate_inline_diff(text1, text2):
+    dmp = dmp_module.diff_match_patch()
+    diffs = dmp.diff_main(text1, text2)
+    dmp.diff_cleanupSemantic(diffs)
 
-    for opcode, a0, a1, b0, b1 in differ.get_opcodes():
-        old_part = old_text[a0:a1]
-        new_part = new_text[b0:b1]
+    # Format diff output with HTML while preserving new lines
+    formatted_diff = []
+    updated_content = []
+    for op, data in diffs:
+        data = re.sub(r"\n+", "<br>", data)  # Replace multiple new lines dynamically
 
-        if opcode == "replace":
-            highlighted_text += f'<span style="background-color:#d9534f; color:white; padding:2px;">{old_part}</span>'
-            highlighted_text += f'<span style="background-color:#5cb85c; color:white; padding:2px;">{new_part}</span>'
-        elif opcode == "delete":
-            highlighted_text += f'<span style="background-color:#d9534f; color:white; padding:2px;">{old_part}</span>'
-        elif opcode == "insert":
-            highlighted_text += f'<span style="background-color:#5cb85c; color:white; padding:2px;">{new_part}</span>'
-        else:
-            highlighted_text += old_part
+        if op == 1:  # Addition (green)
+            formatted_diff.append(f'<span style="background-color: #5cb85c;">{data}</span>')
+            updated_content.append(data)
+        elif op == -1:  # Deletion (red)
+            formatted_diff.append(f'<span style="background-color: #d9534f; text-decoration: line-through;">{data}</span>')
+        else:  # No Change
+            formatted_diff.append(data)
+            updated_content.append(data)
 
-    return highlighted_text
+    diff_out = "".join(formatted_diff)
+    updated_out = "".join(updated_content)
+    return diff_out, updated_out
 
 
 def updatedjobs_page():
     try:
         st.title("Updated Resume")
-        # Streamlit UI
-        st.title("File Difference Highlighter")
-
         file1 = st.session_state["file_content"]
         file2 = st.session_state["updated_resume"]
 
-        highlighted_result = word_level_highlight(file1, file2)
+        if file1 and file2:
+            diff_output, updated_out = generate_inline_diff(file1, file2)
+            st.markdown(f"<pre>{diff_output}</pre>", unsafe_allow_html=True)
 
-        st.markdown(f'<div style="white-space:pre-wrap; font-family:monospace; font-size:14px;">{highlighted_result}</div>', unsafe_allow_html=True)
+            # Apply Font Style
+            styled_html = f"""
+            <html>
+            <head>
+                <style>
+                    body {{
+                        font-family: 'Calibri', serif;
+                        font-size: 18px;
+                        line-height: 1.5;
+                    }}
+                    p {{
+                        margin-bottom: 10px;
+                    }}
+                </style>
+            </head>
+            <body>
+            {updated_out}
+            </body>
+            </html>
+            """
+
+            # Generate PDF
+            save_html_to_pdf(styled_html, UPDATED_RESUME_PATH)
+
+            # Provide a download button
+            with open(UPDATED_RESUME_PATH, "rb") as pdf_file:
+                st.download_button(
+                    label="Download Diff as PDF",
+                    data=pdf_file,
+                    file_name="updated_file.pdf",
+                    mime="application/pdf"
+                )
 
     except Exception as e:
         print("failed to show updated jobs page - ", e)
