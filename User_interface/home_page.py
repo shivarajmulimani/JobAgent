@@ -2,11 +2,16 @@ import os
 import sys
 import streamlit as st
 from PIL import Image
+import base64
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from utils import constants as CS
 from utils import stringcontants as SC
 
+def get_base64_image(image_path):
+    """Encodes a local image to base64 for embedding in HTML."""
+    with open(image_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode()
 
 def show_homepage():
     try:
@@ -35,10 +40,14 @@ def show_homepage():
 
         # Process Flow
         st.header("Process Flow")
-        flowchart = Image.open(SC.README_IMAGE_2_PATH)
-        st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
-        st.image(flowchart, width=500)
-        st.markdown("</div>", unsafe_allow_html=True)
+        gif_base64 = get_base64_image(SC.README_IMAGE_2_PATH)
+
+        st.markdown(
+            f'<div style="text-align: center;">'
+            f'<img src="data:image/gif;base64,{gif_base64}" width="500">'
+            f'</div>',
+            unsafe_allow_html=True
+        )
 
         # Get Started
         st.header("Get Started")

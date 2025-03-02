@@ -39,7 +39,6 @@ def searchjobs_page():
             st.session_state["uploaded_file"] = uploaded_file
             # file_content = uploaded_file.read().decode("utf-8")
             st.session_state["file_content"] = file_content
-            print(file_content)
 
         with st.spinner("⏳ Understanding the resume..."):
             jsa = JobSearchGuidelines(st.session_state["file_content"])
