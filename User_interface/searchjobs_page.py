@@ -10,6 +10,8 @@ from utils import stringcontants as SC
 from Agents.job_search_guidelines_agent import JobSearchGuidelines
 from job_search.jobspy_scraper import JobScraper
 from utils.preprocess_job_dataframe import preprocess_job_df
+from utils.generic_utility import extract_text_from_file
+
 
 def highlight_text(text, bg_color="#D4EDDA", text_color="#155724"):
     return f"""
@@ -30,11 +32,14 @@ def highlight_text(text, bg_color="#D4EDDA", text_color="#155724"):
 def searchjobs_page():
     try:
         st.markdown("## 📤 Upload your resume in .txt format")
-        uploaded_file = st.file_uploader("Choose a .txt file", type=["txt"])
+        uploaded_file = st.file_uploader("Choose a file", type=["txt", "pdf", "docx"])
+
         if uploaded_file:
+            file_content = extract_text_from_file(uploaded_file)
             st.session_state["uploaded_file"] = uploaded_file
-            file_content = uploaded_file.read().decode("utf-8")
+            # file_content = uploaded_file.read().decode("utf-8")
             st.session_state["file_content"] = file_content
+            print(file_content)
 
         with st.spinner("⏳ Understanding the resume..."):
             jsa = JobSearchGuidelines(st.session_state["file_content"])
