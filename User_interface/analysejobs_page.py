@@ -22,7 +22,7 @@ def analysejobs_page():
         st.title("Analyse jobs with resume")
 
         # Display dataframe
-        st.write("Scrapped jobs data")
+        st.write("List of jobs")
         # Configure AgGrid options
         gb = GridOptionsBuilder.from_dataframe(jobs)
         gb.configure_selection("single")  # Allows single-row selection

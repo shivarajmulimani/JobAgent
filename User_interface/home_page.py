@@ -14,7 +14,7 @@ def show_homepage():
         st.markdown("<h1 style='text-align: left;'>Welcome to the JobAgent Application</h1>", unsafe_allow_html=True)
 
         # Display App Image
-        app_image = Image.open("static/app_image.png")
+        app_image = Image.open(SC.README_IMAGE_1_PATH)
         # Display App Image
         st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
         st.image(app_image, width=300)
@@ -35,7 +35,7 @@ def show_homepage():
 
         # Process Flow
         st.header("Process Flow")
-        flowchart = Image.open("static/flowchart.gif")
+        flowchart = Image.open(SC.README_IMAGE_2_PATH)
         st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
         st.image(flowchart, width=500)
         st.markdown("</div>", unsafe_allow_html=True)
