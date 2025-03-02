@@ -135,7 +135,7 @@ def collectedjobs_page():
 
         # company names
         try:
-            st.header("Company names")
+            st.header("🏢 Company names")
             # 🔹 Remove duplicates and create a new DataFrame
             df_unique = df.drop_duplicates(subset=["company"]).reset_index(drop=True)
 

@@ -8,4 +8,4 @@ UPDATED_RESUME_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../data/upd
 
 README_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../README.md'
 README_IMAGE_1_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../app_image.png'
-README_IMAGE_1_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../flowchart.gif'
+README_IMAGE_2_PATH = os.path.dirname(os.path.abspath(__file__)) + '/../flowchart.gif'
