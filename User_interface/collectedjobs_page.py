@@ -5,7 +5,6 @@ import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
-from geopy.geocoders import Nominatim
 from babel.numbers import format_currency
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
