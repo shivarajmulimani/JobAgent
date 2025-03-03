@@ -94,12 +94,20 @@ def collectedjobs_page():
         # 🚀 **Salary Trends Over Time**
         try:
             st.header("📈 Salary Trends Over Time")
+            df['date_posted'] = pd.to_datetime(df['date_posted'], errors='coerce')
+            # Fill NaN values with 0
+            df['max_amount'] = df['max_amount'].fillna(0)
+
+            # Group by date and calculate the mean
             salary_trend = df.groupby(df['date_posted'].dt.date)['max_amount'].mean()
+
+            print(salary_trend)
             fig_salary = px.line(
                 salary_trend,
                 x=salary_trend.index,
                 y=salary_trend.values,
                 labels={'x': 'Date', 'y': 'Average Salary'},
+                markers=True
                 # title="Salary Trends Over Time"
             )
             st.plotly_chart(fig_salary)

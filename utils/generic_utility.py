@@ -8,8 +8,13 @@ from io import BytesIO
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from utils import stringcontants as SC
-# Manually set the path to wkhtmltopdf.exe (Windows only)
-config = pdfkit.configuration(wkhtmltopdf=r"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe")
+
+
+# Check if OS is Windows and configure wkhtmltopdf
+if os.name == "nt":  # 'nt' means Windows
+    config = pdfkit.configuration(wkhtmltopdf=r"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe")
+else:
+    config = None  # No need for configuration on Linux/macOS
 
 def write_to_file(filename, content):
     try:
