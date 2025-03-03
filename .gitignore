@@ -1,2 +1,7 @@
 /utils/api_keys.py
 /.idea/
+__pycache__/*
+*.pyc
+*.pyo
+*.pyd
+/.ipynb_checkpoints/*
