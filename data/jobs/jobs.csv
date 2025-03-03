@@ -1,343 +1,327 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
-"gd-1009653283335","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009653283335","","Data Engineer","Hewlett Packard Enterprise","Bengaluru","2025-02-27","","direct_data","yearly",420000.0,500000.0,"INR",False,"","","organic","","Data Engineer  
+"gd-1009655854510","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009655854510","","Senior AI Engineer","Emmes Global","Bengaluru","2025-03-01","","direct_data","yearly",360000.0,763000.0,"INR",False,"","","organic","","Overview:
 
+Emmes Group: Building a better future for us all.  
 
-This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.**Who We Are:**
+Emmes Group is transforming the future of clinical research, bringing the promise of new medical discovery closer within reach for patients. Emmes Group was founded as Emmes more than 47 years ago, becoming one of the primary clinical research providers to the US government before expanding into public\\-private partnerships and commercial biopharma. Emmes has built industry leading capabilities in cell and gene therapy, vaccines and infectious diseases, ophthalmology, rare diseases, and neuroscience.  
 
+We believe the work we do will have a direct impact on patients’ lives and act accordingly. We strive to build a collaborative culture at the intersection of being a performance and people driven company. We’re looking for talented professionals eager to help advance clinical research as we work to embed innovation into the fabric of our company. If you share our motivations and passion in research, come join us! **Primary Purpose**  
 
-Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know diverse backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+We are looking for a Senior AI Engineer with expertise in AWS\\-based AI/ML solutions to join our team. In this role, you will be responsible for automating the AI lifecycle, from data preparation, model training, and deployment to monitoring and integration within a fully AWS\\-driven environment. You will work closely with data engineers, data scientists, software engineers, and product managers to develop and deploy scalable Generative AI and NLP solutions using AWS services.
 
-**Job Description:**
 
- ***Job Family Definition:***
-
-
-we are looking for a Software Engineer to join us! In this amazing role, you will be responsible for design, development, troubleshooting and debugging of data engineering products, Software Defined Storage analytics products of HPE. This is an amazing opportunity to be part of our R\\&D team and work in areas of storage, filesystem, hyper converged solutions and analytics. You will evaluate, design, and define coding, programming, and integration activities based on objectives and established project guidelines, collaborating with product management to understand and finalize requirements.
-
-**What You'll Do:**
-
-* we are looking for a Software Engineer to join us! In this amazing role, you will be responsible for design, development, troubleshooting and debugging of data engineering products, Software Defined Storage analytics products of HPE. This is an amazing opportunity to be part of our R\\&D team and work in areas of storage, filesystem, hyper converged solutions and analytics. You will evaluate, design, and define coding, programming, and integration activities based on objectives and established project guidelines, collaborating with product management to understand and finalize requirements.
-
-**What you need to bring:**
-
-* Bachelor's degree in Computer Science, or another data\\-oriented discipline
-* 4 to 12 years of industry experience as data scientist
-* Expert in Python coding
-* Statistical inference (hypothesis testing, estimation with confidence intervals, Bayesian inference)
-* Fluent user of Apache Spark
-* Working knowledge of data structures (array, maps, trees, stacks, queues) and algorithms (recursion, dynamic programming, backtracking)
-* Descriptive statistics Knowledge (central tendency, variability, distribution)
-* Clear technical communication
-* Ability and willingness to learn quickly
-
- **Additional preferred skills**
-
-* Familiar with NoSQL databases, preferably Cassandra
-* Knowledge in Scala, Rust
-* Familiar with Kubernetes, Docker, Git, Maven
-* Gen AI, Knowledge about foundational LLM models.
-
-**Additional Skills:**
-
-
-Cloud Architectures, Cross Domain Knowledge, Design Thinking, Development Fundamentals, DevOps, Distributed Computing, Microservices Fluency, Full Stack Development, Release Management, Security\\-First Mindset, User Experience (UX)**What We Can Offer You:**
-
-**Health \\& Wellbeing**
-
-
-We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.
-
-**Personal \\& Professional Development**
-
-
-We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.
-
-**Diversity, Inclusion \\& Belonging**
-
-
-We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know diverse backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.
-
-**Let's Stay Connected:**
-
-
-Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.
-
-
-\\#india
-\\#aruba**Job:**
-
-
-Engineering**Job Level:**
-
-
-TCP\\_04  
-
-HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT and Affirmative Action employer. We are committed to diversity and building a team that represents a variety of backgrounds, perspectives, and skills. We do not discriminate and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global diverse team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.
-
-**Hewlett Packard Enterprise is EEO F/M/Protected Veteran/ Individual with Disabilities.**
-
-  
-
-HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.","","https://www.glassdoor.com/Overview/W-EI_IE1093046.htm","https://media.glassdoor.com/sql/1093046/hewlett-packard-enterprise-squarelogo-1446452961178.png","","","","",""
-"gd-1009653053915","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009653053915","","Data Engineer (Django, Python)","Bluewings","India","2025-02-27","","direct_data","monthly",40000.0,70000.0,"INR",False,"","","organic","","**Key Details:**
-
-* Location: Bangalore\\-Onsite
-* Type\\- Work From Office\\-Bangalore E\\-city
-
-**Job Description:**
-
-We are seeking a skilled **Data Engineer** with experience in **Django and Python** to join our team. The ideal candidate will have a strong background in data engineering, database management, and backend development.
-
-**Key Responsibilities:**
-
-* Design, develop, and maintain data pipelines and ETL processes.
-* Work with large datasets, ensuring data integrity and optimal performance.
-* Develop and maintain backend APIs using **Django** and **Python**.
-* Collaborate with data scientists, analysts, and other engineers to optimize data workflows.
-* Optimize database performance and ensure scalability.
-* Implement data security and compliance best practices.
-* Work with relational and NoSQL databases such as PostgreSQL, MySQL, MongoDB, or Redis.
-
-**Required Skills:**
-
-* 2 to 5 years of experience in **Python** and **Django** development.
-* Strong knowledge of **SQL** and database design principles.
-* Experience with data modeling, ETL pipelines, and data processing frameworks.
-* Proficiency in working with cloud services (AWS, GCP, or Azure) is a plus.
-* Experience with **Big Data** tools like Spark, Hadoop, or Kafka is a plus.
-* Familiarity with containerization (Docker, Kubernetes) is a plus.
-
-**Preferred Qualifications:**
-
-* Bachelor's or Master's degree in Computer Science, Data Engineering, or a related field.
-* Strong analytical and problem\\-solving skills.
-* Ability to work in a fast\\-paced and dynamic environment.
-
-Interview Process for selected candidates
-
-1\\. First Round: Conducted via Google Meet.
-
-2\\. Second Round: Technical round Face to face.
-
-https://www.synclovis.com/about\\-us/
-
-Job Type: Full\\-time
-
-Pay: ₹40,000\\.00 \\- ₹70,000\\.00 per month
-
-Benefits:
-
-* Paid sick time
-* Provident Fund
-
-Schedule:
-
-* Day shift
-* Monday to Friday
-
-Supplemental Pay:
-
-* Performance bonus
-
-Work Location: In person","","","","","","","",""
-"gd-1009652908908","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009652908908","","Senior Software Developer","SkyServe","Bengaluru","2025-02-27","","direct_data","yearly",1081143.0,2083502.0,"INR",False,"","","organic","hello@skyserve.ai","**About Us**
-
-SkyServe is an AI and edge computing technology company for satellites and aerospace platforms enabling analytics providers and core industries to deploy applications for earth observation and space based solutions.
-
-SkyServe seeks dynamic individuals for the position of Senior Software Developer to contribute to their innovative team based in Bengaluru.**Senior Software Developer**
-
-**Location: Bengaluru, India**
-
-**Experience Level: 5\\+ Years**
-
-**About the Role**
-
-**We are seeking a Senior Software Developer with expertise in backend systems, machine learning, and scalable architecture to design and build high\\-impact products. The ideal candidate should have experience handling large\\-scale distributed systems, leading teams, and working with modern cloud technologies.**
-
-**Key Responsibilities**
-
-* Design and develop high\\-performance backend systems handling millions of requests per day.
-* Work with Azure Databricks and PySpark to process large\\-scale datasets efficiently.
-* Lead and mentor a team of engineers, ensuring best coding practices.
-* Collaborate with data scientists, product managers, and cloud engineers to develop end\\-to\\-end solutions.
-* Architect and implement cloud\\-native, high\\-availability systems with a focus on security and performance.
-* Optimize algorithms and integrate computer vision models into embedded platforms.
-* Represent SkyServe in technical conferences and knowledge\\-sharing sessions.
-
-**Required Skills \\& Qualifications**
-
-* Bachelor's or Master’s degree in Computer Science, Electrical Engineering, or a related field.
-* Proficiency in Python for backend development.
-* Strong understanding of embedded systems, hardware\\-software interaction, and memory management.
-* Experience leading teams and working in agile, fast\\-paced environments.
-* Excellent problem\\-solving, communication, and collaboration skills.
-
-**Preferred Qualifications**
-
-* Experience with **Geo\\-AI, geospatial data**.
-* Hands\\-on experience with **full\\-stack development (JavaScript/React)**.
-* Understanding of **Linux kernel development, and version control systems (Git)**.
-* Familiarity with Jetson hardware platforms, and deep learning frameworks (TensorFlow/PyTorch).
-* Background in **data science, cloud\\-hosted products, or geospatial data**.
-* Interest in **space, satellites, or geospatial applications**.
-
-Join us in pushing the boundaries of satellite\\-based insights and contribute to shaping the future of technology! If you're ready to make an impact, we want to hear from you. Apply now to join our innovative team at SkyServe.
-
-**Why Join Us?**
-
-* **Work on cutting\\-edge AI and geospatial technologies.**
-* **Be part of a high\\-performing engineering team solving real\\-world challenges.**
-* **Competitive salary and benefits.**
-* **Opportunities to lead and contribute to patents and publications.**
-
-**If you're passionate about building impactful software solutions, we’d love to hear from you! Apply now.** 
-
-**How to Apply:**
-
-If you are passionate about role and excited about the opportunity to join a dynamic team at the forefront of innovation, please submit your resume, cover letter to hello@skyserve.ai
-
-**Only those candidates can apply who:**
-
-* are available for full\\-time (in\\-office) roles.
-* can start immediately.
-* have relevant skills and interests.
-
-Job Type: Full\\-time
-
-Pay: ₹1,081,142\\.48 \\- ₹2,083,502\\.07 per year
-
-Benefits:
-
-* Flexible schedule
-* Food provided
-* Health insurance
-* Provident Fund
-* Work from home
-
-Schedule:
-
-* Day shift
-* Monday to Friday
-
-Supplemental Pay:
-
-* Performance bonus
-
-Work Location: In person
-
-Expected Start Date: 18/03/2025","","","","","","","",""
-"gd-1009653163169","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009653163169","","Applied Scientist","Oracle","Bengaluru","2025-02-27","","","","","","",False,"","","organic","","At Oracle Cloud Infrastructure (OCI), we build the future of the cloud for Enterprises as a diverse team of fellow creators and inventors. We act with the speed and attitude of a start\\-up, with the scale and customer focus of the leading enterprise software company in the world. Values are OCI’s foundation and how we deliver excellence. We strive for equity, inclusion, and respect for all. We are committed to the greater good in our products and our actions. We are constantly learning and taking opportunities to grow our careers and ourselves. We challenge each other to stretch beyond our past to build our future. You are the builder here. You will be part of a team of really smart, motivated, and diverse people and given the autonomy and support to do your best work. It is a dynamic and flexible workplace where you’ll belong and be encouraged.
-
-
-Within OCI, AI Services team's one of the goals is to improve user experience and solve challenging problems through seamless employee services by enabling AI/ML services like NLP , Vision, Machine Translation etc.
-
-
-We are seeking a seasoned ML engineer/developer with strong background in software development and experience in ML ops, dev ops and ML Platform. The ideal candidate will collaborate with cross functional teams to design, implement, and optimize ML Services and Platform. A successful candidate will be a person who enjoys diving deep into ML infrastructure, doing analysis, discovering root causes, and designing long\\-term solutions. You will be joining our AL infra and platform Engineering Service team who is responsible for building AI Platform, AI Ops capabilities to improve operational efficiency and effectiveness of enterprise engineering cloud services \\- thereby improve customer experience and service resiliency. So you will have an opportunity to design, implement systems end to end by helping select the right technologies, and envisioning a long\\-term architecture is part of the role. Finally, we always look for enthusiastic, passionate individuals with a willingness to learn new technologies.
-
-
-Career Level \\- IC3
-
-
-  
 Responsibilities:
+* Develop and deploy machine learning models using Generative AI, NLP, and Large Language Models (LLMs) in an AWS ecosystem.
+* Utilize AI framework (Lang Chain, Llama Index etc), Bedrock, and SageMaker to develop and integrate AI\\-driven agents and language models.
+* Automate and optimize end\\-to\\-end AI workflows, including data processing, model training, deployment, inference and monitoring using AWS Lambda, EC2, S3, SageMaker, and Bedrock.
+* Architect and implement scalable and cost\\-effective AI solutions using AWS infrastructure best practices.
+* Optimize AI workloads for high performance and cost\\-efficiency in AWS environments.
+* Monitor model performance, retrain, and optimize ML pipelines for scalability and efficiency.
+* Work closely with data engineers and software developers to integrate AI models into AWS\\-native applications.
+* Document technical implementations and communicate best practices across teams.
+* Stay up to date with AWS AI/ML advancements and emerging AI trends to enhance system performance and capabilities.
 
 
-* Build and maintain scalable ML infrastructure and platforms for managing and deploying models in production environment
-* Design, implement and optimize AI services / ML Engineering Platform/Infra for Data processing , Feature Engineering , Model training and Inference
-* Implement best practices for ML Ops, Dev Ops including model versioning , monitoring , logging and automated testing
-* Proven ability to deliver products and experience with the full software development lifecycle
-* Experience working on large\\-scale, highly distributed services infrastructure
-* Translate business needs into advanced machine learning AI services and provide strong algorithm and coding execution and delivery of Machine Learning \\& Artificial Intelligence.
-* Develop analysis and optimization methods to improve the AI platform Capabilities
-* Experience working in an operational environment with mission\\-critical tier\\-one live site servicing
-* Experience designing architectures that demonstrate deep technical depth in one area, or span many products, to enable high availability, scalability, market\\-leading features and flexibility to meet future business demands
-* Stay up to date with latest advancements in machine learning , security technology and industry trends to drive innovation and maintain competitive advantage
+Qualifications:
+* Engineering/master’s degree in computer science, Data Science, AI, or a related field.
+* 4\\+ years of experience in Machine Learning, AI engineering, and model deployment in AWS environments.
+* Strong expertise in AWS AI/ML services, including SageMaker, Bedrock, Lambda, S3, and EC2\\.
+* Experience in Generative AI, NLP, Computer Vision and LLM\\-based solutions using Python and associated libraries.
+* Hands\\-on experience in fine\\-tuning pre\\-trained CNN/LLM models and building them from scratch.
+* Experience with MLOps, CI/CD pipelines, and model monitoring in AWS.
+* Proficiency in ML frameworks like TensorFlow, PyTorch, Keras, and scikit\\-learn.
+* Solid understanding of cloud\\-native AI architectures, infrastructure optimization, and security best practices.
+* Strong problem\\-solving and analytical skills with the ability to work in a cross\\-functional team.
+* Excellent communication skills for technical and non\\-technical stakeholders.
+* Engineering/master’s degree in computer science, Data Science, AI, or a related field.
+* 3\\+ years of experience in Machine Learning, AI engineering, and model deployment in AWS environments.
+* Strong expertise in AWS AI/ML services, including SageMaker, Bedrock, Lambda, S3, and EC2\\.
+* Experience in Generative AI, NLP, Computer Vision and LLM\\-based solutions using Python and associated libraries.
+* Hands\\-on experience in fine\\-tuning pre\\-trained CNN/LLM models and building them from scratch.
+* Experience with MLOps, CI/CD pipelines, and model monitoring in AWS.
+* Proficiency in ML frameworks like TensorFlow, PyTorch, Keras, and scikit\\-learn.
+* Solid understanding of cloud\\-native AI architectures, infrastructure optimization, and security best practices.
+* Strong problem\\-solving and analytical skills with the ability to work in a cross\\-functional team.
+* Excellent communication skills for technical and non\\-technical stakeholders.
 
-**Preferred Qualifications**
+**CONNECT WITH US!***Follow us on Twitter \\- @EmmesCRO**Find us on LinkedIn \\- Emmes*","","https://www.glassdoor.com/Overview/W-EI_IE106987.htm","https://media.glassdoor.com/sql/106987/the-emmes-company-squareLogo-1710868865951.png","","","","",""
+"gd-1009656842510","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009656842510","","Lead Software Engineer - Data Engineer, AWS,Databricks","JPMorganChase","Bengaluru","2025-03-01","","direct_data","yearly",290000.0,1000000.0,"INR",False,"","","organic","","**JOB DESCRIPTION**  
 
-* BS or MS degree in Computer Science or relevant technical field involving coding or equivalent practical experience
-* 5\\+ years of total experience in software development
-* Hands\\-on experience developing and maintaining services on a public cloud platform (e.g., AWS, Azure, Oracle)
-* Knowledge of Infrastructure as Code (IAC) languages, preferably Terraform
-* Strong proficiency in programming languages such as Python, Java and ML frameworks/libraries such as Tensor flow , Pytorch or scikit\\-learn
-* Strong knowledge of Container and its Orchestration technology like Kubernetes, docker
-* Solid understanding of software engineering principles, including version control , testing and deployment automation
-* Communicate effectively to multiple stakeholders on value and insights from data
-* Make Recommendations and influence the AI service roadmap for our platforms \\& services to constantly improve Customer experience.
-* Mentor other ML engineers/developer, and help them to develop their projects related to experimentation and evaluation.
-* Craft a measurement strategy to evaluate the performance of complex systems against challenging requirements
-* Develop robust methods for model monitoring in production and learning from feedback Ability to work with incomplete requirements and handle multiple projects with deadlines","","https://www.glassdoor.com/Overview/W-EI_IE1737.htm","https://media.glassdoor.com/sql/1737/oracle-squarelogo-1570718316042.png","","","","",""
-"gd-1009650553485","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009650553485","","Lead - Data Engineer, Digital Business","Sony Pictures Networks","Bengaluru","2025-02-26","","direct_data","yearly",650000.0,1000000.0,"INR",False,"","","organic","","Technology
-Bengaluru (1005\\)
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level
+
+
+As a Lead Software Engineer at JPMorgan Chase within the Commercial \\& Investment Banking's Global Bank Technology Team, you'll serve as a seasoned member of an agile team to design and deliver trusted market\\-leading Data Engineering Solutions and Data products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
+
+**Job Responsibilities:**
+
+* Design and implement scalable data architectures using Databricks at an enterprise\\-scale.
+* Design and implement Databricks integration and interoperability with other cloud providers such as AWS, Snowflake, Immuta, and OpenAI.
+* Collaborate with data scientists, analysts and business stakeholders to understand requirements and deliver solutions.
+* Develop and maintain data architecture standards, including data product interfaces, data contracts, and governance frameworks.
+* Implement data governance and security measures to ensure data quality and compliance with industry and regulatory standards.
+* Monitor and optimize the performance and scalability of data products and infrastructure.
+* Provide training and support to domain teams on data mesh principles and cloud data technologies.
+* Stay up\\-to\\-date with industry trends and emerging technologies in data mesh and cloud computing.
+
+**Required qualifications, capabilities, and skills:**
+
+* Formal training or certification on software engineering concepts and 5\\+ years applied experience
+* 12\\+ years applied experience in Data Engineering space using enterprise tools, home grown frameworks and 5\\+ years of speciality in Databricks implementation from start to end.
+* 5\\+ years of experience in AWS cloud environment \\& Databricks.
+* Experience as a Databricks solution architect or tech lead or similar role in an enterprise environment.
+* Hands\\-on practical experience delivering system design, application development, testing, and operational stability
+* Influencer with a proven record of successfully driving change and transforming across organizational boundaries
+* Ability to present and effectively communicate to Senior Leaders and Executives.
+* Experience in Python, Spark \\& Streaming (Spark Streaming or KAFKA or Kinesis) is a must
+
+Deep understanding of Apache Spark, Delta Lake, DLT and other big data technologies  
+* 
+
+**Preferred qualifications, capabilities, and skills:**
+
+* Databricks and AWS certification
+* Experience of working in a development teams, using agile techniques and Object Oriented development and scripting languages, is preferred.
+* Experience with LLM \\& AI/ML is preferred.
+
+
+**ABOUT US**","","https://www.glassdoor.com/Overview/W-EI_IE5224839.htm","https://media.glassdoor.com/sql/5224839/jpmorgan-chase-and-co-squareLogo-1724869012253.png","","","","",""
+"gd-1009654358349","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009654358349","","Quantitative Research Associate - Asset and Wealth Management Risk","JPMorganChase","Bengaluru","2025-02-28","","direct_data","yearly",518500.0,638500.0,"INR",False,"","","organic","","**JOB DESCRIPTION**  
+
+Are you looking for an exciting opportunity to join a dynamic and growing team in a fast paced and challenging area? This is a unique opportunity for you to work in our team to partner with the Business to provide a comprehensive view.
+
+
+As a **Quantitative Research Associate** **\\-** **Asset and Wealth Management Risk** in the Asset \\& Wealth Management Risk Team, you will be a key member of a diverse and innovative group of quantitative and market risk professionals. Your role will involve developing and maintaining risk measurement methodologies, performing analytics calculations, and managing the Asset and Wealth Management Risk System (Newton). This system, which is continuously developed and maintained by our team, is used by both Risk and Front Office stakeholders within the Asset and Wealth Management sector. We are looking for an analyst to join and partner with senior members of our team to embark on a journey of innovation to introduce and scale up data\\-driven risk analytics solutions through data science and machine learning techniques to transform our operations and business processes, strengthening the core value proposition of our system and expanding flexible analytical capabilities for the growth of Newton’s platform.
+
+
+**Job responsibilities :**
+
+* Contribute to the research and enhancement of the risk methodology for AWM Risk Analytics. The methodology covers sensitivity, stress, VaR, factor modeling, and Lending Value pricing for investment (market), counterparty (credit), and liquidity risk.
+* Work with peers and stakeholders to identify use cases and opportunities for Data Science to create value. Use your knowledge of Computer Science, Statistics, Mathematics and Data Science techniques to provide further insights into security and portfolio risk analytics.
+* Assist with continuous improvements in our adopted Machine Learning and statistical technics used in our data and analytics validation process.
+* Collaborate, design, and deliver solutions that are flexible and scalable using the firm’s approved tools.
+* Prepare comprehensive model documentation for the Model Risk Governance and Review group to validate the models our team owns and uses, along with ongoing monitoring and back testing.
+* Contribute to the analysis of new and large data sets and assist with their onboarding, following our best practice data model and architecture using big data platforms.
+
+
+
+
+**Required qualifications, capabilities, and skills :**
+
+* 2\\+ years of experience in a quantitative analysis/research role/ data scientist role within Market/Credit Risk Management, a Front Office role or academic equivalent
+* A quantitative, technically proficient individual who is detail\\-oriented, able to multi\\-task, and work independently.
+* Excellent communication skills.
+* A strong understanding of statistics, applied AI/ML techniques, and a practical problem\\-solving mindset. Practical experience in financial markets in a quantitative analysis/research role within Risk Management, a Front Office role
+
+
+
+
+**Preferred qualifications, capabilities, and skills :**
+
+* Knowledge of asset pricing, VaR backtesting techniques, and model performance testing is a plus.
+* Knowledge in modular programming in SQL, Python, ML, AWS Sagemaker and TensorFlow is preferred.
+* A degree in a quantitative or technology field (Economics, Maths/Statistics, Engineering, Computer Science or equivalent) is preferred.
+
+
+
+
+**ABOUT US**  
+
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.  
+
+  
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+  
+
+  
+
+  
+
+**ABOUT THE TEAM**  
+
+  
+
+J.P. Morgan Asset \\& Wealth Management delivers industry\\-leading investment management and private banking solutions. Asset Management provides individuals, advisors and institutions with strategies and expertise that span the full spectrum of asset classes through our global network of investment professionals. Wealth Management helps individuals, families and foundations take a more intentional approach to their wealth or finances to better define, focus and realize their goals.","","https://www.glassdoor.com/Overview/W-EI_IE5224839.htm","https://media.glassdoor.com/sql/5224839/jpmorgan-chase-and-co-squareLogo-1724869012253.png","","","","",""
+"gd-1009654300716","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009654300716","","Data Engineering Manager","HireRight","Bengaluru","2025-02-28","","","","","","",False,"","","organic","","About HireRight:
+
+HireRight is the premier global background screening and workforce solutions provider. We bring clarity and confidence to vetting and hiring decisions through integrated, tailored solutions, driving a higher standard of accuracy in everything we do. Combining in\\-house talent, personalized services, and proprietary technology, we ensure the best candidate experience possible. PBSA accredited and based in Nashville, TN, we offer expertise from our regional centers across 200 countries and territories in The Americas, Europe, Asia, and the Middle East. Our commitment to get it right every time, everywhere, makes us the trusted partner of businesses and organizations worldwide.
+Overview:
+* Design, build, test and deploy new data pipelines within On Prem or Cloud Data Eco\\-Systems
+* Coordinates oversight into existing data pipelines, including the implementation of solutions that will simplify and increase performance.
+* Ensures team follows best practices and execute architected techniques and solutions for data collection, management and usage to aid in company\\-wide data governance and management framework.
+* Work closely with the data analysts and scientists, and database and systems administrators to create data solutions.
+* Evaluate new data sources for quality and attribution to support product requirements.
+* Documents new/existing pipelines, Data Sets and Data Sets lineage.
+* The work activity includes processing complex data sets, leveraging technologies used to process these disparate data sets and understanding the correlations as well as patterns that exist between these different complex data sets.
+* Sets team priorities to ensure task completion.
+* Participate in the formulation of departmental objectives, plans and policies.
+* Sets goals, provides feedback to team members, and conducts regular performance evaluations.
+* Interprets customer needs and assesses requirements; works with team members to aid in understanding tasks to support the production of solutions.
+* Engages in recruiting and training of new staff.
+* Provides concise status updates and challenges to senior management.
+
+
+Responsibilities:
+* Strong communication skills, with the ability to present complex technical solutions in a manner that can be interpreted by a general audience. This includes proficiency in Powerpoint, Visio, Drawio, etc.
+* Familiar with software development life cycle as it relates to data integration and data quality.
+* Experience in designing and building production data pipelines from ingestion to consumption within a hybrid data architecture, using Java, Python, Scala, C\\#, etc.
+* Experience in Designing and implementing scalable and secure data processing pipelines using Azure Data Factory, Azure Databricks, and other Azure services.
+* Experience in Managing and optimizing data storage using Azure Data Lake Storage, Azure SQL Data Warehouse, and Azure Cosmos DB.
+* Strong experience in common data warehouse modelling principles including Kimball, Inmon.
+* Strong experience with data processing frameworks such as Apache Spark and Hadoop
+* Ensuring data quality and consistency through data cleaning, transformation, and integration processes.
+* Knowledge of Dev\\-Ops processes (including CI/CD) and Infrastructure as code is essential.
+* Experience in Managing Monitoring and troubleshooting data\\-related issues within the Azure environment to maintain high availability and performance.
+* Collaborating with data scientists, business analysts, and other stakeholders to understand data requirements and implement appropriate data solutions.
+* Implementing data security measures, including encryption, access controls, and auditing, to protect sensitive information.
+* Automating data pipelines and workflows to streamline data ingestion, processing, and distribution tasks.
+* Utilizing Azure's analytics services, such as Azure Synapse Analytics, to provide insights and support data\\-driven decision\\-making.
+* Knowledge of Microsoft BI Stack (SSRS/SSAS (Tabular with DAX \\& OLAP with MDX) SSIS) is desirable.
+* Keeping abreast of the latest Azure features and technologies to enhance data engineering processes and capabilities.
+* Documenting data procedures, systems, and architectures to maintain clarity and ensure compliance with regulatory standards.
+* Providing guidance and support for data governance, including metadata management, data lineage, and data cataloging.
+* Skills in navigating interpersonal dynamics, resolving team conflicts while maintaining a positive work culture.
+
+
+Qualifications:
+* BA/BS in Computer Science, engineering or related field, or equivalent experience.
+* 5\\+ years of experiencing in a leadership role, managing and mentoring teams.
+* 5\\+ years of experience in area of data management and/or data curation.
+* 5\\+ years development experience with Oracle and/or SQL Server.
+* 5\\+ years of Experience with Python/Pyspark frameworks/libraries.
+* Expert level understanding on Azure Data Factory, Azure Synapse, Azure SQL, Azure Data Lake, and Azure App Service is required.
+* Ability to develop, implement and optimize code using procedural languages such as PL/SQL, T\\-SQL, etc..
+* Experienced with SSIS and C\\# development
+* Experienced with data normalization and denormalization techniques
+* Experienced in implementing largescale event based streaming architectures
+* Experienced data transformation and data processing techniques
+* Knowledge of API and Microservice development
+* Experienced in Agile methodology and/or pair programming
+* Preferred knowledge of AI/ML concepts and technologies
+* Preferred experience with Stream\\-processing systems
+* Preferred working knowledge of cloud architectures on Azure or GCP
+* Strong communication skills
+* Strong writing and documentation skills
+* Experienced in working with cross functional teams, building alignment and collaboration
+* Preferred certification Azure Data Engineering Associate (DP203\\) and Implementing Analytic Solutions Using Microsoft Fabric (DP600\\).
+
+
+What do we offer:
+**In exchange for your expertise, HireRight offers an excellent employee benefit package which includes:**
+
+  
+
+* Medical
+* Dental
+* Vision
+* Paid Life/AD\\&D Insurance
+* Voluntary Life Insurance
+* Short\\- \\& Long\\-Term Disability
+* Flexible Spending Accounts
+* 401K
+* Generous Vacation and Sick Program
+* 10 Paid Holidays
+* Education Assistance Program
+* Business Casual Attire
+* Generous Referral Program
+* Employee Discounts and Rewards
+* And much more!
+
+* *All resumes are held in confidence. Only candidates whose profiles closely match requirements will be contacted during this search.*
+
+ **HireRight, LLC is an Equal Opportunity Employer**
+
+**Minorities / Females / Veterans / Disabilities**","","https://www.glassdoor.com/Overview/W-EI_IE22707.htm","https://media.glassdoor.com/sql/22707/hireright-squarelogo-1582861990078.png","","","","",""
+"gd-1009654883179","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009654883179","","Linux Admin ||4-6 Years || Bangalore","Capgemini Engineering","Bengaluru","2025-02-28","","direct_data","yearly",300000.0,475000.0,"INR",False,"","","organic","","At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-saving robots, our digital and software technology experts think outside the box as they provide unique R\\&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
 
 
 **Job Description**
+-------------------
 
-**Organization** – Sony Pictures Networks India (SPN
-
-**Role Overview \\-** Role involves leading SonyLIV's data engineering strategy, architecting scalable data infrastructure, driving innovation in data processing, ensuring operational excellence, and fostering a high\\-performance team to enable data\\-driven insights for OTT content and user engagement.
-
- **Position Details \\-**
+Provide support for Unix/Linux systems, including installation, configuration, and maintenance.
 
 
-Role \\- Frontend Engineering
+Provide L3 support to resolve complex technical issues related to Linux systems and applications.
 
 
-Position \\- Lead \\- Data Engineering, Digital Business
+Collaborate with other teams to diagnose and troubleshoot cross\\-functional issues, ensuring timely resolution.
 
 
-Location \\- Bangalore
+Maintenance of multiple Linux systems, including patching \\& upgradation
 
 
-Experience \\- \\+ years
-
- **Responsibilities**:
-
-* Define the Technical Vision for Scalable Data Infrastructure: Establish a robust technical strategy for SonyLIV’s data and analytics platform, architecting a scalable, high\\-performance data ecosystem using modern technologies like Spark, Kafka, Snowflake, and cloud services (AWS/GCP).
-* Lead Innovation in Data Processing and Architecture: Advance SonyLIV’s data engineering practices by implementing real\\-time data processing, optimized ETL pipelines, and streaming analytics through tools like Apache Airflow, Spark, and Kubernetes. Enable high\\-speed data processing to support real\\-time insights for content and user engagement.
-* Ensure Operational Excellence in Data Systems: Set and enforce standards for data reliability, privacy, and performance. Define SLAs for production data processes, using monitoring tools (Grafana, Prometheus) to maintain system health and quickly resolve issues.
-* Build and Mentor a High\\-Caliber Data Engineering Team: Recruit and lead a skilled team with strengths in distributed computing, cloud infrastructure, and data security. Foster a collaborative and innovative culture, focused on technical excellence and efficiency.
-* Collaborate with Cross\\-Functional Teams: Partner closely with Data Scientists, Software Engineers, and Product Managers to deliver scalable data solutions for personalization algorithms, recommendation engines, and content analytics.
-* Architect and Manage Production Data Models and Pipelines: Design and launch production\\-ready data models and pipelines capable of supporting millions of users. Utilize advanced storage and retrieval solutions like Hive, Presto, and BigQuery to ensure efficient data access.
-* Drive Data Quality and Business Insights: Implement automated quality frameworks to maintain data accuracy and reliability. Oversee the creation of BI dashboards and data visualizations using tools like Tableau and Looker, providing actionable insights into user engagement and content performance.
+Develop and maintain backup and recovery strategies for Linux systems, ensuring data integrity and availability.
 
 
-This role offers the opportunity to lead SonyLIV’s data engineering strategy, driving technological innovation and operational excellence while enabling data\\-driven decisions that shape the future of OTT entertainment.
-
- **Minimum Qualifications:**
-
-* 15\\+ years of progressive experience in data engineering, business intelligence, and data warehousing, including significant expertise in high\\-volume, real\\-time data environments.
-* Proven track record in building, scaling, and managing large data engineering teams (10\\+ members), including experience managing managers and guiding teams through complex data challenges.
-* Demonstrated success in designing and implementing scalable data architectures, with hands\\-on experience using modern data technologies (e.g., Spark, Kafka, Redshift, Snowflake, BigQuery) for data ingestion, transformation, and storage.
-* Advanced proficiency in SQL and experience with at least one object\\-oriented programming language (Python, Java, or similar) for custom data solutions and pipeline optimization.
-* Strong experience in establishing and enforcing SLAs for data availability, accuracy, and latency, with a focus on data reliability and operational excellence.
-* Extensive knowledge of A/B testing methodologies and statistical analysis, including a solid understanding of the application of these techniques for user engagement and content analytics in OTT environments.
-* Skilled in data governance, data privacy, and compliance, with hands\\-on experience implementing security protocols and controls within large data ecosystems.
-
- **Preferred Qualifications:**
-
-* Bachelor's or Master’s degree in Computer Science, Mathematics, Physics, or a related technical field.
-* Experience managing the end\\-to\\-end data engineering lifecycle, from model design and data ingestion through to visualization and reporting.
-* Experience working with large\\-scale infrastructure, including cloud data warehousing, distributed computing, and advanced storage solutions.
-* Familiarity with automated data lineage and data auditing tools to streamline data governance and improve transparency.
-* Expertise with BI and visualization tools (e.g., Tableau, Looker) and advanced processing frameworks (e.g., Hive, Presto) for managing high\\-volume data sets and delivering insights across the organization.
-
-  
-
-Why SPNI?
-
-  
-
-Join Our Team at SonyLIV – Drive the Future of Data\\-Driven Entertainment
+Perform regular backups and test recovery procedures to minimize downtime in case of system failures or disasters
 
 
-Are you passionate about working with big data? Do you want to shape the direction of products that impact millions of users daily? If so, we want to connect with you. We’re seeking a leader for our Data Engineering team who will collaborate with Product Managers, Data Scientists, Software Engineers, and ML Engineers to support our AI infrastructure roadmap. In this role, you’ll design and implement the data architecture that guides decision\\-making and drives insights, directly impacting our platform’s growth and enriching user experiences.
+Conduct regular security audits and vulnerability assessments, and apply necessary patches and updates.
 
 
-As a part of SonyLIV, you’ll work with some of the brightest minds in the industry, access one of the most comprehensive data sets in the world and leverage cutting\\-edge technology. Your contributions will have a tangible effect on the products we deliver and the viewers we engage.
+Configure and manage firewalls, intrusion detection/prevention systems, and other security tools.
 
 
-The ideal candidate will bring a strong foundation in data infrastructure and data architecture, a proven record of leading and scaling data teams, operational excellence to enhance efficiency and speed, and a visionary approach to how Data Engineering can drive company success. If you’re ready to make a significant impact in the world of OTT and entertainment, let’s talk.","","https://www.glassdoor.com/Overview/W-EI_IE7878.htm","https://media.glassdoor.com/sql/7878/sony-pictures-entertainment-squarelogo-1573432718022.png","","","","",""
+Deep understanding of OS and its management including kernel level troubleshooting
+
+
+Experience with Linux servers in virtualized environments.
+
+
+Familiarity with the fundamentals of Linux scripting languages.
+
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fuelled by its market leading capabilities in AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2023 global revenues of €22\\.5 billion.","","https://www.glassdoor.com/Overview/W-EI_IE28187.htm","https://media.glassdoor.com/sql/28187/capgemini-engineering-squareLogo-1683293407841.png","","","","",""
+"go-Nph_eDoTUJ3yjExJAAAAAA==","google","https://in.linkedin.com/jobs/view/assistant-professor-cse-it-ai-ds-cyber-sec-at-easa-college-of-engineering-technology-4166744809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Assistant Professor - CSE, IT, AI&DS, Cyber Sec","Easa College of Engineering & Technology","Coimbatore, Tamil Nadu","2025-02-26","","","","","","",False,"","","","","Skills:
+ME, Computer Science, Cyber Security, Artificial Intelligence (AI), Data Science, Python (Programming Language), C++, Java,
+
+Company Overview
+
+Easa College of Engineering & Technology is a higher education company located in Coimbatore, Tamil Nadu, India. It is dedicated to providing quality education in the field of engineering and technology.
+
+Job Overview
+
+Assistant Professor role at Easa College Of Engineering & Technology in Coimbatore, Tamil Nadu, India. Full-Time position for Fresher with less than 1 year of experience. Salary range: Competitive. Employee count: 201-500.
+
+Qualifications And Skills
+• Master's in Engineering (ME) with a focus on Computer Science.
+• Strong knowledge in Cyber Security, Artificial Intelligence (AI), and Data Science.
+• Passion for teaching and mentoring students in higher education settings.
+• Excellent communication and presentation skills.
+• Ability to work collaboratively in a diverse academic environment.
+
+Roles And Responsibilities
+• Deliver lectures, conduct tutorials, and evaluate students in Computer Science, IT, AI&DS, and Cyber Security courses.
+• Develop course materials, assessments, and projects in alignment with the curriculum.
+• Mentor and guide students in their academic and research endeavors.
+• Contribute to research projects and publications in relevant fields.
+• Participate in faculty meetings, committees, and academic programs.","","","","","","","",""
+"go-luGKm7Fv2jtLu8_JAAAAAA==","google","https://in.linkedin.com/jobs/view/teaching-assistant-cse-it-cyber-ai-ds-at-easa-college-of-engineering-technology-4166753270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Teaching Assistant - CSE / IT / Cyber / AI & DS","Easa College of Engineering & Technology","Coimbatore, Tamil Nadu","2025-02-26","","","","","","",False,"","","","","Skills:
+Python (Programming Language), Cybersecurity, C (Programming Language), Artificial Intelligence (AI), Data Science, Machine Learning, Cloud Computing, Data Structures,
+
+Company Overview
+
+Easa College of Engineering & Technology is a higher education company based out of NH-47, PALAKKAD MAIN ROAD NAVAKKARAI (PO), COIMBATORE, Tamil Nadu, India. Easa College Of Engineering & Technology has 201-500 employees employees. Its website is http://www.easacollege.com. It has its headquarters in COIMBATORE, Tamil Nadu. It belongs to the Higher Education sector.
+
+Job Overview
+
+Teaching Assistant - B.E / B.Tech in CSE/IT (Fresher) - Full-Time in Coimbatore
+
+Qualifications And Skills
+• B.E/B.Tech in Computer Science Engineering (CSE) or Information Technology (IT)
+• Knowledge of Python (Programming Language)
+• Understanding of Cybersecurity
+• Proficiency in C (Programming Language)
+• Familiarity with Artificial Intelligence (AI), Data Science, and Machine Learning
+• Experience or knowledge in Cloud Computing and Data Structures
+
+Roles And Responsibilities
+• Assist in conducting classes and tutorials for students
+• Provide support to professors in lesson preparation and grading
+• Help students with queries and provide additional explanations when needed
+• Participate in the development and implementation of educational programs and materials
+• Support students in lab practical sessions related to programming, cybersecurity, AI, and data science projects","","","","","","","",""
 "go-WrMy7djJS6w7N2bIAAAAAA==","google","https://in.linkedin.com/jobs/view/data-scientist-ii-alexa-sensitive-content-intelligence-at-amazonodotcom-4164137268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist - II, Alexa Sensitive Content Intelligence","AmazonOdotcom","Bengaluru, Karnataka","2025-02-25","","","","","","",False,"","","","","Alexa is the voice activated digital assistant powering devices like Amazon Echo, Echo Dot, Echo Show, and Fire TV, which are at the forefront of this latest technology wave. To preserve our customers experience and trust, the Alexa Sensitive Content Intelligence (ASCI) team builds services and tools through Machine Learning techniques to implement our policies to detect and mitigate sensitive content in across Alexa.
 
 We are looking for a passionate, talented, and inventive Data Scientist-II to help build industry-leading technology with Large Language Models (LLMs) and multimodal systems, requiring good learning and generative models knowledge. You will be working with a team of exceptional Data Scientists working in a hybrid, fast-paced organization where scientists, engineers, and product managers work together to build customer-facing experiences. You will collaborate with other data scientists while understanding the role data plays in developing data sets and exemplars that meet customer needs. You will analyze and automate processes for collecting and annotating LLM inputs and outputs to assess data quality and measurement.
@@ -438,42 +422,73 @@ Discover more at StateStreet.com/careers
 State Street's Speak Up Line
 
 Job ID: R-749936","","","","","","","",""
-"go-eMT2ox42NBREv-WYAAAAAA==","google","https://en-in.whatjobs.com/gfj/96402445?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist (Generative AI)","Tuskira","Kota, Andhra Pradesh","2025-02-25","","","","","","",False,"","","","","About Tuskira
+"go-oCzceiOrp50bl567AAAAAA==","google","https://builtin.com/job/head-data-ml-platform-engineering-site-lead-hybrid/4252215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Head of Data + ML Platform & Engineering Site Lead (Hybrid)","CrowdStrike","Bengaluru, Karnataka","2025-02-20","","","","","","",True,"","","","recruiting@crowdstrike.com","As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day. We have 3.44 PB of RAM deployed across our fleet of C* servers - and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.
 
-At Tuskira.ai, we empower organizations to enhance their security defenses without adding new tools. Our AI-powered platform unifies data from over 150 security tools into a security mesh, automating threat validation, optimizing defenses, and ensuring seamless integration across existing systems. We’re on a mission to make cybersecurity smarter, more effective, and less complex.
+About the Role:
 
-Join us in shaping the future of preemptive defense.
+The charter of the Data + ML Platform team is to harness all the data that is ingested and cataloged within the Data LakeHouse for exploration, insights, model development, ML model development lifecycle, ML engineering, and Insights Activation. This team is situated within the larger Data Platform group, which serves as one of the core pillars of our company. We processdata at a truly immense scale. The data sets we process are composed of various facets
+including telemetry data, associated metadata, IT asset information, contextual formation about threat exposure, and many more. These facets comprise the overall data platform, which is currently over 200 PB and maintained in a hyper scale Data Lakehouse.
+We are seeking a strategic and technically savvy leader to head our Data and ML Platform team. As the head, you will be responsible for defining and building our ML Experimentation Platform from the ground up, while scaling our data and ML infrastructure to support various roles including Data Platform Engineers, Data Scientists, and Threat Analysts. Your key responsibilities will involve overseeing the design, implementation, and maintenance of scalable ML pipelines for data preparation, cataloging, feature engineering, model training, model serving, and in-field model performance monitoring. These efforts will directly influence critical
 
-Role Overview:
+business decisions. In this role, you'll foster a production-focused culture that effectively bridgesthe gap between model development and operational success. Furthermore, you'll be at the forefront of spearheading our ongoing Generative AI investments. The ideal candidate for this position will combine strategic vision with hands-on technical expertise in machine learning and data infrastructure, driving innovation and excellence across our data and ML initiatives. We are building this team with ownership at Bengaluru, India, this leader will help us boot strap the entire site, starting with this team.
 
-We are looking for a highly skilled and motivated Data Scientist with experience in Generative AI to join our growing team in India. In this role, you will contribute to developing and deploying AI-driven models that power Tuskira. You will collaborate with engineers, security experts, and data professionals to create innovative solutions that address real-world cybersecurity challenges.
+What You'll Do:
+Strategic Leadership
+• Define the vision, strategy and roadmap for the organization’s data and ML platform to align with critical business goals.
+• Help design, build, and facilitate adoption of a modern Data+ML platform
+• Stay updated on emerging technologies and trends in data platform, ML Ops and AI/ML
 
-Key Responsibilities:
+Team Management
+• Build a team of Data and ML Platform engineers from a small footprint across multiple geographies
+• Foster a culture of innovation and strong customer commitment for both internal and external stakeholders
 
-AI Model Development: Design, develop, and deploy Generative AI models to simulate attack scenarios, automate threat validation, and enhance security insights. Implement advanced machine learning techniques to improve vulnerability detection and risk prioritization.
+Platform Development
+• Oversee the design and implementation of a platform containing data pipelines, feature stores and model deployment frameworks.
+• Develop and enhance ML Ops practices to streamline model lifecycle Management from development to production.
 
-Data Analysis and Insights: Analyze large-scale structured and unstructured cybersecurity data to identify patterns, trends, and actionable insights. Build robust pipelines to preprocess, clean, and normalize data from diverse security tools.
+Data Governance
+• Institute best practices for data security, compliance and quality to ensure safe and secure use of AI/ML models.
 
-Collaboration and Integration: Work closely with product, engineering, and security teams to align AI solutions with business goals. Integrate AI models into the Tuskira platform, ensuring seamless interaction with APIs and centralized telemetry.
+Stakeholder engagement
+• Partner with product, engineering and data science teams to understand requirements and translate them into platform capabilities.
+• Communicate progress and impact to executive leadership and key stakeholders.
 
-Research and Innovation: Stay updated with the latest advancements in Generative AI, machine learning, and cybersecurity. Prototype and test new AI-driven features and contribute to the continuous improvement of Tuskira’s platform.
+Operational Excellence
+• Establish SLI/SLO metrics for Observability of the Data and ML Platform along with alerting to ensure a high level of reliability and performance.
+• Drive continuous improvement through data-driven insights and operational metrics.
 
-Performance Optimization: Monitor, evaluate, and optimize model performance in production environments, ensuring scalability and reliability.
+What You'll Need:
+• B.S. in Computer Science, Data Science, Statistics, Applied Mathematics, or a related field and 10+ years related experience; or M.S. with 8+ years of experience; or Ph.D with 6+ years of experience.
+• 10+ years experience in data engineering, ML platform development, or related fields with at least 5 years in a leadership role.
+• Familiarity with typical machine learning algorithms from an engineering perspective; familiarity with supervised / unsupervised approaches: how, why and when labeled data is created and used.
+• Knowledge of ML Platform tools like Jupyter Notebooks, NVidia Workbench, MLFlow, Ray, Vertex AI, etc.
+• Experience with modern ML Ops platforms such as MLFLow, Kubeflow or SageMaker preferred.Experience in data platform product(s) and frameworks like Apache Spark, Flink or comparable tools in GCP and orchestration technologies (e.g. Kubernetes, Airflow). Experience with Apache Iceberg is a plus.
+• Deep understanding of machine learning workflows, including model training, deployment and monitoring.
+• Familiarity with data visualization tools and techniques.
+• Experience with boot strapping new teams and growing them to make a large impact.
+• Experience operating as a site lead within a company will be a bonus.
+• Exceptional interpersonal and communication skills. Work with stakeholders across multiple teams and synthesize their needs into software interfaces and processes.
 
-Qualifications:
-Bachelor’s or Master’s in Computer Science, Data Science, Artificial Intelligence, or a related field. 5+ years of experience in data science or machine learning roles, with hands-on experience in Generative AI. Strong understanding of Generative AI techniques (e.g., GANs, VAEs, transformers). Experience working with large datasets and tools Familiarity with cybersecurity concepts and data (e.g., CVEs, attack paths, threat intelligence) is a plus. Excellent problem-solving skills, a proactive mindset, and the ability to work independently and collaboratively.
+#LI-DP1
 
-Preferred Skills:
-Knowledge of cloud platforms like AWS, Azure, or GCP. Experience with Natural Language Processing (NLP) and language models. Familiarity with cybersecurity tools and frameworks (e.g., SIEM, EDR, CSPM). Strong communication skills to explain technical concepts to non-technical stakeholders.
+#LI-SR1
 
-Why Join Tuskira?
-Be part of a fast-growing, innovative cybersecurity startup. Work on newly evolving AI technologies and their real-world applications. Collaborate with a global team of industry experts. Competitive salary and benefits package. Opportunities for growth, learning, and making a tangible impact in cybersecurity.
+Benefits of Working at CrowdStrike:
+• Remote-friendly and flexible work culture
+• Market leader in compensation and equity awards
+• Comprehensive physical and mental wellness programs
+• Competitive vacation and holidays for recharge
+• Paid parental and adoption leaves
+• Professional development opportunities for all employees regardless of level or role
+• Employee Resource Groups, geographic neighbourhood groups and volunteer opportunities to build connections
+• Vibrant office culture with world class amenities
+• Great Place to Work Certified™ across the globe
 
-How to Apply:
+CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.
 
-If you’re passionate about using AI to solve complex problems and want to join a team redefining cybersecurity, we’d love to hear from you. Apply now with your resume and a brief statement about your experience with Generative AI.
+CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements.
 
-We'd love to have you on our team if you thrive on solving complex challenges and delivering technical solutions that drive success. Apply now to join us at Tuskira.ai!","","","","","","","",""
+If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.","","","","","","","",""
 "go-2ZWaOAQjuqreqY7PAAAAAA==","google","https://www.shine.com/jobs/security-data-scientist/arctic-wolf/16606567?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Security Data Scientist","Arctic Wolf","Karnataka","2025-02-13","","","","","","",False,"","","","","Arctic Wolf, with its unicorn valuation, is the leader in security operations in an exciting and fast-growing industrycybersecurity. We have won countless awards for our excellence in security operations and remain dedicated to providing an industry-leading customer and employee experience.
 
 Our mission is simple: End Cyber Risk. Were looking for a Security Data Scientist to be a part of making this happen.
@@ -644,484 +659,693 @@ Responsibilities
 • Work together with our GOC team (located in Hyderabad) to scale the operational work required to protect Google accounts, such as handling low severity escalations and alerts, and maintaining the ground truth quality. Provide the training and work with UP/ADI.
 
 Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.","","","","","","","",""
-"li-4094667451","linkedin","https://www.linkedin.com/jobs/view/4094667451","https://jobs.exxonmobil.com/ExxonMobil/job/Bengaluru-Commercial-Data-Scientist-KA/1240201900/?feedId=223600&utm_source=LinkedInJobPostings&utm_campaign=EOM_Linkedin&urlHash=YnMb","Commercial Data Scientist","ExxonMobil","Bengaluru, Karnataka, India","2025-02-26","fulltime","","","","","","","entry level","Engineering and Information Technology","","","**About Us**
- At ExxonMobil, our vision is to lead in energy innovations that advance modern living and a net\\-zero future. As one of the world’s largest publicly traded energy and chemical companies, we are powered by a unique and diverse workforce fueled by the pride in what we do and what we stand for.
-   
+"go-jHclsWVuUF0yjvSYAAAAAA==","google","https://www.foundit.in/job/data-scientist-threat-intelligence-security-domain-python-bangalore-7-to-11-years-cisico-bengaluru-bangalore-33777090?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist - Threat intelligence, Security Domain, Python - Bangalore - 7 to 11 Years","Cisico","Bengaluru, Karnataka","","","","","","","",False,"","","","","Job Description:
+
+Who You'll Work With
+
+Cisco is offering an extraordinary opportunity to work with an innovative team with a low process, high throughput culture. We are looking for a highly energetic Data Scientist who can combine technical acumen of network security engineering with strong analytical skills. The team is playing a crucial part in leading breakthrough security capabilities to the thousands of Ciscos current and future customers worldwide. Today, we handle more than 80 billion daily Internet requests from 65 million+ users around the world. Though we take phenomenal pride in being market leaders in threat security for long time, we are constantly innovating and improving our solutions to address the ever-changing threat landscape and changing data security paradigms so that our customer networks are always secured. We take our customers trust in us very seriously and go all the way to ensure we protect their data all times. Our team works on leading Network Intrusion Detection & Prevention System solutions that are all-star, scalable and easily manageable. Our network security portfolio and cloud delivered services cover a wide spectrum of security solutions spanning - Firepower Threat Defense, Snort, Encrypted Visibility Engine.
+
+Working at Cisco Network Security means being surrounded by passionate, intelligent and creative people that are determined to disrupt the Internet security industry with creative ideas, world-class research and unrivalled products and services. Its a place where the best ideas are quickly transformed into products, features, campaigns and company-wide practices, so it wont be long before you witness the results of your hard work.
+About the Role
+
+Data is a critical part of our AI/ML based Threat detection engine, where we process and analyze hundreds of millions of records every day to look for malicious and risky behavior. Furthermore, we are geeks at heart, passionate about data and solving cybersecurity problems for our customers.
+
+As a Security Data Scientist on the Threat team, you will be responsible for developing data-driven solutions using innovative sophisticated analytics techniques. This involves working closely with engineering, product, operations, and other teams to understand the most important technical and business analytics needs to drive security-centric analytics outcomes. A successful candidate is self-motivated with a passion for excellence and attention to detail.
+What You'll Do
+• Analyze and correlate complex data from various sources.
+• Perform exploratory data analysis to gain deeper understanding of the data.
+• Work with stakeholders, including domain experts and product, to understand use cases and domain-specific problems and find opportunities for applying machine learning to drive outcomes.
+• Develop tools and algorithms for generating synthetic data sets.
+• Define KPI's to measure model performance.
+• Develop and test statistical and machine learning models for efficacy and operational impact.
+• Write production quality code and work with other software engineering teams to deploy models into production.
+• Support deployed models as a domain expert.
+• Be creative and engineer novel features and methods to push beyond our current capabilities.
+Who You Are
+• Structure large, sophisticated data sets to find usable information, solve difficulties, and analyze problems with advanced analytical or statistical methods
+• demonstrated ability in a threat intelligence or related security analyst role with Min 7+Years.
+• Proficient in Cybersecurity fundamentals
+• Prior experience in data analysis in Cybersecurity domain
+• General data analysis tools (PySpark/Pandas/NumPy), data visualization and any one of the languages Python (preferably), C/C++
+#WeAreCisco
+
+#WeAreCisco where every individual brings their unique skills and perspectives together to pursue our purpose of powering an inclusive future for all.
+
+Our passion is connectionwe celebrate our employees diverse set of backgrounds and focus on unlocking potential. Cisconians often experience one company, many careers where learning and development are encouraged and supported at every stage. Our
+
+technology, tools, and culture pioneered hybrid work trends, allowing all to not only give their best, but be their best.
+
+We understand our outstanding opportunity to bring communities together and at the heart of that is our people. One-third of Cisconians collaborate in our 30 employee resource organizations, called Inclusive Communities, to connect, foster belonging, learn to be informed allies, and make a difference. Dedicated paid time off to volunteer80 hours each yearallows us to give back to causes we are passionate about, and nearly 86% do!
+
+Our purpose, driven by our people, is what makes us the worldwide leader in technology that powers the internet. Helping our customers reimagine their applications, secure their enterprise, transform their infrastructure, and meet their sustainability goals is what we do best. We ensure that every step we take is a step towards a more inclusive future for all. Take your next step and be you, with us!","","","","","","","",""
+"li-4170341207","linkedin","https://www.linkedin.com/jobs/view/4170341207","","Head of AI and Data Science","Licious","Bengaluru, Karnataka, India","2025-03-01","fulltime","","","","","","","director","Engineering","","","Licious is seeking a visionary
+ **Director of AI and Data Science** 
+ to lead the development of an
+ **AI\\-driven Agent Factory** 
+ . This strategic role involves designing, deploying, and managing autonomous agents and agentic workflows to drive efficiencies across all functions, including engineering, product, and operations. The ideal candidate will have a deep background in
+ **AI, ML, LLMs, and automation** 
+ , along with leadership experience in scaling intelligent systems in a fast\\-paced, data\\-driven environment.
+ 
+
+
 
   
 
- The success of our Upstream, Product Solutions and Low Carbon Solutions businesses is the result of the talent, curiosity and drive of our people. They bring solutions every day to optimize our strategy in energy, chemicals, lubricants and lower\\-emissions technologies.
-   
+
+
+
+
+**Ideal Experience** 
+ : 10\\-17 years
+ 
+
+
+
+**Reporting to** 
+ : Chief Technology and Product Officer
+ 
+
+
 
   
 
- We invite you to bring your ideas to ExxonMobil to help create sustainable solutions that improve quality of life and meet society’s evolving needs. Learn more about
- **our What and our Why** 
- and how we can work
- **together** 
+
+
+
+
+**Roles and Responsibilities:** 
+
+
+
+
+  
+
+
+
+
+
+**1\\.Strategic Leadership:** 
+
+
+
+* Define the vision, strategy, and roadmap for the
+ **Agent Factory initiative** 
+ , aligning it with Licious’s business objectives and operational goals.
+* Lead a high\\-performing team of data scientists, AI engineers, and ML specialists to develop
+ **intelligent agents** 
+ and
+ **agentic workflows** 
+ that drive automation across multiple business functions.
+* Foster a culture of innovation, collaboration, and continuous learning within the team.
+
+
+
+**2\\. AI Agent Architecture \\& Development:** 
+
+
+
+* Architect and develop scalable, reusable
+ **AI agent frameworks** 
+ that optimize workflow automation, decision\\-making, and customer experiences.
+* Leverage
+ **Large Language Models (LLMs)** 
+ ,
+ **deep learning** 
+ ,
+ **reinforcement learning** 
+ , and
+ **multi\\-agent systems** 
+ to build cutting\\-edge AI solutions.
+* Drive customer support automation, and personalised recommendations.
+
+
+
+**3\\. Cross\\-Functional Collaboration:** 
+
+
+
+* Partner with engineering, product, operations, and business stakeholders to identify high\\-impact automation use cases.
+* Collaborate with senior leadership to integrate
+ **intelligent agents** 
+ and
+ **AI\\-driven solutions** 
+ into strategic initiatives, enhancing operational efficiency and customer satisfaction.
+
+
+
+**4\\. Innovation and R\\&D:** 
+
+
+
+* Stay at the forefront of advancements in
+ **AI/ML, LLMs, multi\\-agent systems, and autonomous systems** 
+ to continuously improve agent capabilities.
+* Promote a culture of experimentation and R\\&D, exploring new technologies and methodologies for
+ **agent\\-based solutions** 
+ and
+ **AI\\-driven innovation** 
  .
+
+
+
+**5\\. Performance \\& Scalability:** 
+
+
+
+* Ensure the scalability, reliability, and performance of deployed AI agents by leveraging best practices in
+ **MLOps** 
+ and
+ **cloud\\-native architectures** 
+ .
+* Define, monitor, and analyze key performance metrics to measure agent efficiency, productivity gains, and business impact.
+
+
+
+**6\\. Governance \\& Compliance:** 
+
+
+
+* Establish
+ **AI governance frameworks** 
+ to ensure ethical AI usage, responsible automation, and data privacy compliance.
+* Drive best practices in security, monitoring, and
+ **CI/CD pipelines** 
+ for intelligent systems.
+
+
+
+  
+
+
+
+
+
+**Must Have Skills and Experience:** 
+
+
+
+* 10\\+ years of experience in
+ **software engineering, data science, or AI/ML** 
+ , with at least 5 years in a leadership role (preferably at Director level or above).
+* Proven track record of building and scaling
+ **AI\\-driven automation systems** 
+ in complex, data\\-driven environments.
+* Strong expertise in
+ **AI, machine learning, deep learning, LLMs, and multi\\-agent systems** 
+ .
+* Proficiency in
+ **Python** 
+ and ML frameworks such as
+ **TensorFlow, PyTorch, or JAX** 
+ .
+* Hands\\-on experience with
+ **LangChain, OpenAI APIs, Hugging Face, or similar technologies** 
+ for building intelligent agents and LLM\\-based applications.
+* Hands\\-on experience with cloud platforms (
+ **AWS, GCP, or Azure** 
+ ) and modern
+ **MLOps practices** 
+ , including CI/CD pipelines for ML models.
+* Familiarity with
+ **workflow automation tools** 
+ ,
+ **multi\\-agent orchestration frameworks** 
+ , and scalable data pipelines.
+* Exceptional leadership skills with a proven ability to build, mentor, and lead high\\-performing engineering and data science teams.
+* Excellent communication and stakeholder management skills, with the ability to influence and drive change at executive levels.
+
+
+
+  
+
+
+
+
+
+**Good to Have Skills and Experience:** 
+
+
+
+* Experience working in
+ **D2C, e\\-commerce, or supply chain optimisation** 
+ environments.
+* Knowledge of
+ **real\\-time AI applications** 
+ ,
+ **complex decision\\-making systems** 
+ , and
+ **reinforcement learning frameworks** 
+ .
+* Demonstrated ability to drive innovation, R\\&D initiatives, and strategic AI/ML projects that have transformed business operations.
+* Experience in setting
+ **AI/ML strategy** 
+ and aligning it with organisational goals and business value
+
+
+
+  
+
+
+
+
+
+**Educational Qualifications:** 
+
+
+
+
+ B.Tech/M.Tech/M.S./Ph.D. in a relevant stream of Computer Science from an premier educational institution","Food and Beverage Services, Software Development, and Internet Marketplace Platforms","https://in.linkedin.com/company/licious","https://media.licdn.com/dms/image/v2/C4D0BAQHvYQ7PDaIOsQ/company-logo_100_100/company-logo_100_100/0/1654143406363/licious_logo?e=2147483647&v=beta&t=7fHdSbymDzxRop0M1NKcArGvtW_JlNx6Tc1Wd5gK4Eg","","","","",""
+"li-4145081177","linkedin","https://www.linkedin.com/jobs/view/4145081177","https://careers.microsoft.com/us/en/job/1806305/Data-Scientist?jobsource=linkedin&utm_source=Job%20Board&utm_campaign=linkedin-feed&urlHash=vlfa","Data Scientist","Microsoft","Bengaluru, Karnataka, India","2025-02-28","fulltime","","","","","","","not applicable","Engineering and Information Technology","","","**Overview**
+ The
+ **Business \\& Industry Copilots group** 
+ is a rapidly growing organization that is responsible for the Microsoft Dynamics 365 suite of products, Power Apps, Power Automate, Dataverse, AI Builder, Microsoft Industry Solution and more. Microsoft is considered one of the leaders in Software as a Service in the world of business applications and this organization is at the heart of how business applications are designed and delivered.
    
 
   
 
-**What Role You Will Play In Our Team**
- We are seeking candidates to tackle challenging commercial problems in pricing, marketing, sales, transportation, storage, and distribution of hydrocarbons. The ideal candidate will understand both the commercial/economic and technical aspects of the oil and gas sector and will be able to formulate and solve oil and gas industry problems using data science, econometrics, statistical analysis, and programming skills.
+ This is an exciting time to join our group
+ **Customer Zero Engineering** 
+ and work on something highly strategic to Microsoft. The goal of Customer Zero Engineering is to build the next generation of our applications running on Dynamics 365, AI, Copilot, and several other Microsoft cloud services to deliver high value, complete, and Copilot\\-enabled application scenarios across all devices and form factors. We innovate quickly and collaborate closely with our partners and customers in an agile, high\\-energy environment. Leveraging the scalability and value from Azure \\& Power Platform, we ensure our solutions are robust and efficient. If the opportunity to collaborate with a diverse engineering team, on enabling end\\-to\\-end business scenarios using cutting\\-edge technologies and to solve challenging problems for large scale 24x7 business SaaS applications excite you, please come and talk to us!
    
 
   
 
-**What You Will Do**
-* Collaborate with data scientists, data analysts, software developers, business representatives from chemical, lubricants, and fuels value chains, and demand planners globally to develop, deliver, and apply computational tools, models, or software to support our business.
-* Utilize machine learning, time series analysis, pattern recognition, statistical analysis, design of experiments, and data visualizations, along with domain knowledge, to solve commercial and logistics problems and provide business insights.
-* Design, build, and execute studies using proprietary or commercial tools to provide insights, including calibrating models to pricing/sales/demand data and providing optimized recommendations.
-
-
-**About You**
-**Skills and Qualifications**
-* Bachelor’s, Master’s, or PhD degree from a recognized university in Data Science, Computer Science, IT, Applied Mathematics, Statistics, Engineering, or related disciplines with a minimum GPA of 7\\.0 (out of 10\\.0\\).
-* At least 2 years of experience in developing, applying, and validating data\\-driven tools to model complex systems.
-* In\\-depth knowledge and practical experience in statistical analysis techniques (e.g., classification, regression, time\\-series, Bayesian techniques) and machine learning techniques (e.g., decision trees, ensemble methods, deep learning, neural networks, validation methods).
-* Practical experience in the full machine learning lifecycle, from problem formulation and data acquisition to model building and deployment at enterprise scale.
-* Specialization in at least one sub\\-domain, such as time series forecasting, econometrics, statistics, or NLP.
-* Proficiency in Python and R, including packages such as NumPy, pandas, scikit\\-learn, Keras, TensorFlow, and PyTorch.
-* Experience with software engineering practices, agile methodologies, DevOps, and version control.
-* Experience working with Azure Databricks or other data science frameworks.
-* Familiarity with software testing and development practices (Agile).
-* Experience with data visualization tools (e.g., Tableau, Power BI).
-
-
-**Preferred Qualifications / Experience**
-* Knowledge of supply chain operations, including demand planning, inventory optimization, vehicle routing, and network optimization.
-* Prior experience in commercial software development or working in commercial software teams.
-* Ability to identify and scope data science opportunities based on business needs.
-* Strong communication and interpersonal skills, with the ability to work collaboratively in a global team environment.
-* Excellent problem\\-solving skills and attention to detail.
-
-
-**Your Benefits**
- An ExxonMobil career is one designed to last. Our commitment to you runs deep our employees grow personally and professionally, with benefits built on our core categories of health, security, finance and life. We offer you:
+ Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
    
 
   
 
-* Competitive compensation
-* Medical plans, maternity leave and benefits, life, accidental death and dismemberment benefits
-* Retirement benefits
-* Global networking \\& cross\\-functional opportunities
-* Annual vacations \\& holidays
-* Day care assistance program
-* Training and development program
-* Tuition assistance program
-* Workplace flexibility policy
-* Relocation program
-* Transportation facility
-
-
- Please note benefits may change from time to time without notice, subject to applicable laws. The benefits programs are based on the Company’s eligibility guidelines.
-   
-
-  
-
-**Stay connected with us**
-* Learn more about ExxonMobil in India, visit ExxonMobil India and Energy Factor India.
-* Follow us on LinkedIn and ExxonMobil (@exxonmobil)
- * Instagram photos and videos
-* Like us on Facebook
-* Subscribe our channel at YouTube
-**EEO Statement**
- ExxonMobil is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin or disability status.
-   
-
-  
-
-**Business solicitation and recruiting scams**
- ExxonMobil does not use recruiting or placement agencies that charge candidates an advance fee of any kind (e.g., placement fees, immigration processing fees, etc.). Follow the LINK to understand more about recruitment scams in the name of ExxonMobil.
-   
-
-  
-
- Nothing herein is intended to override the corporate separateness of local entities. Working relationships discussed herein do not necessarily represent a reporting connection, but may reflect a functional guidance, stewardship, or service relationship.
-   
-
-  
-
- Exxon Mobil Corporation has numerous affiliates, many with names that include ExxonMobil, Exxon, Esso and Mobil. For convenience and simplicity, those terms and terms like corporation, company, our, we and its are sometimes used as abbreviated references to specific affiliates or affiliate groups. Abbreviated references describing global or regional operational organizations and global or regional business lines are also sometimes used for convenience and simplicity. Similarly, ExxonMobil has business relationships with thousands of customers, suppliers, governments, and others. For convenience and simplicity, words like venture, joint venture, partnership, co\\-venturer, and partner are used to indicate business relationships involving common activities and interests, and those words may not indicate precise legal relationships.","Oil and Gas","https://www.linkedin.com/company/exxonmobil","https://media.licdn.com/dms/image/v2/C4D0BAQE_IRWZ2qVHpw/company-logo_100_100/company-logo_100_100/0/1631303598129?e=2147483647&v=beta&t=20NshSkLIzCoKGk7fkNxWckGM7OnZQ5_ddDzZ5Pcwqk","","","","",""
-"li-4102465940","linkedin","https://www.linkedin.com/jobs/view/4102465940","https://careers.mcafee.com/global/en/job/MCAFGLOBALJR0031560ENGLOBALEXTERNAL/ML-Platform-Engineer-Remote?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn&urlHash=-fEN","ML Platform Engineer - Remote","McAfee","Bengaluru, Karnataka, India","2025-02-26","fulltime","","","","","","","not applicable","Engineering and Information Technology","","","**Role Overview**
- As a Cloud and Platform engineer within the Office of the CTO working on the AI Automation team at McAfee, you will play a vital role in providing our customers with cutting edge protection and peace of mind.
-   
-
-  
-
- You will leverage McAfee’s rich data ecosystems to create pipelines that will continuously retrain, validate and approve ML models to deliver incremental value in pursuit of providing the best protection in cybersecurity. You’ll have the opportunity to work with big data to identify potential improvements in our threat protection capabilities. You’ll have the ability to improve our ML and AI automation platform to automate the end\\-to\\-end model development and deployment lifecycle. You’ll work closely with Data Scientists to set up model automation workflows to enable high frequency retraining and deployment.
-   
-
-  
-
- This is a remote position in India. We will only consider candidates currently in India and are not offering relocation assistance at this time.
-   
-
-  
-
-**About The Role**
-* Develop and maintain scalable pipelines for ML model retraining, containerization, validation and approval.
-* Develop and maintain model training datasets.
-* Collaborate with Data Scientists to design, validate, deploy, monitor and maintain production scale ML models.
-* Build and maintain solutions on Databricks, AWS, EKS and Kubeflow.
-* Scale up existing pipelines to work with larger datasets and optimize resource usage.
-* Build and maintain infrastructure as code (IaC) in the cloud, that is resilient and can scale when needed.
-* Work with stakeholders across the organization to identify opportunities utilizing big data from many different sources.
-
-
-**About You**
-* 6\\-8 years of experience as a software engineer, with expertise in building ML and data pipelines (cybersecurity experience is a plus).
-* Bachelor’s degree in IT, Software Engineering, or Computer Science is preferred.
-* Proficient in Python, Linux shell scripting, and tools like PySpark, Pandas, and NumPy.
-* Hands\\-on experience with Databricks, big data management, and core AWS services (EC2, S3, CloudWatch, Lambda, etc.).
-* Knowledge of containerization (Kubernetes/EKS) and infrastructure\\-as\\-code tools (Terraform or CloudFormation).
-* Skilled in debugging computational bottlenecks, troubleshooting, software testing, and optimizing data pipelines.
-* Self\\-motivated, strong problem\\-solving skills, and comfortable collaborating remotely with international teams.
-
-
-**Company Overview**
- McAfee is a leader in personal security for consumers. Focused on protecting people, not just devices, McAfee consumer solutions adapt to users’ needs in an always online world, empowering them to live securely through integrated, intuitive solutions that protects their families and communities with the right security at the right moment.
-   
-
-  
-
-**Company Benefits And Perks**
- We work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We offer a variety of social programs, flexible work hours and family\\-friendly benefits to all of our employees.
-   
-
-  
-
-* Bonus Program
-* Pension and Retirement Plans
-* Medical, Dental and Vision Coverage
-* Paid Time Off
-* Paid Parental Leave
-* Support for Community Involvement
-
-
- We're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.","Computer and Network Security","https://www.linkedin.com/company/mcafee","https://media.licdn.com/dms/image/v2/D4E0BAQF8epKyYz-LlQ/company-logo_100_100/company-logo_100_100/0/1719941820047/mcafee_logo?e=2147483647&v=beta&t=Sb0C_tEZLIui7CdXXS0WI_g39zq2__jobRy6uzMpEUI","","","","",""
-"li-4164793176","linkedin","https://www.linkedin.com/jobs/view/4164793176","","Sr Machine Learning Engineer","Target","Bengaluru, Karnataka, India","2025-02-25","fulltime","","","","","","","associate","Engineering","","","**About us:** 
-
-
-
-
-  
-
-
-
-
-
- As a Fortune 50 company with more than 400,000 team members worldwide, Target is an iconic brand and one of America's leading retailers. Joining Target means promoting a culture of mutual care and respect and striving to make the most meaningful and positive impact. Becoming a Target team member means joining a community that values diverse voices and lifts each other up. Here, we believe your unique perspective is important, and you'll build relationships by being authentic and respectful.
- 
-
-
-
-  
-
-
-
-
-
-**Overview about Target In India** 
-
-
-
-
-  
-
-
-
-
-
- At Target, we have a timeless purpose and a proven strategy. And that hasn’t happened by accident. Some of the best minds from diverse backgrounds come together at Target to redefine retail in an inclusive learning environment that values people and delivers world\\-class outcomes. That winning formula is especially apparent in Bengaluru, where Target in India operates as a fully integrated part of Target’s global team and has more than 4,000 team members supporting the company’s global strategy and operations.
- 
-
-
-
-  
-
-
-
-
-
-**Pyramid overview** 
-
-
-
-
-  
-
-
-
-
-
- A role with Target Data Science \\& Engineering means the chance to help develop and manage state of the art predictive algorithms that use data at scale to automate and optimize decisions at scale. Whether you join our Statistics, Optimization or Machine Learning teams, you’ll be challenged to harness Target’s impressive data breadth to build the algorithms that power solutions our partners in in Marketing, Supply Chain Optimization, Network Security and Personalization rely on
- 
-
-
-
-  
-
-
-
-
-
-**About The role** 
-
-
-
-
-  
-
-
-
-
-
- As Senior Engineer, you will join a Target Tech team responsible for Promotion forecasting and optimization. You will play crucial role in designing, implementing, and optimizing the machine learning solutions in production. Additionally, you’ll apply best practices in software design, participate in code reviews, create a maintainable well\\-tested codebase with relevant documentation. At an organizational level, you will conduct training sessions, present work to technical and non\\-technical peers/leaders, build knowledge on business priorities/strategic goals and leverage this knowledge while building requirements and solutions for each business need. Core responsibilities of this job are articulated within this job description. Job duties may change at any time due to business needs.
- 
-
-
-
-  
-
-
-
-
-
-**About you:** 
-
-
-
-
-  
-
-
-
-
-* 4\\-year degree in Quantitative disciplines (Science, Technology, Engineering, Mathematics) or equivalent experience
-* MS in Computer Science, Applied Mathematics, Statistics, Physics or equivalent work or industry experience
-* 4 plus years of experience in end\\-to\\-end application development, data exploration, data pipelining, API design, optimization of model latency
-* Expertise in MLOps frameworks and hands on experience in MLOps tools preferably Google Vertex ai
-* 2 plus years of experience deploying Machine Learning algorithms into production environments \\- including model and system monitoring and troubleshooting
-* Highly proficient programming in Scala and/ or Python/Pyspark
-* Good understanding of Big Data tech \\- specifically Hadoop, Kafka, Spark
-* Experience in handling streaming data and real\\-time forecasting solutions deployment
-* Solid understanding of data analysis techniques, including data cleaning, preprocessing, and visualization
-* Demonstrated ability collaborating with data scientists, software engineers and product managers to understand the business requirements and translate to machine learning solutions at scale
-* Excellent communication skills with the ability to clearly tell data driven stories through appropriate visualizations, graphs, and narratives Self\\-driven and results oriented \\- able to meet tight timelines
-* Motivated, team player with ability to collaborate effectively across global team
-* Understanding of retail industry and pricing concepts is added advantage
-
-
-
-  
-
-
-
-
-
-**Bonus Points:** 
-
-
-
-
-  
-
-
-
-
-* Extensive experience with Deep Learning frameworks TensorFlow, Pytorch or Keras
-* PhD in Computer Science, Applied Mathematics, Statistics, Physics or related quantitative field
-* Extensive experience developing highly distributed ML systems at scale
-* Familiarity with Vertex AI and Cloud ML ecosystem will be desirable
-* Experience in mentoring the junior team members ML skillset and career development
-
-
-
-  
-
-
-
-
-
-**Useful Links\\-** 
-
-
-
-
-  
-
-
-
-
-
-**Life at Target\\- https://india.target.com/** 
-
-
-
-
-**Benefits\\- https://india.target.com/life\\-at\\-target/workplace/benefits**","Technology, Information and Media","https://www.linkedin.com/company/target","https://media.licdn.com/dms/image/v2/C4E0BAQGUjozudTh0yg/company-logo_100_100/company-logo_100_100/0/1631307593526?e=2147483647&v=beta&t=HimTJZJ3k5TBZ_V51SHC25oSIT_mmLNQvAoldmJL9wI","","","","",""
-"li-4166756568","linkedin","https://www.linkedin.com/jobs/view/4166756568","https://www.expertia.ai/netsach-co-in/job/hiring-machine-learning-engineer-66a7ad7831038b43cad1952d?utm_source=linkedin-feed&easy_apply=true&date-refresh=02/27/2025&urlHash=sdK8","Machine Learning Engineer","NETSACH GLOBAL","Bengaluru, Karnataka, India","","fulltime","","","","","","","mid-senior level","Information Technology","","emily@netsach.co.in, emily@netsach.co.in","**Skills:**
- Python, Machine Learning Algorithms, Deep Learning, Data Preprocessing, Model Evaluation, Natural Language Processing, Computer Vision TensoFlow, big data technologies,
-   
-
-  
-
- Greeting from Netsach \\- A Cyber Security Company.
-   
-
-  
-
-**Job Summary:** 
- We are seeking a talented and innovative Machine Learning Engineer to join our team. The ideal candidate will be responsible for designing, developing, and deploying machine learning models and algorithms to solve complex problems and drive business value. This role requires a strong foundation in machine learning, data science, and software engineering, along with the ability to collaborate with cross\\-functional teams.
-   
-
-  
-
-**Job Title:** 
- Machine Learning Engineer
-   
-
-  
-
-**Location:** 
- Bangalore (Onsite)
-   
-
-  
-
-**Exp:** 
- 2 \\- 8yrs
-   
-
-  
-
-**Job Type:** 
- Contract 1\\+yrs Extendable
-   
-
-  
-
- Interested candidates please share your updated resume at emily@netsach.co.in
-   
-
-  
-
-**Key Responsibilities**
-* Design and implement machine learning models and algorithms.
-* Collaborate with data scientists, software engineers, and other stakeholders to understand business requirements and translate them into technical solutions.
-* Preprocess and analyze large datasets to extract meaningful insights.
-* Train, test, and validate machine learning models.
-* Deploy machine learning models into production environments.
-* Monitor and maintain the performance of deployed models.
-* Continuously improve models by incorporating feedback and new data.
-* Stay up\\-to\\-date with the latest advancements in machine learning and artificial intelligence.
-* Develop and maintain documentation for machine learning processes and models.
-* Participate in code reviews and ensure adherence to best practices and coding standards.
-* Provide technical support and guidance to junior team members.
-
-
-**Qualifications**
-* Bachelors or Masters degree in Computer Science, Data Science, Mathematics, or a related field.
-* 3\\+ years of experience in machine learning, data science, or a related role.
-* Strong proficiency in programming languages such as Python, R, or Java.
-* Experience with machine learning frameworks and libraries such as TensorFlow, PyTorch, scikit\\-learn, etc.
-* Solid understanding of data preprocessing, feature engineering, and model evaluation techniques.
-* Experience with big data technologies and distributed computing frameworks (e.g., Hadoop, Spark) is a plus.
-* Strong problem\\-solving and analytical skills.
-* Excellent communication and collaboration abilities.
-* Familiarity with cloud platforms (AWS, Azure, Google Cloud) is desirable.
-* Experience with version control systems, preferably Git.
-* Knowledge of software engineering best practices, including code reviews, testing, and continuous integration.
-
-
- Thank You
-   
-
-  
-
- Emily Jha
-   
-
-  
-
- emily@netsach.co.in
-   
-
-  
-
- Netsach \\- A Cyber Security Company
-   
-
-  
-
- www.netsach.co.in","IT Services and IT Consulting","https://in.linkedin.com/company/netsach-global","https://media.licdn.com/dms/image/v2/C560BAQFmFhT4xMpYxg/company-logo_100_100/company-logo_100_100/0/1631316502757?e=2147483647&v=beta&t=iR4o5qWoZLcy6FB-q-m6ePtcej4uYr0MpM9nNGycRSI","","","","",""
-"li-4168688621","linkedin","https://www.linkedin.com/jobs/view/4168688621","https://www.hirist.tech/j/date-scientist-artificial-intelligencemachine-learning-1440541.html?utm_source=LinkedIn&utm_medium=referral&utm_campaign=linkedin_apply&ref=linkedin&urlHash=MiFF","Date Scientist - Artificial Intelligence/Machine Learning","Starmark Software","Bengaluru, Karnataka, India","","fulltime","","","","","","","mid-senior level","Information Technology","","","**Job Description**
- Role : AI Engineer / Data Scientist
-   
-
-  
-
-**Role Overview**
- We are seeking an accomplished and visionary Data Scientist with minimum 5 Years of experience in Data Science and Machine learning, preferable experience around NLP, Generative AI, LLMs, MLOps, Optimization techniques and AI solution Architecture to lead our AI team and drive the strategic direction of AI initiatives. In this role you will play a key role in the development and implementation of AI solutions, leveraging your technical expertise and leadership skills.
-   
-
-  
-
- The ideal candidate should have a proven track record in AI leadership, a deep understanding of AI technologies, and experience in designing and implementing cutting\\-edge AI models and systems.
-   
-
-  
-
- Additionally, expertise in data engineering, DevOps, and MLOps practices will be valuable in this role. Minimum 5 Years of experience in Data Science and Machine learning. Excellent leadership skills with at least 2\\-3 years of people management OR technical architecture experience.
+**Job Description**
+ We are looking for a highly motivated and skilled Machine Learning Scientist II / MLOps Engineer II to join our team. The ideal candidate will have a strong background in machine learning, MLOps/AIOPs, and software engineering practices, and will be responsible for the development, deployment, and operationalization of machine learning models at scale. This role will work closely with data scientists, software engineers, and product teams to ensure the models are secure, reliable, and performant.
    
 
   
 
 **Responsibilities**
- Your technical responsibilities :
+**Key Responsibilities:**
+* Model Development \\& Deployment:
++ Collaborate with data scientists and engineers to design, build, and deploy machine learning models at scale.
++ Develop and maintain MLOps/AIOPs pipelines to automate the end\\-to\\-end lifecycle of machine learning models (from development to deployment, monitoring, and retraining).
++ Work on the integration of models into production systems while ensuring scalability, security, and performance.
+
+* Model Operationalization:
++ Implement CI/CD pipelines for ML models, ensuring smooth deployments with minimal downtime.
++ Design and deploy robust monitoring and alerting systems for ML models in production to detect issues such as model drift or data skew.
++ Implement model governance, version control, and logging systems to ensure compliance with internal standards and external regulations.
+
+* Optimization \\& Scalability:
++ Optimize machine learning models and pipelines for performance and cost efficiency (compute, storage).
++ Manage infrastructure for ML workloads using cloud\\-native tools (Azure, Kubernetes, Docker) or other container orchestration platforms.
+
+* Collaboration \\& Communication:
++ Partner with cross\\-functional teams, including Data Engineering, Product Management, and other Engineering teams to build cohesive solutions.
++ Provide technical guidance to junior engineers and drive best practices for MLOps/AIOPS within the team.
+
+* Security \\& Compliance:
++ Work on securing models, data pipelines, and infrastructure in compliance with Microsoft's security standards.
++ Ensure that the entire ML lifecycle adheres to privacy and compliance requirements (e.g., GDPR, CCPA).
+
+
+**Qualifications**
+**Required Skills:**
+* 4\\+ years of experience in machine learning, MLOps/AIOPs, or software engineering roles.
+* Proven track record of deploying large\\-scale machine learning systems in production.
+* Strong experience with cloud platforms (Azure preferred) and infrastructure as code (e.g., Terraform, ARM templates).
+* Advanced knowledge of MLOps/AIOPs practices, including pipeline automation, monitoring, and orchestration.
+* Experience optimizing ML models for performance and scalability in production environments.
+* Demonstrated ability to lead initiatives, mentor junior team members, and influence cross\\-functional teams.
+* Solid understanding of security and compliance frameworks relevant to ML operations.
+* Hands\\-on experience in building and deploying ML models in a cloud environment (preferably Azure).
+* Proficiency in Python and experience with ML frameworks (e.g., TensorFlow, PyTorch).
+* Experience with containerization (Docker, Kubernetes) and microservices architecture.
+* Strong knowledge of CI/CD tools and workflows (Azure DevOps, GitHub Actions).
+* Basic understanding of model monitoring, retraining, and model governance practices.
+
+
+**Desired Skills**
+* Experience with Azure Machine Learning, Azure Fabric, Synapse, or similar platforms.
+* Strong understanding of data versioning, governance, and reproducibility in ML workflows.
+* Knowledge of responsible AI practices, including fairness, transparency, and bias mitigation.
+* Strong communication skills and the ability to work in a fast\\-paced, collaborative environment.
+
+
+ \\#BICJobs
    
 
   
 
-* Provide strategic direction and technical leadership for AI initiatives, guiding the team in designing and implementing state\\-of\\-the\\-art AI solutions.
-* Lead the design and architecture of complex AI systems, ensuring scalability, reliability, and performance.
-* Drive the development and implementation of AI models and systems, leveraging techniques such as Language Models (LLMs) and generative AI.
-* Collaborate with stakeholders to identify business opportunities, define AI project goals, and prioritize initiatives based on strategic objectives.
-* Stay updated with the latest advancements in generative AI techniques, such as LLMs, and evaluate their potential applications in solving enterprise challenges.
-* Utilize generative AI techniques, such as LLMs, to develop innovative solutions for enterprise industry use cases.
-* Implement and optimize end\\-to\\-end pipelines for generative AI projects, ensuring seamless data processing and model deployment.
-* Implement similarity search algorithms and techniques to enable efficient and accurate retrieval of relevant information from generative AI outputs.
-* Collaborate with domain experts, stakeholders, and clients to understand specific business requirements and tailor generative AI solutions accordingly.
-* Conduct research and evaluation of advanced AI techniques, including transfer learning, domain adaptation, and model compression, to enhance performance and efficiency.
-* Establish evaluation metrics and methodologies to assess the quality, coherence, and relevance of generative AI outputs for enterprise industry use cases.
-* Ensure compliance with data privacy, security, and ethical considerations in AI applications.
-* Leverage data engineering skills to curate, clean, and preprocess large\\-scale datasets for generative AI applications.
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=2147483647&v=beta&t=lMkCSsceJNmUG1r0VRg3Whye1sVi2KtYvt-MWyfoNbY","","","","",""
+"li-4105513160","linkedin","https://www.linkedin.com/jobs/view/4105513160","","Data Scientist","Tesco Bengaluru","Bengaluru, Karnataka, India","2025-02-28","fulltime","","","","","","","not applicable","Information Technology","","_india@tesco.com","****Company Description****
+ Tesco Bengaluru: We are a multi\\-disciplinary team creating a sustainable competitive advantage for Tesco by standardising processes, delivering cost savings, enabling agility, providing cutting\\-edge technological solutions and empowering our colleagues to do ever more for our customers. With cross\\-functional expertise in Global Business Services and Retail Technology \\& Engineering, a wide network of teams and strong governance we reduce complexity thereby offering high quality services for our customers. Tesco Bengaluru, established in 2004 to enable standardisation and build centralised capabilities and competencies, makes the experience better for our millions of customers worldwide and simpler for over 4,40,000 colleagues.
+   
+
+  
+
+ Tesco Technology consists of people from a number of different backgrounds, but having a common purpose to serve our shoppers a little better every day with our retail technological solutions. We shared a common interest in harnessing innovations in technology to enhance their shopping experience at Tesco stores. Whether making products, software or systems, our teams focuses on various aspects from taking strategic ownership of the architecture to delivering technological solutions such as design, testing, deployment, infrastructure, operation and security of the systems to ensure agile, smooth and safe operations. These help us to deliver the maximum business impact. Teams refine their internal processes to best fit their own needs, working to build core capabilities in application and services. We collaborate globally across teams to build end\\-to\\-end customer\\-facing solutions, as well as to share knowledge, experience, tools and techniques.
+   
+
+  
+
+ At Tesco, inclusion means that Everyone?s Welcome. Everyone is treated fairly and with respect; by valuing individuality and uniqueness we create a sense of belonging.
+   
+
+  
+
+ Diversity and inclusion have always been at the heart of Tesco. It is embedded in our values: we treat people how they want to be treated. We always want our colleagues to feel they can be themselves at work and we are committed to helping them be at their best.
+   
+
+  
+
+ Across the Tesco group we are building an inclusive workplace, a place to actively celebrate the cultures, personalities and preferences of our colleagues ? who in turn help to build the success of our business and reflect the diversity of the communities we serve.
+   
+
+  
+
+****Job Description****
+ Data Scientist
+   
+
+  
+
+**Job Description**
+  
+
+  
+
+ At Tesco; our Data Science team focuses on modelling complex business problems and  deploying  data products at scale. Our work spans across multiple areas including physical stores; online; supply chain; marketing and Clubcard; where we encourage rotation amongst our Data Scientists so they can gain expertise in different subjects.
+   
+
+  
+
+ We work on several domains and problem types: online; pricing; security; fulfilment; distribution; property; IoT and computer vision are just some. Our team members spend 10% of their week on learning and personal development. Multiple academic collaborations enrich the team expertise; knowledge sharing events are regular. Furthermore; we have a great work\\-life balance; team days and relaxed but engaging culture.
+   
+
+  
+
+**Role Description**
+  
+
+  
+
+ This is a hands\\-on position where you will need to leverage your analytical mindset to find solutions to complex problems.  As a Data Scientist; you will need to  understand difficult business problems and prototype solutions  with minimal support. Apply; modify and design algorithms and mathematical models to solve business problems  on top of big data architectures (Hadoop; Spark) is a core component of the role. Our data scientists will need to be able to validate; document and present the modeling process and performances; as well as communicate complex solutions in a clear; understandable way to non\\-experts. Data Scientists are also responsible for promoting data science across Tesco  and promote Tesco across the external Data Science community.
+   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+**Candidate Description**
+  
+
+  
+
+ We are looking for ambitious individuals with a mix of statistics; programming; and machine learning skills.  The role requires that you have an extensive background in machine learning and data mining. A track record in modifying and designing advanced algorithms and applying them to large data sets is essential.
+   
+
+  
+
+ An ideal candidate will have a scientific mentality with the ability to ask the right questions; as well as answer them. A strong numerical higher degree in a mathematical; scientific; engineering or computer science discipline is preferable; as well as a solid understanding of mathematics and statistical principles.
+   
+
+  
+
+ Experience in one or more of the following fields is required: predictive modelling; operational research; deep learning; and time series modelling. Finally; strong programming experience (Python is preferred).
+   
+
+  
+
+  
+
+  
+
+****Qualifications****
+ Data Science \\- Machine Learning
+   
+
+  
+
+****Additional Information****
+ Important Notice:
+   
+
+  
+
+ On behalf of Tesco Bengaluru, we must caution all job seekers and educational institutions that Tesco Bengaluru does not authorise any third parties to release employment offers or conduct recruitment drives via a third party. Hence, beware of inauthentic and fraudulent job offers or recruitment drives from any individuals or websites purporting to represent Tesco. Further, Tesco Bengaluru does not charge any fee or other emoluments for any reason (including without limitation, visa fees) or seek compensation from educational institutions to participate in recruitment events.
+   
+
+  
+
+ Accordingly, please check the authenticity of any such offers before acting on them and where acted upon, you do so at your own risk. Tesco Bengaluru shall neither be responsible for honouring or making good the promises made by fraudulent third parties, nor for any monetary or any other loss incurred by the aggrieved individual or educational institution.
+   
+
+  
+
+ In the event that you come across any fraudulent activities in the name of Tesco Bengaluru, please feel free report the incident at recruitment\\_compliance\\_india@tesco.com","Retail","https://in.linkedin.com/company/tesco-bengaluru","https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4","","","","",""
+"li-4169336809","linkedin","https://www.linkedin.com/jobs/view/4169336809","https://paypal.eightfold.ai/careers?domain=paypal.com&sort_by=relevance&query=R0123069&Codes=W-LINKEDIN&urlHash=gxDS","Data Scientist 1","PayPal","Bengaluru, Karnataka, India","2025-02-28","fulltime","","","","","","","not applicable","Engineering and Information Technology","","paypalglobaltalentacquisition@paypal.com","**The Company**
+ PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.
+   
+
+  
+
+ We operate a global, two\\-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third\\-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.
+   
+
+  
+
+ We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end\\-to\\-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross\\-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross\\-border trade.
+   
+
+  
+
+ Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.
+   
+
+  
+
+**Job Description Summary:**
+ What you need to know about the role Highly motivated team player with strong analytical acumen and critical thinking. You will be working with stakeholders across product and operations teams for executing portfolio initiatives that have direct impact on PayPal’s bottom\\-line and customer experience. Meet our team Global Resolutions, and Protections (GRIT) is an integral and critical part of PayPal’s core business model and value proposition. It plays an indispensable role in mitigating and managing different kinds of risks associated with a transaction or customer; increasing PayPal margin and striking a fine balance between managing costs while optimizing customer experience. Analytics is core to GRIT at PayPal and we are a highly data driven organization. We leverage data driven insights extensively in these areas.
+   
+
+  
+
+**Job Description:**
+**Your way to impact**
+ PayPal is a data \\& AI company and at our core we leverage data driven insights to drive product decisions.
+   
+
+  
+
+ You will identify and work on problems that have high impact on key business metrics. You will analyse KPIs and deep dive on trends and propose solutions to fix them with an associated business impact.
+   
+
+  
+
+**Your day to day**
+* You will maintain the and manage PayPal’s Chargebacks resolution programs delivering value to PayPal’s buyers and sellers while optimizing the margin through loss and OpEx reduction.
+* You will play a critical role in developing strategies and identifying opportunities needed to deliver the ideal resolution experience to our customers in the most cost effective, sustainable model.
+* You will work closely with key stakeholders in the Business Units for specific solutions as well as operational and product teams for implementation and execution of RnP programs and initiatives.
+* You will extensively use data driven insights combined with business knowledge to help drive loss savings, optimization, and customer experience improvement ideas.
+* You will have the opportunity and challenge to constantly improve and adapt solutions to the fast\\-changing face of online commerce, analyze information and exercise solid judgement to bring it all together to make a tangible difference to PayPal’s business \\- While the end objectives will be clear, the ways to achieve it will challenge you to constantly innovate and adapt.
+* If your skill sets match the role, you can be assured of a fulfilling career with overwhelming opportunities to learn, grow and succeed in one of the fastest growing industries in the world.
 
 
-**Good To Have Skills**
-* Apply trusted AI practices to ensure fairness, transparency, and accountability in AI models and systems.
-* Experience on Optimization tools and techniques(MIP etc).
-* Drive DevOps and MLOps practices, including continuous integration, deployment, and monitoring of AI models.
-* Implement CI/CD pipelines and automate model deployment and scaling processes.
-* Utilize tools such as Docker, Kubernetes, and Git for building and managing AI pipelines.
-* Implement monitoring and logging tools to ensure the performance and reliability of deployed AI models.
-* Collaborate with software engineering and operations teams to ensure seamless integration and deployment of AI models.
+**What Do You Need To Bring\\-**
+* Strong desire and ability to work in a dynamic, global, innovative, and fast\\-paced environment.
+* 5 \\+ years of related experience in Analytics in a fast moving and matrixed environment and knowledge of and experience in data and visualization tools such as SAS, SQL, Teradata, Python, QlikView, Tableau
+* Command of Statistics and Optimization concepts with a focus on utilizing data insights to solve business problems with comfort and interest in the manipulation and analysis of large datasets
+* Identify problems and define key business requirements
+* Solid communication and presentation skills with an ability to story\\-tell and translate analysis and insights into actionable recommendations
+* Outstanding problem\\-solving skills, with strong ability to drive towards action and impact
+* Innate curiosity to learn and develop
+* Bachelors, MBA/ Masters of Finance, Mathematics, Statistics, Computer Science or Economics preferred or equivalent experience in an analytical role
 
 
-**Your Client Responsibilities**
-* Work for managing the successful design, execution, and measurement of data initiatives across customer\\-facing engagements
-* Communicate with internal stakeholders to make recommendations based on data
-* Sort out business problems to translate into analytical questions to simplify and accelerate the solution development.
-* Balancing excellent business communication skills with a deep analytical understanding is needed
-* Run Scrum calls for team.
-* Manage client delivery.
-* Applying data Science, ML algorithms, using standard statistical tools and techniques for solving client business problems.
-* Regular status reporting to Management
-* Willing to be flexible to work on various tools and technologies based on demand
+ For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in\\-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.
+   
+
+  
+
+**Our Benefits:**
+ At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.
+   
+
+  
+
+ We have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com
+   
+
+  
+
+**Who We Are:**
+ To learn more about our culture and community visit https://about.pypl.com/who\\-we\\-are/default.aspx
+   
+
+  
+
+**Commitment to Diversity and Inclusion**
+ PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.
+   
+
+  
+
+**Belonging at PayPal:**
+ Our employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal.
+   
+
+  
+
+ Any general requests for consideration of your skills, please Join our Talent Community.
+   
+
+  
+
+ We know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply.
+   
+
+  
+
+ REQ ID R0123069","Software Development, Financial Services, and Technology, Information and Internet","https://www.linkedin.com/company/paypal","https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc","","","","",""
+"li-4171097909","linkedin","https://www.linkedin.com/jobs/view/4171097909","https://jobs.standardchartered.com/job/Bangalore-Analyst%2C-Data-Science%28India%2C-Malaysia%2C-Philippines%29/813260602/?feedId=363857&amp;utm_source=CareerSite&urlHash=WwRE","Analyst, Data Science(India, Malaysia, Philippines)","Standard Chartered Life and Careers","Bengaluru East, Karnataka, India","2025-02-28","fulltime","","","","","","","entry level","Information Technology","","","**Job Summary**
+ This role could be based in India Malaysia and Philippines. When you start the application process you will be presented with a drop down menu showing all countries, Please ensure that you select a country
+   
+
+  
+
+ where the role is based.
+   
+
+  
+
+ As a Responsible AI Data Scientist for Strategy and Talent’s Human\\-Centered AI and Innovation Department at Standard Chartered, you will work at the forefront of empowering responsible AI adoption within Strategy and Talent (S\\&T), and thereby help shape the future of employee/candidate\\-facing AI solutions that S\\&T enable and influence for the entire organization. This role demands a strong understanding of machine learning techniques, and an avid interest in AI ethics, especially addressing potential biases in data and algorithms, explainability, AI literacy, and strategies to promote transparency and accountability.
+   
+
+  
+
+ By applying your technical skills, responsible AI practices, human\\-centric mindsets, and start\\-up intuition to AI and innovation solutions in both early\\-stage experimentations and strategic initiatives, you will help define the strategy and experiences we build for our clients, partners and colleagues globally.
+   
+
+  
+
+ You will collaborate on a wide range of product and business problems with a diverse set of cross\\-functional stakeholders such as but not limited to Human Resources, Corporate Affairs and Brand Marketing, Corporate Real Estate Solutions, Supply Chain Management, Chief Data Office – Responsible AI and Data Ethics, Technology, Businesses, Conduct and Compliance, and Legal to ensure responsible adoption of AI solution within S\\&T.
+   
+
+  
+
+* Responsible AI advocacy: You will act as the beacon of change and advocacy on human\\-centered AI, responsible AI, data and AI ethics, cross all cross\\-functional and S\\&T business engagements, to cross\\-pollinate ideas and values.
+* AI\\-innovation measurements: You will guide teams to understand AI methods, data, and insights. You will design and advice logical desirability signals, qualitative, and quantitative metrics to evaluate the return of investment on AI and innovation solutions.
+* Communication and influence: You will translate, convince, and influence S\\&T business and cross\\-functional stakeholders using clear insights, use cases, and recommendations in approachable and simple terms. You will build credibility through structure, clarity, and socialization.
 
 
- (ref:hirist.tech)","Data Infrastructure and Analytics, Technology, Information and Internet, and Software Development","https://in.linkedin.com/company/starmark-services-pvt--ltd-","https://media.licdn.com/dms/image/v2/C4E0BAQGWfv6-XJkGSQ/company-logo_100_100/company-logo_100_100/0/1631347775245?e=2147483647&v=beta&t=CN-Zy2X9bZx057odIFKINHlfAGMY4RzhPH1C3MHHots","","","","",""
+**Key Responsibilities**
+* Apply technical data science expertise to support S\\&T AI solutions and products throughout the lifecycle of responsible AI governance and advise responsible AI adoption according to our Group RAI Standards and RAI governance process
+* Bias and fairness assessment and AI explainability: Design test cases, advise methods, and deploy methods, especially on fairness, data suitability, and explainability for AIML solutions to meet internal RAI standards. You will be expected to develop, advice, consult, and/or implement testing methods to identify and mitigate biases in datasets and AI models, minimizing unjust bias.
+* Create tools and processes to enhance the explainability of AI models, fostering transparency and trust in algorithm decision\\-making. Ensuring explainability in human factors along the AI adoption journey
+* Vendor liaison: Liaise and evaluate AI offerings and technical documentations of third\\-party enterprise AI vendors and internal AI vendors to inform business decision making and RAI governance
+* Review and validate AI use cases based on the applicable standards, assessments, and controls required to adhere to Responsible AI standards, uphold data and AI ethics, and other AI\\-related governance, including ongoing and future AI and data audits
+* Communicate AIML methods and data concepts in simple terms to non\\-technical stakeholders
+* Drive data and AI ethics awareness through data, insights, and/or use cases discussions with S\\&T stakeholders
+* Embed and advocate for human\\-centricity in AI solutions development and downstream impact on people and processes
+* Define impact metrics, measurements, and other levers of success for AI solutions and products impacting S\\&T business
+* Partner with Responsible AI, Technology, Cybersecurity, and other cross\\-functional teams to inform, influence, support, and execute S\\&T AI solution strategy and investment decisions
+* Proactively research to stay current on emerging trends, AI and data regulations, and best practices in RAI, actively proposing improvement and adaptations to our approach
+* Participate in strategic initiatives and working groups that set the pace for strategic directions on (gen)AI adoption
+
+
+**Regulatory and Business Conduct**
+* Display exemplary conduct and live by the Group’s Values and Code of Conduct.
+* Take personal responsibility for embedding the highest standards of ethics, including regulatory and business conduct, across Standard Chartered Bank. This includes understanding and ensuring compliance with, in letter and spirit, all applicable laws, regulations, guidelines and the Group Code of Conduct.
+* Effectively and collaboratively identify, escalate, mitigate and resolve risk, conduct and compliance matters.
+
+
+**Other Responsibilities**
+* Embed Here for good and Group’s brand and values in team
+* Perform other responsibilities assigned under Group, Country, Business or Functional policies and procedures
+* Multiple functions (double hats)
+
+
+**Skills And Experience**
+* Business Communication Skills
+* Critical thinking
+* Data Science, Statistics
+* ML, DL, NLP
+* SQL, Dataiku
+* Generative AI – LLMs, fine\\-tuning techniques
+* AI ethics
+* Specific skills – to craft out interview process and interview guides for interviewers later on:
+
+
+**Soft Skills**
+* Effective business communication skills including but not limited to vendor management, data translation, and data storytelling skills
+* Excellent change management and business process skills with ability to develop strategy, evaluate efficacy
+* Empathetic, growth mindset, human\\-centric approach, entrepreneurial spirit, resourceful, excellent cross\\-functional, interdisciplinary collaboration skills
+* Creative thinking, critical thinking, and conscientiousness
+
+
+**RAI Skills**
+* Knowledge of AI ethics, AI risk, human\\-centered AI, model and data governance practices and related business and technology issues related to enterprise\\-wide information
+* Awareness of best practices in testing bias, fairness and stability, and ability to understand results from risk management
+* Experience in industry best practices of model risk management and AI fairness and explainability, including model validation, reproducibility, statistical and engineering process control, quality assurance, and data/model shift
+
+
+**AIML domain expertise**
+* Real world experience with machine/deep learning, artificial intelligence, statistical analysis and modelling, natural language/computational linguistics, computer vision, signal processing, and/or generative AI, preferably in Python
+* MLOps and data engineering
+* Knowledge and experience with dataiku, databricks, MLOps, and both SQL and noSQL database design, queries, and storage
+
+
+**Qualifications**
+* 5\\+ years of work experience in a data science capacity
+* OR minimum of 3\\+ years of work experience in a data science capacity with a Doctorate in a quantitative discipline\\*
+* OR Field transfers from 4\\+ years of work experience in analytics, risks and governance, tech and operations, legal, and/or Data Privacy with a Masters, MPhil, or Ph.D. in a quantitative discipline\\* or 2\\+ equivalent data science work experience
+* Real world experience with machine/deep learning, artificial intelligence, statistical analysis and modelling, natural language/computational linguistics, computer vision, signal processing, and/or generative AI, preferably in Python
+* Aware of AI ethics, AI risk, human\\-centered AI, model and data governance practices and HR\\-related AI regulations and policies
+* Experience influencing and partnering with cross\\-functional stakeholders and third\\-party vendors
+* Effective business communication skills including but not limited to vendor management, data translation, and data storytelling skills
+* Bachelor’s degree in Computer Science, Data Science, Statistics, Artificial Intelligence
+* Preferred Qualifications
+* Masters, MPhil, or Doctorate degree in quantitative discipline\\* like Computer Science, Data Science, Statistics, Artificial Intelligence, Human\\-computer interaction, Computational Linguistics, Behavioral Sciences
+* Familiarity with legal and regulatory requirements related to AI
+* Hands\\-on experience on AI ethics and data ethics governance
+* Experience working in highly regulated industries like finance and healthcare
+* Practical experience with genAI (LLMs/RAG), agentic AI, dataiku, databricks, MLOps, and both SQL and noSQL database design, queries, and storage
+* 5\\+ years of work experience in Risk Management and Governace, Privacy, Security, Compliance, Investigations, Operations, Auditing, and/or Finances
+* Awareness of best practices in testing bias, fairness and stability, and ability to understand results from risk management
+* Experience in industry best practices of model risk management and AI fairness and explainability, including model validation, reproducibility, statistical and engineering process control, quality assurance, and data/model shift
+
+
+**About Standard Chartered**
+ We're an international bank, nimble enough to act, big enough for impact. For more than 170 years, we've worked to make a positive difference for our clients, communities, and each other. We question the status quo, love a challenge and enjoy finding new opportunities to grow and do better than before. If you're looking for a career with purpose and you want to work for a bank making a difference, we want to hear from you. You can count on us to celebrate your unique talents and we can't wait to see the talents you can bring us.
+   
+
+  
+
+ Our purpose, to drive commerce and prosperity through our unique diversity, together with our brand promise, to be here for good are achieved by how we each live our valued behaviours. When you work with us, you'll see how we value difference and advocate inclusion.
+   
+
+  
+
+**Together We**
+* Do the right thing and are assertive, challenge one another, and live with integrity, while putting the client at the heart of what we do
+* Never settle, continuously striving to improve and innovate, keeping things simple and learning from doing well, and not so well
+* Are better together, we can be ourselves, be inclusive, see more good in others, and work collectively to build for the long term
+
+
+**What We Offer**
+**In line with our Fair Pay Charter,** 
+ we offer a competitive salary and benefits to support your mental, physical, financial and social wellbeing.
+   
+
+  
+
+* Core bank funding for retirement savings, medical and life insurance, with flexible and voluntary benefits available in some locations.
+* Time\\-off including annual leave, parental/maternity (20 weeks), sabbatical (12 months maximum) and volunteering leave (3 days), along with minimum global standards for annual and public holiday, which is combined to 30 days minimum.
+* Flexible working options based around home and office locations, with flexible working patterns.
+* Proactive wellbeing support through Unmind, a market\\-leading digital wellbeing platform, development courses for resilience and other human skills, global Employee Assistance Programme, sick leave, mental health first\\-aiders and all sorts of self\\-help toolkits
+* A continuous learning culture to support your growth, with opportunities to reskill and upskill and access to physical, virtual and digital learning.
+* Being part of an inclusive and values driven organisation, one that embraces and celebrates our unique diversity, across our teams, business functions and geographies \\- everyone feels respected and can realise their full potential.","Banking","https://uk.linkedin.com/showcase/standard-chartered-life-and-careers/","https://media.licdn.com/dms/image/v2/C4D0BAQEkSZKDDU4sJQ/company-logo_100_100/company-logo_100_100/0/1630507876566/early_careers_standard_chartered_bank_logo?e=2147483647&v=beta&t=ToJ0EOClPh8ExQXM-GhhE71IO6EkwzCbtNCg_5fxuUA","","","","",""
