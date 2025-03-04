@@ -25,6 +25,8 @@ def show_homepage():
         st.image(app_image, width=300)
         st.markdown("</div>", unsafe_allow_html=True)
 
+        st.info("👋 Hey there! This AI demo is just an experiment for learning and sharing knowledge. It’s only live for a few days, so feel free to explore while it lasts!, and forget to give feedback")
+
         # Introduction
         st.header("What is JobAgent Application?")
         st.write("This application allows you to search, match, and prepare your resume for jobs.")
@@ -33,9 +35,10 @@ def show_homepage():
         st.header("How It Works")
         st.write("""
         1. The application first understands the uploaded resume.
-        2. Then it lets you collect publicly available jobs from various internet sources using jobspy open source library..
+        2. Then it lets you collect publicly available jobs from various internet sources using jobspy open source library.
         3. Later, the application analyzes what is missing in your resume and matches your resume against job requirements.
         4. Finally, it suggests updates to your resume if you qualify for relevant jobs.
+        5. ***The collected resume, jobs and updated resume only remains for the duration of session, Application is designed with a intent to not store any mentioned data***.
         """)
 
         # Process Flow

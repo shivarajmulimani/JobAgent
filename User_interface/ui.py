@@ -8,6 +8,7 @@ from User_interface.searchjobs_page import searchjobs_page
 from User_interface.collectedjobs_page import collectedjobs_page
 from User_interface.analysejobs_page import analysejobs_page
 from User_interface.updatedresume_page import updatedjobs_page
+from User_interface.feeback_page import feedback_page
 
 # Enable wide mode for better layout
 st.set_page_config(page_title="JobAgent Application", page_icon="🧑‍💼", layout="wide")
@@ -35,7 +36,8 @@ class UI:
                                  "Search jobs",
                                  "Job Market Insights Dashboard",
                                  "Analyse jobs with resume",
-                                 "Updated Resume"])
+                                 "Updated Resume",
+                                 "feedback page"])
         if page == "Home":
             show_homepage()
 
@@ -50,6 +52,9 @@ class UI:
 
         if page == "Updated Resume":
             updatedjobs_page()
+
+        if page == "feedback page":
+            feedback_page()
 
 
 if __name__ == "__main__":
