@@ -8,8 +8,6 @@ from wordcloud import WordCloud
 from babel.numbers import format_currency
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from utils import constants as CS
-from utils import stringcontants as SC
 
 def collectedjobs_page():
     try:
