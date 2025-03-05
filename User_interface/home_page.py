@@ -25,7 +25,7 @@ def show_homepage():
         st.image(app_image, width=300)
         st.markdown("</div>", unsafe_allow_html=True)
 
-        st.info("👋 Hey there! This AI demo is just an experiment for learning and sharing knowledge. It’s only live for a few days, so feel free to explore while it lasts!, and forget to give feedback")
+        st.info("👋 Hey there! This AI demo is just an experiment for learning and sharing knowledge. It’s only live for a few days, so feel free to explore while it lasts!, and do not forget to give feedback")
 
         # Introduction
         st.header("What is JobAgent Application?")

@@ -9,11 +9,6 @@ from utils import constants as CS
 from utils import stringcontants as SC
 from archestration.master import AgentArchestration
 
-# with open(SC.RESUME_DATA_FILE, 'r') as file:
-#     resume = file.read()
-# jobs = pd.read_json(SC.SCRAPED_JOBS_DATA_FILE_JSON)
-# jma = AgentArchestration(resume, jobs)
-
 def analysejobs_page():
     try:
         resume = st.session_state["file_content"]

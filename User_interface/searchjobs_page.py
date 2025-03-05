@@ -110,8 +110,9 @@ def searchjobs_page():
                             linkedin_fetch_description=CS.LINKED_FETCH_DESCRIPTION
                         )
                         scraper.scrape_jobs()
-                        scraper.save_to_csv()
-                        jobs_json = scraper.to_json()
+                        # scraper.save_to_csv()
+                        # jobs_json = scraper.to_json()
+                        jobs_json = scraper.jobs.to_json(orient="records", indent=4)
                         st.session_state["collected_jobs_json"] = jobs_json  # Save in session state
 
                 # ✅ Always display results if they exist, even after switching tabs
