@@ -103,6 +103,7 @@ if __name__ == "__main__":
     )
     scraper.scrape_jobs()
     # scraper.display_head()
-    scraper.save_to_csv()
-    jobs_json = scraper.to_json()
+    # scraper.save_to_csv()
+    # jobs_json = scraper.to_json()
+    jobs_json = scraper.jobs.to_json(orient="records", indent=4)
     print(pd.read_json(jobs_json))  # Print the JSON representation of the scraped jobs

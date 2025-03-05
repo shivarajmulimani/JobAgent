@@ -73,6 +73,7 @@ def updatedjobs_page():
             save_html_to_pdf(styled_html, UPDATED_RESUME_PATH)
 
             # Provide a download button
+            downloaded = False
             with open(UPDATED_RESUME_PATH, "rb") as pdf_file:
                 st.download_button(
                     label="Download Diff as PDF",
@@ -80,6 +81,13 @@ def updatedjobs_page():
                     file_name="updated_file.pdf",
                     mime="application/pdf"
                 )
+                downloaded = True
+
+            if downloaded and os.path.exists(UPDATED_RESUME_PATH):
+                os.remove(UPDATED_RESUME_PATH)
+                print("File deleted successfully.")
+            else:
+                print("File does not exist.")
 
     except Exception as e:
         print("failed to show updated jobs page - ", e)

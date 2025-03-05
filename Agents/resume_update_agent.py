@@ -23,8 +23,6 @@ class ResumeUpdateAgent:
         self.agent = Agent(name=CS.RESUME_UPDATE_AGENT_NAME,
                            introduction=CS.RESUME_UPDATE_AGENT_INTRODUCTION,
                            model=Gemini(id=AK.GEMINI_MODEL_CARD, api_key=AK.GEMINI_MODEL_API_KEY),
-                           # tools=[CsvTools(csvs=[csv_data])],
-                           # tools=[PandasTools()]
                            markdown=True,
                            debug_mode=False,
                            show_tool_calls=False,

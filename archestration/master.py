@@ -40,7 +40,7 @@ class AgentArchestration:
         except Exception as e:
             print("Failed to execute the agent - ", e)
 
-    def job_match_individual(self, id):
+    def job_match_individual(self, id, store_resume=False):
         try:
             response = dict()
             # Filter by a specific index
@@ -56,8 +56,9 @@ class AgentArchestration:
                 response['justification'] = match_response.content.justification
                 resume_update_response = self.resume_updating_agent.run_agent(match_response.content.justification)
                 response['updated resume'] = resume_update_response.content
-                filename = str(uuid.uuid4()) + ".txt"
-                write_to_file(filename, resume_update_response.content)
+                if store_resume:
+                    filename = str(uuid.uuid4()) + ".txt"
+                    write_to_file(filename, resume_update_response.content)
         except Exception as e:
             print(e)
         return response
