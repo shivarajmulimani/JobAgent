@@ -15,8 +15,18 @@ def get_base64_image(image_path):
 
 def show_homepage():
     try:
-        # Title
-        st.markdown("<h1 style='text-align: left;'>Welcome to the JobAgent Application</h1>", unsafe_allow_html=True)
+        st.markdown(
+            """
+            <div style="display: flex; align-items: center;">
+                <h1 style="text-align: left; margin-right: 15px;">Welcome to the JobAgent Application</h1>
+                <a href="https://github.com/shivarajmulimani/JobAgent" target="_blank">
+                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+                    <b>View on GitHub</b>
+                </a>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
 
         # Display App Image
         app_image = Image.open(SC.README_IMAGE_1_PATH)
@@ -25,7 +35,7 @@ def show_homepage():
         st.image(app_image, width=300)
         st.markdown("</div>", unsafe_allow_html=True)
 
-        st.info("👋 Hey there! This AI demo is just an experiment for learning and sharing knowledge. It’s only live for a few days, so feel free to explore while it lasts!, and do not forget to give feedback")
+        st.info("👋 Hey there! This demo is just an experiment for learning and sharing knowledge. It’s only live for a few days, so feel free to explore while it lasts!, and do not forget to give feedback")
 
         # Introduction
         st.header("What is JobAgent Application?")
