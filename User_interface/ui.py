@@ -11,7 +11,7 @@ from User_interface.updatedresume_page import updatedjobs_page
 from User_interface.feeback_page import feedback_page
 
 # Enable wide mode for better layout
-st.set_page_config(page_title="JobAgent Application", page_icon="🧑‍💼", layout="wide")
+st.set_page_config(page_title="JobAgent", page_icon="🧑‍💼", layout="wide")
 
 class UI:
     def __init__(self):
