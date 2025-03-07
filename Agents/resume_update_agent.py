@@ -3,13 +3,11 @@ import sys
 import pandas as pd
 from phi.agent import Agent, RunResponse
 from phi.model.google import Gemini
-from typing import List
 from pydantic import BaseModel, Field
 
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from utils import constants as CS
-from utils import api_keys as AK
 from utils import stringcontants as SC
 
 
@@ -22,7 +20,7 @@ class ResumeUpdateAgent:
         self.resume = resume
         self.agent = Agent(name=CS.RESUME_UPDATE_AGENT_NAME,
                            introduction=CS.RESUME_UPDATE_AGENT_INTRODUCTION,
-                           model=Gemini(id=AK.GEMINI_MODEL_CARD, api_key=AK.GEMINI_MODEL_API_KEY),
+                           model=Gemini(id=os.getenv("GEMINI_MODEL_CARD"), api_key=os.getenv("GEMINI_MODEL_API_KEY")),
                            markdown=True,
                            debug_mode=False,
                            show_tool_calls=False,

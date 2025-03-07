@@ -9,7 +9,6 @@ from pydantic import BaseModel, Field
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from utils import constants as CS
-from utils import api_keys as AK
 from utils import stringcontants as SC
 
 
@@ -23,7 +22,7 @@ class JobMatchingAgent:
         self.resume = resume
         self.agent = Agent(name=CS.JOB_MATCHING_AGENT_NAME,
                            introduction=CS.JOB_MATCHING_AGENT_INTRODUCTION,
-                           model=Gemini(id=AK.GEMINI_MODEL_CARD, api_key=AK.GEMINI_MODEL_API_KEY),
+                           model=Gemini(id=os.getenv("GEMINI_MODEL_CARD"), api_key=os.getenv("GEMINI_MODEL_API_KEY")),
                            # tools=[CsvTools(csvs=[csv_data])],
                            # tools=[PandasTools()]
                            markdown=False,
