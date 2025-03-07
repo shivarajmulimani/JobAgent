@@ -88,6 +88,8 @@ def updatedjobs_page():
                 print("File deleted successfully.")
             else:
                 print("File does not exist.")
+        else:
+            st.write("Please choose the job in 4 th option from left side menu")
 
     except Exception as e:
         print("failed to show updated jobs page - ", e)
