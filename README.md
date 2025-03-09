@@ -21,6 +21,7 @@ This application allows you to search, match and preparation of your resume for 
 
 <img src="flowchart.gif" alt="Process Flow Animation" width="500">
 
-## Get Started
-
-Use the navigation on the left to switch between different sections.
+## How to run
+1. <pre> pip install -r requirements.txt </pre>
+2. <pre> Set the environment variables for GEMINI_MODEL_CARD and GEMINI_MODEL_API_KEY </pre>
+3. <pre> streamlit run User_interface/ui.py </pre>
